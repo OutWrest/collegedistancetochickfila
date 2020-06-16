@@ -1,8 +1,11 @@
 from scrape import Scrape
+import re
 
 url = 'https://www.chick-fil-a.com/'
 endpoint = '/locations/browse/'
-state = 'al'
+states = []
+
+sc = Scrape(url)
 
 def parse_div(data):
     name = data.a.contents[0]
@@ -10,17 +13,19 @@ def parse_div(data):
     
     if '(' in address:
         address = address[:address.index('(')-1]
-    
 
     return [name, address]
 
+def scrapeState(state):
+    states.append(state)
+    locations = sc.scrape(endpoint+state, 'div', attrs={'class':'location'})
+    scraped = [parse_div(location) for location in locations]
 
-sc = Scrape(url)
+    return scraped
 
-locations = sc.scrape(endpoint+state, 'div', attrs={'class':'location'})
+every_chickfila_in_the_country = [scrapeState(state) for state in [re.search(r"\((.*)\)", str(state))[0].replace('(', '').replace(')', '').lower() for state in sc.scrape(endpoint, 'li') if state.a and state.a.has_attr('href') and '/locations/browse/' == state.a['href'][:len('/locations/browse/')]]]
 
-scraped = [parse_div(location) for location in locations]
-
-with open('chickfilas.txt', 'w') as f:
-    for item in scraped:
-        f.write("{}:{}\n".format(item[0], item[1]))
+with open('every_chickfila_in_the_country.txt', 'w') as f:
+    for i, state in enumerate(every_chickfila_in_the_country):
+        for store in state:
+            f.write("{}:{}:{}\n".format(states[i], store[0], store[1]))

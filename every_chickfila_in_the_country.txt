@@ -1,0 +1,2654 @@
+al:5 Points In-Line:2000 Highland Ave S Birmingham, AL 35205
+al:Airport Blvd (AL):4707 Airport Blvd Mobile, AL 36608
+al:Alabama Power:600 18th St N Birmingham, AL 35203
+al:Alabama State University:1055 Tullibody Dr John Garrick Hardy Student Center Montgomery, AL 36104
+al:Alabaster:125 Colonial Promenade Pkwy Alabaster, AL 35007
+al:Ann Street:915 Ann St Montgomery, AL 36107
+al:Athens (AL):1291 US Highway 72 E Athens, AL 35611
+al:Auburn Mall:1627 Opelika Rd Ste 54 Auburn, AL 36830
+al:Auburn University:255 Heisman Drive Stdent Center Auburn, AL 36849
+al:Auburn University - ARENA Concessions:Heisman Dr & Beard-Eves Ct Aurburn Arena Auburn, AL 36849
+al:Auburn University - Village Dining:230 Beard-Eaves Ct The Village View Dining Facility Auburn, AL 36849
+al:Bel Air Mall:3215C Bel Air Mall Mobile, AL 36606
+al:Birmingham-Shuttlesworth International Airport:5900 Messer Airport Hwy Suite #0034 Birmingham, AL 35212
+al:Brookwood Village Mall:746 Brookwood Vlg Birmingham, AL 35209
+al:Calera:64 Highway 304 Calera, AL 35040
+al:Cullman:1830 Cherokee Ave SW Cullman, AL 35055
+al:Daphne:1682 US Highway 98 Daphne, AL 36526
+al:Dauphin Street:3244 Dauphin St Mobile, AL 36606
+al:East Dothan:1905 E Main St Dothan, AL 36301
+al:EastChase:6921 Eastchase Loop Montgomery, AL 36117
+al:Eastdale Mall:1250 Eastdale Mall Montgomery, AL 36117
+al:Eastwood Village:1648 Montclair Rd Irondale, AL 35210
+al:Enterprise (AL):626 Boll Weevil Cir Enterprise, AL 36330
+al:Eufaula [AL]:900 S Eufaula Ave Eufaula, AL 36027
+al:Florence:341 Cox Creek Pkwy Florence, AL 35630
+al:Foley:3013 S McKenzie St Foley, AL 36535
+al:Fort Payne:1824 Glenn Blvd SW Fort Payne, AL 35968
+al:Fultondale:215 Howell St Fultondale, AL 35068
+al:Gadsden at 4th Street:1008 S 4th St Gadsden, AL 35901
+al:Gadsden Mall:1001 Rainbow Dr Ste 61 Gadsden, AL 35901
+al:Gardendale:385 Fieldstown Rd Gardendale, AL 35071
+al:Governors Drive:402 Governors Dr SW Huntsville, AL 35801
+al:Greystone:5375 Highway 280 Birmingham, AL 35242
+al:Guntersville:11488 US Highway 431 Guntersville, AL 35976
+al:Hampton Cove In-Line DT:6599 Highway 431 S Owens Cross Roads, AL 35763
+al:Hoover Commons:1609 Montgomery Hwy Hoover, AL 35216
+al:Inverness:4620 US 280 South Birmingham, AL 35242
+al:Jacksonville [AL]:500 Pelham Rd S Jacksonville, AL 36265
+al:Jacksonville State University:700 Pelham Rd N Jacksonville, AL 36265
+al:Jasper:1812 Highway 78 E Jasper, AL 35501
+al:Leeds:1808 Ashville Rd Leeds, AL 35094
+al:Madison (AL):7885 Highway 72 W Madison, AL 35758
+al:Magnolia Avenue:326 W Magnolia Ave Auburn, AL 36832
+al:McCalla:6000 Harris Ln Bessemer, AL 35022
+al:Midtown Plaza In-Line:1913 5th Ave N Birmingham, AL 35203
+al:Montgomery-Promenade:2682 Eastern Blvd Montgomery, AL 36117
+al:Muscle Shoals:511 Avalon Ave Muscle Shoals, AL 35661
+al:Northport:1620 McFarland Blvd Northport, AL 35476
+al:Oak Mountain:320 Cahaba Valley Rd Pelham, AL 35124
+al:Oxford:1205 AL Highway 21 S Oxford, AL 36203
+al:Oxford Mall:700 Quintard Dr Ste FC8 Oxford, AL 36203
+al:Parkway East:9345 Parkway E Birmingham, AL 35215
+al:Parkway Place:2801 Memorial Pkwy SW Ste 70 Huntsville, AL 35801
+al:Patton Creek:3020 John Hawkins Pkwy Hoover, AL 35244
+al:Pell City:1653 Martin St N Pell City, AL 35125
+al:Phenix City:3711 U S Hwy 280 Phenix City, AL 36867
+al:Prattville:1967 Cobbs Ford Rd Prattville, AL 36066
+al:Riverchase Galleria:2000 Riverchase Galleria Ste 158B Hoover, AL 35244
+al:Ross Clark Circle:3418 Ross Clark Cir Dothan, AL 36303
+al:RSA Battlehouse:12 N Royal St Mobile, AL 36602
+al:RSA Regions Tower:201 Monroe St Suite 162 Montgomery, AL 36104
+al:Samford University:800 Lakeshore Dr Birmingham, AL 35229
+al:Schillinger Road:435 Schillinger Rd S Mobile, AL 36695
+al:South Memorial Parkway:11820 Memorial Pkwy SW Huntsville, AL 35803
+al:Southeast Decatur:2502 Highway 31 S Decatur, AL 35603
+al:Southwest Decatur:1809 Beltline Rd SW Decatur, AL 35601
+al:Spanish Fort:30500 SR 181 Suite B Spanish Fort, AL 36527
+al:Sylacauga [AL]:75 MCS Blvd Sylacauga, AL 35150
+al:The Grove:5658 Grove Blvd Hoover, AL 35226
+al:TigerTown:2052 Tiger Town Pkwy Opelika, AL 36801
+al:Troy (AL):1121 Highway 231 S Troy, AL 36081
+al:Troy University:214 Adams Ctr Troy, AL 36082
+al:Trussville FSU (AL):5886 Trussville Crossings Pkwy Birmingham, AL 35235
+al:Tuscaloosa Drive-Thru Only:2014 McFarland Blvd E Tuscaloosa, AL 35404
+al:Tuscaloosa South:4900 Old Greensboro Rd Tuscaloosa, AL 35405
+al:University Drive:4733 University Dr NW Huntsville, AL 35816
+al:University Mall (AL):1701 McFarland Blvd E Ste 190 Tuscaloosa, AL 35404
+al:University of Alabama:1831 University Sta Ferguson Center Tuscaloosa, AL 35487
+al:University of Alabama - Huntsville:507 John Wright Dr Huntsville, AL 35805
+al:University of Alabama-Lloyd Hall:503 6th Ave Ne Lloyd Hall Tuscaloosa, AL 35404
+al:University of North Alabama:1 Harrison Plz Student Commons Building Florence, AL 35632
+al:University of South Alabama:350 Campus Dr Student Center Mobile, AL 36608
+al:Vestavia Hills:513 Montgomery Hwy Vestavia Hills, AL 35216
+al:Whitesburg Drive:4751 Whitesburg Dr SE Huntsville, AL 35802
+al:Wildwood Centre:211 Lakeshore Pkwy Homewood, AL 35209
+al:Wiregrass Commons Mall:900 Commons Dr Ste 407 Dothan, AL 36303
+az:89th & Shea:10652 N 89th Pl Scottsdale, AZ 85260
+az:Ahwatukee Foothills Town Center:5035 E Ray Rd Phoenix, AZ 85044
+az:Arcadia:4105 N 44th St Phoenix, AZ 85018
+az:Arizona & Ocotillo:3871 S Arizona Ave Chandler, AZ 85248
+az:Arizona State University:1290 S Normal Ave Memorial Union Building Tempe, AZ 85281
+az:Arizona State University - Downtown:120 E Taylor St Phoenix, AZ 85004
+az:Arizona State University - West Campus:4701 W Thunderbird Rd Poly-West Campus Glendale, AZ 85306
+az:Arrowhead:16657 N 83rd Ave Peoria, AZ 85382
+az:Avondale:10180 W McDowell Rd Avondale, AZ 85392
+az:Camelback & 16th Street:1601 E Camelback Rd Phoenix, AZ 85016
+az:Casa Grande:893 N Promenade Pkwy Casa Grande, AZ 85194
+az:Chandler Festival:2550 W Chandler Blvd Chandler, AZ 85224
+az:Crossroads Towne Center:2900 E Germann Rd Chandler, AZ 85286
+az:Deer Valley:3001 W Agua Fria Fwy Phoenix, AZ 85027
+az:El Con:3605 E Broadway Blvd Tucson, AZ 85716
+az:Flagstaff:1000 S Milton Rd Flagstaff, AZ 86001
+az:Gilbert Gateway Towne Center:4908 S Power Rd Mesa, AZ 85212
+az:Goodyear:1466 N Dysart Rd Goodyear, AZ 85395
+az:Grand Canyon University:3300 W Camelback Rd Thunder Alley Phoenix, AZ 85017
+az:Grand Canyon University - Diamondback Apartments:2945 West Colter Street Diamondback Apartments Phoenix, AZ 85017
+az:I-19 & Irvington:1188 W. Irvington Road Tucson, AZ 85714
+az:Ina at Thornydale:3943 W Ina Rd Tucson, AZ 85741
+az:Mesa Riverview:905 N Dobson Rd Mesa, AZ 85201
+az:Metrocenter:3111 W Peoria Ave Phoenix, AZ 85029
+az:Northern Arizona University:Nau Dining Flagstaff, AZ 86011
+az:Oracle Road:4585 N Oracle Rd Tucson, AZ 85705
+az:Paradise Valley:12031 N Tatum Blvd Phoenix, AZ 85028
+az:Power & McKellips:6707 E McKellips Rd Mesa, AZ 85215
+az:Prescott Valley Crossroads:5773 E State Route 69 Prescott Valley, AZ 86314
+az:Queen Creek:20455 E Rittenhouse Rd Queen Creek, AZ 85142
+az:Raintree Drive & 101:14995 N 87th St Scottsdale, AZ 85260
+az:San Tan Village Marketplace:2533 S Market St Gilbert, AZ 85295
+az:Scottsdale 101:7000 E Mayo Blvd Bldg 2 Phoenix, AZ 85054
+az:South Mountain:7650 S 24th Street Phoenix, AZ 85042
+az:Stapley Drive:1664 S Stapley Dr Mesa, AZ 85204
+az:Superstition Springs Center:6555 E Southern Ave Ste 2012 Mesa, AZ 85206
+az:Surprise Marketplace:13725 W Bell Rd Surprise, AZ 85374
+az:Tanque Verde:6675 E Grant Rd Tucson, AZ 85715
+az:Thunderbird:5908 W Thunderbird Rd Glendale, AZ 85306
+az:University at Mill:25 W University Dr Tempe, AZ 85281
+az:University of Arizona-SUMC:1303 E University Blvd Suite 149 Tucson, AZ 85719
+az:Yuma:1935 E 16th St Yuma, AZ 85365
+ar:Arkansas State University:105 North Caraway Jonesboro, AR 72401
+ar:Cantrell Road:11525 Cantrell Rd Little Rock, AR 72212
+ar:Chenal & Markham:12500 W Markham St Little Rock, AR 72211
+ar:Clinton National Airport:1 Airport Rd Little Rock, AR 72202
+ar:Conway Commons:1115 E Oak St Conway, AR 72032
+ar:Downtown Bentonville:209 S Walton Blvd Bentonville, AR 72712
+ar:Harding University:2700 Harding University Searcy, AR 72149
+ar:Henderson State University:1100 Henderson St Garrison Activity Conference Center Arkadelphia, AR 71999
+ar:Hot Springs:100 Cornerstone Blvd Hot Springs, AR 71913
+ar:Markham & University:6201 W Markham St Little Rock, AR 72205
+ar:Maumelle:113 Commons Dr Maumelle, AR 72113
+ar:McCain Boulevard:4320 E McCain Blvd North Little Rock, AR 72117
+ar:McCain Mall:3929 McCain Blvd North Little Rock, AR 72116
+ar:North College Avenue:4180 N College Ave Fayetteville, AR 72703
+ar:Northwest Arkansas Mall:Highway 471 Fayetteville, AR 72703
+ar:Otter Creek:2 Bass Pro Dr Little Rock, AR 72210
+ar:Ouachita Baptist University:410 Ouachita St Arkadelphia, AR 71998
+ar:Park Plaza:6000 W Markham St Little Rock, AR 72205
+ar:Pleasant Grove Road:2601 W Pleasant Grove Rd Rogers, AR 72758
+ar:Razorback Road:1369 W Martin Luther King Blvd Fayetteville, AR 72701
+ar:Reynolds Road:2232 N Reynolds Rd Bryant, AR 72022
+ar:Rogers Avenue:6810 Rogers Ave Fort Smith, AR 72903
+ar:Russellville:3089 E Main St Russellville, AR 72802
+ar:Searcy In-Line DT:3683 E Race Ave Searcy, AR 72143
+ar:Southern Arkansas University:100 E University Bruce Center Magnolia, AR 71753
+ar:Turtle Creek:1800 Red Wolf Blvd Jonesboro, AR 72401
+ar:University of Arkansas - Monticello:350 University Drive Student Success Center Monticello, AR 71655
+ar:University of Arkansas - Pine Bluff:1301 L A Prexy Davis Dr Pine Bluff, AR 71601
+ar:University of Arkansas-Fayetteville:435 N Garland Ave Ste 209 Fayetteville, AR 72701
+ar:University of Arkansas-Fort Smith:5210 Grand Ave Smith-Pendergraft Campus Center Fort Smith, AR 72904
+ar:University of Central Arkansas:201 Donaghey Ave Student Center Conway, AR 72035
+ar:Wal-Mart Headquarters:805 Moberly Ln David Glass Building Bentonville, AR 72712
+ar:West Conway:2510 Prince St Conway, AR 72034
+ar:West Memphis:206 W Service Road West Memphis, AR 72301
+ar:West Walnut:4001 W Walnut St Rogers, AR 72756
+ar:Whitaker Parkway:4893 W Pauline Whitaker Pkwy Rogers, AR 72758
+ca:101 & Telephone:1321 Eastman Ave Ventura, CA 93003
+ca:405 & Atlantic LB:3290 Atlantic Avenue Long Beach, CA 90807
+ca:405 at Jefferson (Los Angeles):11750 Jefferson Blvd Los Angeles, CA 90230
+ca:7th & Fig In-Line:660 S Figueroa St, Suite #100 Los Angeles, CA 90017
+ca:Aliso Viejo In-Line DT:26861 Aliso Creek Rd Aliso Viejo, CA 92656
+ca:Arden Fair:2101 Alta Arden Expy Sacramento, CA 95825
+ca:Auburn Gold Rush:2755 Grass Valley Hwy Auburn, CA 95603
+ca:Auto Mall Parkway:5539 Auto Mall Pkwy Fremont, CA 94538
+ca:Azusa:900 E Alosta Ave Azusa, CA 91702
+ca:Bakersfield:5260 Stockdale Hwy Bakersfield, CA 93309
+ca:Beach Boulevard:16388 Beach Blvd Westminster, CA 92683
+ca:Blackstone:8040 N Blackstone Ave Fresno, CA 93720
+ca:Blossom Hill & Almaden Expy:1162 Blossom Hill Rd San Jose, CA 95118
+ca:Bristol & MacArthur:3601 S Bristol St Santa Ana, CA 92704
+ca:Buena Park:8161 La Palma Ave Buena Park, CA 90620
+ca:California Baptist University:8432 Magnolia Ave Riverside, CA 92504
+ca:California Polytechnic State University:1 Grand Ave San Luis Obispo, CA 93407
+ca:Carmel Mountain:11670 Carmel Mountain Rd San Diego, CA 92128
+ca:Carson & Vermont:819 W Carson St Torrance, CA 90502
+ca:Central Ave. & Riverside Plaza:3640 Central Ave Riverside, CA 92506
+ca:Cerritos:18605 Gridley Rd Cerritos, CA 90703
+ca:Chino Hills:3640 Grand Ave Chino Hills, CA 91709
+ca:Citrus Plaza:27520 W Lugonia Ave Redlands, CA 92374
+ca:City of Industry:21550 Valley Blvd City Of Industry, CA 91789
+ca:Clairemont:5955 Balboa Ave San Diego, CA 92111
+ca:Colonies Crossroads:1949 N Campus Ave Upland, CA 91784
+ca:Crenshaw & Redondo Beach Blvd:16210 Crenshaw Blvd Gardena, CA 90249
+ca:Crossings at South Corona:3555 Grand Oaks Corona, CA 92881
+ca:Day Street:2885 Canyon Springs Pkwy Riverside, CA 92507
+ca:Del Amo In-Line:21821 Hawthorne Blvd Torrance, CA 90503
+ca:Del Rey & Lincoln Drive-Thru Only:4050 Lincoln Blvd Venice, CA 90292
+ca:Del Sur Town Center:17115 Camino Del Sur San Diego, CA 92127
+ca:Delta Shores:8104 Delta Shores Cir S Sacramento, CA 95832
+ca:Devonshire & Reseda:18521 Devonshire St Northridge, CA 91324
+ca:Dexter Avenue:18601 Dexter Ave Lake Elsinore, CA 92532
+ca:Downey:8613 Firestone Blvd Downey, CA 90241
+ca:E. Colorado Blvd:1700 E Colorado Blvd Pasadena, CA 91106
+ca:Eastlake Terraces:2089 Olympic Pkwy Chula Vista, CA 91915
+ca:El Camino Real at Scott:1950 El Camino Real Santa Clara, CA 95050
+ca:El Toro Road:24011 El Toro Rd Laguna Hills, CA 92653
+ca:Elk Grove Marketplace:8430 Bond Rd Elk Grove, CA 95624
+ca:Encinitas In-Line DT:194 N El Camino Real Encinitas, CA 92024
+ca:Enos Ranch:605 E Betteravia Rd Santa Maria, CA 93454
+ca:Escondido:1290 Auto Park Way Escondido, CA 92029
+ca:Fairfield In-Line DT:1750 Travis Blvd Fairfield, CA 94533
+ca:Fashion Fair:765 E Shaw Ave Fresno, CA 93710
+ca:Fashion Island Shopping Center:401 Newport Center Dr Ste A108 Newport Beach, CA 92660
+ca:First Street:53 Headquarters Dr San Jose, CA 95134
+ca:Folsom:2679 E Bidwell St Folsom, CA 95630
+ca:Foothill Ranch:26792 Portola Pkwy Foothill Ranch, CA 92610
+ca:Fullerton:151 E Orangethorpe Ave Fullerton, CA 92832
+ca:Glendora Commons In-Line DT:1247 S Lone Hill Ave Glendora, CA 91740
+ca:Granite Bay:4040 Douglas Blvd Granite Bay, CA 95746
+ca:Grossmont:8200 Parkway Dr La Mesa, CA 91942
+ca:Harbor Blvd:3181 Harbor Blvd Costa Mesa, CA 92626
+ca:Hidden Valley Parkway:450 Hidden Valley Pkwy Corona, CA 92879
+ca:Hollywood Drive-Thru Only:6750 W Sunset Blvd Los Angeles, CA 90028
+ca:Hopyard Road & 580:5785 Johnson Dr Pleasanton, CA 94588
+ca:Hwy 210 & Ayala Drive:1150 West Renaissance Parkway Rialto, CA 92376
+ca:Hwy 99 & Yosemite Ave:1405 E Yosemite Ave Manteca, CA 95336
+ca:I-10 & La Cienega:2310 S La Cienega Blvd Los Angeles, CA 90034
+ca:I-5 & Firestone:14303 Firestone Blvd La Mirada, CA 90638
+ca:Imperial & Bloomfield Norwalk:12555 Imperial Hwy Norwalk, CA 90650
+ca:La Habra Marketplace:1801 W Imperial Hwy La Habra, CA 90631
+ca:Laguna Niguel:28201 Crown Valley Pkwy Laguna Niguel, CA 92677
+ca:Lakewood:4895 Candlewood St Lakewood, CA 90712
+ca:Lincoln & Pacific Drive-Thru Only:2207 Lincoln Blvd Santa Monica, CA 90405
+ca:Long Beach:7681 Carson Blvd Long Beach, CA 90808
+ca:Long Beach Traffic Circle:4401 E Pacific Coast Hwy Long Beach, CA 90804
+ca:Los Angeles International Airport:1 World Way Terminal 1 Los Angeles, CA 90045
+ca:Madison Avenue:24794 Madison Ave Murrieta, CA 92562
+ca:Madison Avenue Sacramento:4644 Madison Ave Sacramento, CA 95841
+ca:March Lane at I-5:2628 W March Ln Stockton, CA 95207
+ca:Melrose Delivery:615 N Western Ave Los Angeles, CA 90004
+ca:Mendocino Avenue:1452 Mendocino Ave Santa Rosa, CA 95401
+ca:Mile of Cars Way:400 Mile of Cars Way National City, CA 91950
+ca:Mira Mesa:10750 Camino Ruiz San Diego, CA 92126
+ca:Mission Center Road:5323 Mission Center Rd San Diego, CA 92108
+ca:Monterey Park Market Place:5000 Market Place Dr Monterey Park, CA 91755
+ca:Monterey Road & Tully Road:2280 Monterey Hwy San Jose, CA 95112
+ca:Moorpark Road:449 N Moorpark Rd Thousand Oaks, CA 91360
+ca:Mowry Avenue:5245 Mowry Ave Fremont, CA 94538
+ca:North Orange:2575 N Tustin St Orange, CA 92865
+ca:Northridge:8875 Tampa Ave Northridge, CA 91324
+ca:Novato:35 Rowland Way Novato, CA 94945
+ca:Olive & Alameda In-Line:3113 W Olive Ave Burbank, CA 91505
+ca:Ontario Mills Parkway:4350 Ontario Mills Pkwy Ontario, CA 91764
+ca:Outlets at San Clemente:495 W Avenida Vista Hermosa San Clemente, CA 92672
+ca:Oxnard:2040 N Rose Ave Oxnard, CA 93036
+ca:Palmdale:732 W Rancho Vista Blvd Palmdale, CA 93551
+ca:PCH & Maple:740 N Pacific Coast Hwy El Segundo, CA 90245
+ca:Pleasant Grove:912 Pleasant Grove Blvd Roseville, CA 95678
+ca:Poway Road & Community:13464 Poway Rd Poway, CA 92064
+ca:Puente Hills:1542 S Azusa Ave City Of Industry, CA 91748
+ca:Quarry Creek:3475 Marron Rd Oceanside, CA 92056
+ca:Rancho Cucamonga:12190 Foothill Blvd Rancho Cucamonga, CA 91739
+ca:Redondo Beach:1919 Artesia Blvd Redondo Beach, CA 90278
+ca:Rivergate Cordova:2354 Sunrise Blvd Rancho Cordova, CA 95670
+ca:Rocklin Station:4600 Sierra College Blvd Rocklin, CA 95677
+ca:Rohnert Park:5080 Redwood Dr Rohnert Park, CA 94928
+ca:San Jose International Airport - Terminal B:1701 Airport Blvd Terminal B San Jose, CA 95110
+ca:San Marcos:587 Grand Ave San Marcos, CA 92078
+ca:Santa Barbara:3707 State St Santa Barbara, CA 93105
+ca:Santee:9418 Mission Gorge Rd Santee, CA 92071
+ca:Shops at Rossmoor:12101 Seal Beach Blvd Seal Beach, CA 90740
+ca:Sorrento Valley:9370 Scranton Rd San Diego, CA 92121
+ca:South Bay:18200 Hawthorne Blvd Torrance, CA 90504
+ca:Sports Arena:3570 Sports Arena Blvd San Diego, CA 92110
+ca:Sunnyvale:550 W El Camino Real Sunnyvale, CA 94087
+ca:Sycamore Square:2460 Sycamore Dr Simi Valley, CA 93065
+ca:Temecula:40531 Margarita Rd Temecula, CA 92591
+ca:The Brea Plaza In-Line DT:1647 E Imperial Hwy Brea, CA 92821
+ca:The District:2889 Park Ave Tustin, CA 92782
+ca:The Market Place:13490 Jamboree Rd Irvine, CA 92602
+ca:Topanga & Roscoe:8300 Topanga Canyon Blvd Canoga Park, CA 91304
+ca:UCLA In-Line:900 Westwood Blvd Los Angeles, CA 90024
+ca:University Center Irvine:4127 Campus Dr Irvine, CA 92612
+ca:USC In-Line:3758 S Figueroa St Los Angeles, CA 90007
+ca:Vacaville Commons:2081 Harbison Dr Vacaville, CA 95687
+ca:Valencia Town Center:24180 Magic Mountain Pkwy Santa Clarita, CA 91355
+ca:Vallejo:1191 Admiral Callaghan Ln Vallejo, CA 94591
+ca:Victory & Fallbrook:6400 Fallbrook Ave West Hills, CA 91307
+ca:Vincent & Lake:200 S Vincent Ave West Covina, CA 91790
+ca:Walnut Creek:2750 N Main St Walnut Creek, CA 94597
+ca:Western & Sierra Vista:1011 N Western Ave Los Angeles, CA 90029
+ca:Westfield Century City:10250 Santa Monica Blvd Ste FC4 Los Angeles, CA 90067
+ca:Westfield Santa Anita:400 S Baldwin Ave Arcadia, CA 91007
+ca:Westlake Village Drive-Thru Only:3771 E Thousand Oaks Blvd Westlake Village, CA 91362
+ca:Whipple & 101:536 Whipple Ave Redwood City, CA 94063
+ca:White Oak & Ventura:17660 Ventura Blvd Encino, CA 91316
+ca:Whittier Blvd & Rosemead:9001 Whittier Blvd Pico Rivera, CA 90660
+ca:Whittwood:15600 Whittier Blvd Whittier, CA 90603
+ca:Woodbury Town Center:6428 Irvine Blvd Irvine, CA 92620
+ca:Yorba Linda:22450 Old Canal Rd Yorba Linda, CA 92887
+co:104th & Federal:10280 Federal Blvd Denver, CO 80260
+co:120th & Washington:1301 E 120th Ave Thornton, CO 80233
+co:52nd and Wadsworth:5236 Wadsworth Byp Arvada, CO 80002
+co:Alameda Avenue:14310 E Alameda Ave Aurora, CO 80012
+co:Aspen Grove:7301 S Santa Fe Dr Unit 900 Littleton, CO 80120
+co:Belleview Shores:5260 S Wadsworth Blvd Littleton, CO 80123
+co:Belmar:565 S Vance St Lakewood, CO 80226
+co:Brighton:2035 Prairie Center Pkwy Brighton, CO 80601
+co:Broadway & Dartmouth:3085 S Broadway Englewood, CO 80113
+co:C470 & Kipling:9976 W Remington Pl Littleton, CO 80128
+co:Castle Rock:346 Metzler Dr Castle Rock, CO 80108
+co:Chambers and Parker Road:5600 S Parker Rd Aurora, CO 80015
+co:Chapel Hills Mall:1710 Briargate Blvd Ste 456 Colorado Springs, CO 80920
+co:Cherry Creek:430 S Colorado Blvd Denver, CO 80246
+co:Colfax & Garfield:3725 E Colfax Ave Denver, CO 80206
+co:Colorado Mesa University:1455 N 12th St University Center Grand Junction, CO 81501
+co:Denver International Airport:8500 Pena Blvd Denver, CO 80249
+co:Denver West:14730 W. Colfax Avenue Lakewood, CO 80401
+co:Dublin Commons:5905 Dublin Blvd Colorado Springs, CO 80923
+co:Flatiron:2580 Coalton Rd Superior, CO 80027
+co:Fort Collins:3605 S College Ave Fort Collins, CO 80525
+co:Fountain:7925 Fountain Mesa Rd Fountain, CO 80817
+co:Garden of the Gods:575 Garden of the Gods Rd Colorado Springs, CO 80907
+co:Gardens on Havana:1198 S Havana St Aurora, CO 80012
+co:Gateway Park:3444 N Salida Ct Aurora, CO 80011
+co:Grand Junction:522 Bogart Ln Grand Junction, CO 81505
+co:Greeley:4555 Centerplace Dr Greeley, CO 80634
+co:Greenwood Village:9331 E Arapahoe Rd Greenwood Village, CO 80112
+co:Hampden and I-25:7785 E Hampden Ave Denver, CO 80231
+co:Highlands Ranch Town Center:950 Cpl Max Donahue Ln Highlands Ranch, CO 80129
+co:I-25 & Harmony Rd:4531 Weitzel St Timnath CO80547 Timnath, CO 80547
+co:Larkridge:16670 Washington St Thornton, CO 80023
+co:Longmont:215 Ken Pratt Blvd Longmont, CO 80501
+co:Loveland:1545 Rocky Mountain Ave Loveland, CO 80538
+co:North Academy:7990 N Academy Blvd Colorado Springs, CO 80920
+co:North Carefree:3710 Bloomington St Colorado Springs, CO 80922
+co:Northgate:391 Spectrum Loop Colorado Springs, CO 80921
+co:Orchard Park Place:14275 Orchard Pkwy Westminster, CO 80023
+co:Park Meadows Mall:8515 Park Meadows Center Dr Ste 3018 Lone Tree, CO 80124
+co:Park Meadows on County Line Rd:9091 Westview Rd Lone Tree, CO 80124
+co:Parker:9335 Crown Crest Blvd Parker, CO 80138
+co:Promenade at Castle Rock:6353 Promenade Pkwy Castle Rock, CO 80108
+co:Pueblo:1535 W US Highway 50 Pueblo, CO 81008
+co:Quebec Street:3601 Quebec St Denver, CO 80207
+co:River Point:4090 River Point Pkwy Sheridan, CO 80110
+co:S. Colorado & Yale:2710 S Colorado Blvd Denver, CO 80222
+co:Sloan's Lake:1901 Sheridan Blvd Edgewater, CO 80214
+co:South Nevada Ave.:1620 S Nevada Ave Colorado Springs, CO 80905
+co:Southlands:24400 E Smoky Hill Rd Aurora, CO 80016
+co:Streets at Southglenn In-Line DT:6907 S University Blvd Ste 201 Centennial, CO 80122
+co:The Citadel:750 Citadel Dr E Ste 2252 Colorado Springs, CO 80909
+co:Town Center at Aurora:14200 E Alameda Ave Unit 2062 Aurora, CO 80012
+co:University and Highlands Ranch Pkwy:3700 E Highlands Ranch Pkwy Highlands Ranch, CO 80126
+co:Wadsworth Blvd at 80th Avenue:7809 Wadsworth Blvd Arvada, CO 80003
+ct:Brookfield:156 Federal Rd Brookfield, CT 06804
+ct:Danbury Fair Mall:7 Backus Ave Danbury, CT 06810
+ct:Enfield:25 Hazard Ave Enfield, CT 06082
+ct:Glastonbury:2941 Main St Glastonbury, CT 06033
+ct:Mohegan Sun Resort:1 Mohegan Sun Blvd Earth Concourse Uncasville, CT 06382
+ct:Newington:3240 Berlin Tpke Newington, CT 06111
+ct:North Haven:560 Universal Dr N North Haven, CT 06473
+ct:Norwalk:467 Connecticut Ave Norwalk, CT 06854
+ct:Southington (CT):801 Queen St Southington, CT 06489
+ct:Wallingford:1098 N Colony Rd Wallingford, CT 06492
+ct:West Hartford:509 New Park Ave West Hartford, CT 06110
+de:Bear:1101 Quintilio Dr Bear, DE 19701
+de:Camden Town Center:4044 S Dupont Hwy Camden, DE 19934
+de:Christiana:4657 Ogletown Stanton Rd Newark, DE 19713
+de:Christiana Mall:204 Christiana Mall Newark, DE 19702
+de:Concord Mall:4737 Concord Pike Ste 760 Wilmington, DE 19803
+de:Delaware State University:1200 N Dupont Hwy MLK Student Center Dover, DE 19901
+de:Middletown (DE):701 S Ridge Ave Middletown, DE 19709
+de:Milford Plaza:698 N Dupont Blvd # C Milford, DE 19963
+de:Millsboro:30141 Commerce Dr Millsboro, DE 19966
+de:North Dover:1440 N Dupont Hwy Dover, DE 19901
+de:Rehoboth Beach:19531 Coastal Hwy Rehoboth Beach, DE 19971
+de:Seaford:22932 Sussex Hwy Seaford, DE 19973
+de:University of Delaware:17 W Main Street Trabant University Center Newark, DE 19716
+fl:23rd & 77:2275 Martin Luther King Jr Blvd Panama City, FL 32405
+fl:Alico Road:9980 Interstate Commerce Dr Fort Myers, FL 33913
+fl:Altamonte Mall:451 E Altamonte Dr Altamonte Springs, FL 32701
+fl:Altamonte Springs:234 W State Road 436 Altamonte Springs, FL 32714
+fl:Altamonte Springs Drive-Thru Only:425 W State Road 436 Altamonte Springs, FL 32714
+fl:Amelia Island:464004 State Road 200 Yulee, FL 32097
+fl:Apalachee Parkway:2308 Apalachee Pkwy Tallahassee, FL 32301
+fl:Archer Road:3938 SW Archer Rd Gainesville, FL 32608
+fl:Atlantic & Hodges:13375 Atlantic Blvd Jacksonville, FL 32225
+fl:Atlantic Ave:4823 W Atlantic Ave Delray Beach, FL 33445
+fl:Aventura In-Line:21175 Biscayne Blvd Aventura, FL 33180
+fl:Avenues Mall:10300 Southside Blvd Ste 310 Jacksonville, FL 32256
+fl:Bayou Boulevard:5020 Bayou Blvd Pensacola, FL 32503
+fl:Beach & Hodges:13672 Beach Blvd Jacksonville, FL 32224
+fl:Beal Parkway:743 Beal Pkwy NW Fort Walton Beach, FL 32547
+fl:Bearss Avenue:3019 Cove Bend Dr Tampa, FL 33613
+fl:Black Lake & 192:7891 W Irlo Bronson Memorial Hwy Kissimmee, FL 34747
+fl:Boynton Beach Blvd.:1560 W Boynton Beach Blvd Boynton Beach, FL 33436
+fl:Bradfordville:3455 Bannerman Rd Tallahassee, FL 32312
+fl:Brandon South:2010 Bloomingdale Ave Valrico, FL 33596
+fl:Broward Mall:8000 W Broward Blvd Ste 5005 Plantation, FL 33388
+fl:Butler Pointe Plaza:7147 Philips Hwy Jacksonville, FL 32256
+fl:Capital Circle:3101 Capital Cir NE Tallahassee, FL 32308
+fl:Casselberry:80 Oxford Rd Fern Park, FL 32730
+fl:Celebration:6050 W Irlo Bronson Memorial Hwy Kissimmee, FL 34747
+fl:Clark Road:5330 Clark Rd Sarasota, FL 34233
+fl:Clearwater:2516 Gulf To Bay Blvd Clearwater, FL 33765
+fl:Coastland Center:1874 Tamiami Trl N Spc FC-7 Naples, FL 34102
+fl:Coconut Creek:4670 N State Road 7 Coconut Creek, FL 33073
+fl:Colonial Blvd.:4752 Colonial Blvd Fort Myers, FL 33966
+fl:Colonial Plaza Market Center:2448 E Colonial Dr Orlando, FL 32803
+fl:Coral Springs:1341 N University Dr Coral Springs, FL 33071
+fl:Cordova Mall (Inside):5100 N 9th Ave Rm J-928 Pensacola, FL 32504
+fl:Cortez Plaza:4573 14th St W Bradenton, FL 34207
+fl:Countryside & US Hwy 19:2525 Countryside Boulevard Clearwater, FL 33761
+fl:Creekwood:5206 73rd Ln E Bradenton, FL 34203
+fl:Crestview:3000 S Ferdon Blvd Crestview, FL 32536
+fl:Cypress Creek Town Center:2349 Sun Vista Dr Lutz, FL 33559
+fl:Cypress Lake:13610 S Tamiami Trl Fort Myers, FL 33912
+fl:Dadeland Mall:7535 N Kendall Dr Ste 1440A Miami, FL 33156
+fl:Davie North:1900 S University Dr Davie, FL 33324
+fl:Deland:2295 S Woodland Blvd Deland, FL 32720
+fl:Delray Beach:1800 S Federal Hwy Delray Beach, FL 33483
+fl:Destin:1063 Highway 98 E Destin, FL 32541
+fl:Doral:3995 NW 107th Ave Doral, FL 33178
+fl:E. Brandon/Valrico:1504 E Brandon Blvd Brandon, FL 33511
+fl:Eagle Harbor:1541 County Road 220 Fleming Island, FL 32003
+fl:Eastern Florida State College OSL:3865 N Wickham Rd Building 16 Melbourne, FL 32935
+fl:Edgewater:10 Indian River Boulevard Edgewater, FL 32141
+fl:Embry Riddle Aeronautical University:600 S Clyde Morris Blvd Daytona Beach, FL 32114
+fl:Enterprise Road Drive-Thru Only:26145 US Highway 19 N Clearwater, FL 33763
+fl:Estero:21900 S Tamiami Trl Estero, FL 33928
+fl:Feathersound:3423 Ulmerton Rd Clearwater, FL 33762
+fl:Flagler College:50 Sevilla St Ringhaver Student Center Saint Augustine, FL 32084
+fl:Flagler Park:9301 W Flagler St Miami, FL 33174
+fl:Florida A&M University:1510 Wahnish Way Rattlers' Nest Tallahassee, FL 32307
+fl:Florida Atlantic University:777 Glades Rd Boca Raton, FL 33431
+fl:Florida Gulf Coast University:10501 Fgcu Blvd S Student Union Building Fort Myers, FL 33965
+fl:Florida International University:885 Sw 109th Ave PG-5/Retail Miami, FL 33199
+fl:Florida State University:127 Honors Way Johnson Annex Building Tallahassee, FL 32306
+fl:Fort Lauderdale:2650 N Federal Hwy Fort Lauderdale, FL 33306
+fl:Fort Pierce:5560 Okeechobee Rd Fort Pierce, FL 34947
+fl:Four Corners:644 US Highway 27 Clermont, FL 34714
+fl:Fourth Street North:4241 4th St N Saint Petersburg, FL 33703
+fl:Fruitville Road:5384 Fruitville Rd Sarasota, FL 34232
+fl:Gandy Blvd:3678 W Gandy Blvd Tampa, FL 33611
+fl:Governors Square (FL):1500 Apalachee Pkwy Ste 1040 Tallahassee, FL 32301
+fl:Gulf Breeze:310 Gulf Breeze Pkwy Gulf Breeze, FL 32561
+fl:Hammock Ridge & Hwy 27:16110 Hammock Ridge Road Clermont, FL 34711
+fl:Hancock Rd. & Hwy. 50:2585 E Highway 50 Clermont, FL 34711
+fl:Hillsboro and Powerline:3648 W Hillsboro Blvd Deerfield Beach, FL 33442
+fl:Hunt Club:3050 E Semoran Blvd Apopka, FL 32703
+fl:I-4 & Hwy 27:43568 Highway 27 Davenport, FL 33837
+fl:Indian River Mall:6200 20th St Ste 476 Vero Beach, FL 32966
+fl:International Plaza Mall:2223 N West Shore Blvd Ste FC202 Tampa, FL 33607
+fl:International Speedway:100 N Williamson Blvd Daytona Beach, FL 32114
+fl:Jacksonville University:2800 University Blvd N Davis Student Commons Jacksonville, FL 32211
+fl:Kirkman and Conroy Road:4752 S Kirkman Rd Orlando, FL 32811
+fl:Kissimmee:4450 W Vine St Kissimmee, FL 34746
+fl:Lake Brandon Village:11325 Causeway Blvd Brandon, FL 33511
+fl:Lake Buena Vista:13448 State Road 535 Orlando, FL 32821
+fl:Lake City:3200 W US Highway 90 Lake City, FL 32055
+fl:Lake Mary Blvd.:4420 W Lake Mary Blvd Lake Mary, FL 32746
+fl:Lake Nona:12801 Narcoossee Rd Orlando, FL 32832
+fl:Lake Worth South:6275 Lantana Rd Lee Square Shopping Center Greenacres, FL 33463
+fl:Lakeland Square:3800 US Highway 98 N Ste 692 Lakeland, FL 33809
+fl:Largo:10075 Ulmerton Rd Largo, FL 33771
+fl:Lauderhill:8190 W Commercial Blvd Tamarac, FL 33351
+fl:Lee Vista:6350 S Semoran Blvd Orlando, FL 32822
+fl:Maitland Boulevard:8673 Summit Centre Way Orlando, FL 32810
+fl:Malabar Road:1130 Malabar Rd SE Palm Bay, FL 32907
+fl:Mandarin:3280 Oak Bluff Ln Jacksonville, FL 32257
+fl:Marsh Landing Pkwy:590 Marsh Landing Pkwy Jacksonville Beach, FL 32250
+fl:Melbourne Square:1700 W New Haven Ave Ste 407 Melbourne, FL 32904
+fl:Merritt Island:785 E Merritt Island Cswy Merritt Island, FL 32952
+fl:Merritt Square Mall:777 E Merritt Island Cswy Suite #164 Merritt Island, FL 32952
+fl:Miami Lakes:16100 NW 57th Ave Miami Lakes, FL 33014
+fl:Middleburg:1710 Blanding Blvd Middleburg, FL 32068
+fl:Mitchell Ranch Plaza:9040 State Road 54 Trinity, FL 34655
+fl:Mt. Dora:17240 US Highway 441 Mount Dora, FL 32757
+fl:Naples Center:5825 Airport Pulling Rd N Naples, FL 34109
+fl:Navy Blvd:510 N Navy Blvd Pensacola, FL 32507
+fl:New Tampa at I-75:17513 Bruce B Downs Blvd Tampa, FL 33647
+fl:Niceville:1348 John Sims Pkwy E Niceville, FL 32578
+fl:Nine Mile Road:1757 E Nine Mile Rd Pensacola, FL 32514
+fl:North Dale Mabry:15801 N Dale Mabry Hwy Carrollwood, FL 33618
+fl:North Lakeland:4132 US Highway 98 N Lakeland, FL 33809
+fl:North Monroe Street:2136 N Monroe St Tallahassee, FL 32303
+fl:Northlake Boulevard:1262 Northlake Blvd Lake Park, FL 33403
+fl:Oakleaf Town Center:9630 Applecross Rd Jacksonville, FL 32222
+fl:Oaks Mall:6419 W Newberry Rd Ste G8 Gainesville, FL 32605
+fl:Ocala:3445 SW College Rd Ocala, FL 34474
+fl:Ocoee:10620 W Colonial Dr Ocoee, FL 34761
+fl:Okeechobee and Turnpike:6060 Okeechobee Blvd West Palm Beach, FL 33417
+fl:Oldsmar:3740 Tampa Rd Oldsmar, FL 34677
+fl:Orange Avenue:2885 S Orange Ave Orlando, FL 32806
+fl:Orange Park Mall:1910 Wells Rd Orange Park, FL 32073
+fl:Orlando Ave. at Fairbanks:700 S Orlando Ave Winter Park, FL 32789
+fl:Orlando International Airport:9333 Airport Blvd HMS Host Orlando, FL 32827
+fl:Orlando Square:1800 Sand Lake Rd Orlando, FL 32809
+fl:Ormond Towne Square:1464 W Granada Blvd Ormond Beach, FL 32174
+fl:Ortega Park:4495 Roosevelt Blvd Ste 601 Jacksonville, FL 32210
+fl:Oviedo Mall:1610 Oviedo Mall Blvd Oviedo, FL 32765
+fl:Oviedo/North UCF:32 E Mitchell Hammock Rd Oviedo, FL 32765
+fl:Paddock Mall:3100 SW College Rd 210 Paddock Mall Ocala, FL 34474
+fl:Palm Bay Road:835 Palm Bay Rd NE Melbourne, FL 32904
+fl:Palm Beach Atlantic University:1100 N Dixie Hwy West Palm Beach, FL 33401
+fl:Palm Beach Lakes Blvd.:2070 Palm Beach Lakes Blvd West Palm Beach, FL 33409
+fl:Palm Coast:1000 Palm Coast Pkwy NW Palm Coast, FL 32137
+fl:Palm Harbor:32800 US Highway 19 N Palm Harbor, FL 34684
+fl:Panama City:661 N Highway 231 Panama City, FL 32405
+fl:Panama City Beach:11428 Panama City Beach Pkwy Panama City, FL 32407
+fl:Panama City Mall:2238 Cove Blvd Panama City, FL 32405
+fl:Park Place:7020 Us Highway 19 N Pinellas Park, FL 33781
+fl:Pelican Plaza:8420 S Tamiami Trl Sarasota, FL 34238
+fl:Pembroke Lakes Mall:11401 Pines Blvd Ste 466 Pembroke Pines, FL 33026
+fl:Pensacola Christian College:250 Brent Ln Pensacola, FL 32503
+fl:Pensacola International Airport:2430 Airport Blvd Pensacola, FL 32504
+fl:Pine Island Road:1790 NE Pine Island Rd Cape Coral, FL 33909
+fl:Pines and Flamingo:12203 Pines Blvd Pembroke Pines, FL 33026
+fl:Pompano Beach:2250 N Federal Hwy Pompano Beach, FL 33062
+fl:Port Charlotte:1814 Tamiami Trl Port Charlotte, FL 33948
+fl:Port Orange Gateway Center:1761 Dunlawton Ave Port Orange, FL 32127
+fl:Regency Park:9398 Atlantic Blvd Jacksonville, FL 32225
+fl:River City Marketplace:14020 Lunar Dr Jacksonville, FL 32218
+fl:Royal Palm Beach:206 S State Road 7 Western Plaza - Home Depot Shopping Center West Palm Beach, FL 33414
+fl:Sand Lake Road:7333 W Sand Lake Rd Orlando, FL 32819
+fl:Sanford (FL):4590 W State Road 46 Sanford, FL 32771
+fl:Sawgrass Square:12600 W Sunrise Blvd Sunrise, FL 33323
+fl:Saxon Boulevard:1141 Saxon Blvd Orange City, FL 32763
+fl:Seminole Plaza:10790 Park Blvd Seminole, FL 33772
+fl:Seminole Towne Center:260 Towne Center Cir Sanford, FL 32771
+fl:Shands Hospital (Sun Terrace)-Gainesville:114 Recreational Dining Ctr Gator Dining Service Gainesville, FL 32611
+fl:South Dale Mabry:609 S Dale Mabry Hwy Tampa, FL 33609
+fl:South Florida Avenue:4625 S Florida Ave Lakeland, FL 33813
+fl:South Walton:52 Scenic Gulf Dr Miramar Beach, FL 32550
+fl:Southchase Plaza:13085 S Orange Blossom Trl Orlando, FL 32837
+fl:Southeastern University:1000 Longfellow Blvd Pansler Alumni Student Center Lakeland, FL 33801
+fl:Southside Blvd at the Avenues:9980 Southside Blvd Jacksonville, FL 32256
+fl:Southside Blvd at Tinseltown:4461 Southside Blvd Jacksonville, FL 32216
+fl:Spring Hill:13143 Cortez Blvd Brooksville, FL 34613
+fl:St. Augustine:1752 US Highway 1 S Saint Augustine, FL 32084
+fl:St. Cloud:4360 13th St Saint Cloud, FL 34769
+fl:St. Johns Town Center:4625 Town Center Pkwy Jacksonville, FL 32246
+fl:St. Lucie West:1611 NW St Lucie W Blvd Port Saint Lucie, FL 34986
+fl:St. Pete Beach:4623 Gulf Blvd Saint Petersburg, FL 33706
+fl:St. Vincent's Medical Center:1 Shircliff Way New Hospital Cafe Jacksonville, FL 32204
+fl:Stanford Station Shopping Center:900 W 23rd St Panama City, FL 32405
+fl:Stuart:2930 SE Federal Hwy Stuart, FL 34994
+fl:Tampa International Airport-Airside A:4100 George J Bean Pkwy Airside A Tampa, FL 33607
+fl:Tampa International Airport-Main Terminal:4100 George J Bean Pkwy Main Terminal Tampa, FL 33607
+fl:Tampa Stadium:2551 N Dale Mabry Hwy Tampa, FL 33607
+fl:Temple Terrace:5302 E Fowler Ave Temple Terrace, FL 33617
+fl:The Fountains of Miramar:3211 SW 160th Ave Miramar, FL 33027
+fl:The Gardens:3101 Pga Blvd Ste L209 Palm Beach Gardens, FL 33410
+fl:The Loop:3286 N John Young Pkwy Kissimmee, FL 34741
+fl:The Mall at Millenia:4200 Conroy Rd Ste 245 Orlando, FL 32839
+fl:The Mall at Wellington Green:10300 Forest Hill Blvd Ste FC108 Wellington, FL 33414
+fl:The Ridge:5023 Highway 90 Pace, FL 32571
+fl:The Standard In-Line:1340 W University Ave Suite 10 Gainesville, FL 32603
+fl:The Villages:730 N US Highway 441 The Villages, FL 32159
+fl:Town Center at Boca Raton:6000 Glades Rd Ste 1166C Boca Raton, FL 33431
+fl:Treasure Coast Square:3278 NW Federal Hwy Jensen Beach, FL 34957
+fl:Tuskawilla Road:1455 Tuskawilla Rd Winter Springs, FL 32708
+fl:Tyndall Parkway:401 N Tyndall Pkwy Panama City, FL 32404
+fl:Tyrone Boulevard:2471 Tyrone Blvd N Saint Petersburg, FL 33710
+fl:Tyrone Square Mall:2257 Tyrone Sq Saint Petersburg, FL 33710
+fl:University at Forsyth:3391 University Blvd Winter Park, FL 32792
+fl:University at Rouse:11350 University Blvd Orlando, FL 32817
+fl:University of Central Florida:4000 Central Florida Blvd Src 109, UCF Dining Services Orlando, FL 32816
+fl:University of Florida:114 Recreational Dining Ctr Gator Dining Service Gainesville, FL 32611
+fl:University of Florida-Broward Complex:60 Inner Rd Broward Dining Complex Gainesville, FL 32611
+fl:University of North Florida:1 U N F Dr Jacksonville, FL 32224
+fl:University of South Florida:4202 E Fowler Ave CTR 152 Tampa, FL 33620
+fl:University of Tampa:401 W Kennedy Blvd Tampa, FL 33606
+fl:University of West Florida:1100 University Pkwy Pensacola, FL 32514
+fl:Uptown District:2811 E Fowler Ave Tampa, FL 33612
+fl:UTC:5489 University Parkway Sarasota, FL 34243
+fl:Vero Beach:6020 Elon Ln Vero Beach, FL 32966
+fl:Viera:8300 N Wickham Rd Melbourne, FL 32940
+fl:Waterford Lakes Town Center:633 N Alafaya Trl Orlando, FL 32828
+fl:Waters Ave.:6299 W Waters Ave Tampa, FL 33634
+fl:Wells Road:1925 Wells Rd Orange Park, FL 32073
+fl:Wesley Chapel (FL):28295 State Road 54 Wesley Chapel, FL 33543
+fl:West Tennessee Street:1775 W Tennessee St Tallahassee, FL 32304
+fl:Westfield Brandon:519 Brandon Town Center Mall Brandon, FL 33511
+fl:Westfield Citrus Park:8019 Citrus Park Town Center Mall Tampa, FL 33625
+fl:Westfield Countryside Mall:27001 US Highway 19 N Ste 2089 Clearwater, FL 33761
+fl:Westfield Sarasota Square Mall:8201 S Tamiami Trl Sarasota, FL 34238
+fl:Weston:15990 SW 41st St Davie, FL 33331
+fl:Westshore Plaza:241 Westshore Plz # A Tampa, FL 33609
+fl:Winter Garden:3166 Daniels Rd Winter Garden, FL 34787
+fl:Winter Haven:143 Landings Blvd Winter Haven, FL 33880
+fl:WTS & Stadium Drive:1650 W Tennessee St Tallahassee, FL 32304
+ga:Abercorn:11152 Abercorn St Savannah, GA 31419
+ga:Acworth:3295 Cobb Pkwy NW Acworth, GA 30101
+ga:Akers Mill Drive-Thru Only:2975 Cobb Pkwy SE Atlanta, GA 30339
+ga:Albany:2609 Dawson Rd Albany, GA 31707
+ga:Albany Mall:2601 Dawson Rd Albany, GA 31707
+ga:Albany State University:504 College Dr Student Center Albany, GA 31705
+ga:Alpharetta Commons:4285 State Bridge Rd Alpharetta, GA 30022
+ga:Arbor Place:6700 Douglas Blvd Ste 210 Douglasville, GA 30135
+ga:AT&T Center:725 W Peachtree St NE Suite B-40 Atlanta, GA 30308
+ga:Athens/Atlanta Highway:3637 Atlanta Hwy Athens, GA 30606
+ga:Augusta Exchange:202 Robert C Daniel Jr Pkwy Augusta, GA 30909
+ga:Augusta Mall:3450 Wrightsboro Rd Augusta, GA 30909
+ga:Austell Road:3951 Austell Rd Austell, GA 30106
+ga:Avalon:2720 Old Milton Pkwy Alpharetta, GA 30009
+ga:Bainbridge:1451 Tallahassee Hwy Bainbridge, GA 39819
+ga:Bankhead Hwy:1156 Bankhead Hwy Carrollton, GA 30116
+ga:Barnett Shoals:1870 Barnett Shoals Rd Athens, GA 30605
+ga:Barrett Parkway:830 Ernest W Barrett Pkwy NW Kennesaw, GA 30144
+ga:Bass Road:1569 Bass Rd Macon, GA 31210
+ga:Beechwood:196 Alps Rd Athens, GA 30606
+ga:Berry College:2277 Martha Berry Hwy Nw Krannert Student Center Mount Berry, GA 30149
+ga:Blairsville:152 Highway 515 E Blairsville, GA 30512
+ga:Bloomfield Road Drive-Thru Only:3745 Bloomfield Rd Macon, GA 31206
+ga:Bradley Park Drive:1600 Bradley Park Dr Columbus, GA 31904
+ga:Braselton:2600 Old Winder Hwy Braselton, GA 30517
+ga:Brookstone:1790 Mars Hill Rd NW Acworth, GA 30101
+ga:Brunswick (GA):70 Golden Isles Plz Brunswick, GA 31520
+ga:Byron [GA]:402 GA Highway 49 N Byron, GA 31008
+ga:Calhoun:495 Highway 53 E Calhoun, GA 30701
+ga:Camp Creek Parkway:3410 Camp Creek Pkwy Atlanta, GA 30344
+ga:Canton Marketplace:2048 Cumming Hwy Canton, GA 30114
+ga:Carrollton:1316 South Highway 27 Carrollton, GA 30116
+ga:Cascade Road:3725 Cascade Rd SW Atlanta, GA 30331
+ga:Chamblee Plaza:5450 Peachtree Industrial Blvd Chamblee, GA 30341
+ga:Chastain Road In-Line DT:600 Chastain Rd NW Ste 100 Kennesaw, GA 30144
+ga:Chastain Square:4285 Roswell Rd NE Atlanta, GA 30342
+ga:Cherokee Place:115 Cherokee Pl Cartersville, GA 30121
+ga:Clayton:151 Highway 441 N Clayton, GA 30525
+ga:Cleveland (GA):25 W Underwood St Cleveland, GA 30528
+ga:Cleveland Avenue:1065 Cleveland Ave East Point, GA 30344
+ga:CNN Center:1 Cnn Ctr NW Ste 224 Atlanta, GA 30303
+ga:College Football Hall of Fame:256 Marietta St NW Atlanta, GA 30313
+ga:Colony Square:1175 Peachtree St NE Suite 110 Atlanta, GA 30361
+ga:Columbus Park Crossing:5520 Whittlesey Blvd Columbus, GA 31909
+ga:Columbus State University:4225 University Ave Davidson Student Center Columbus, GA 31907
+ga:Commerce:30563 Highway 441 S Commerce, GA 30529
+ga:Commerce Avenue:116 Commerce Ave Lagrange, GA 30241
+ga:Conyers:1610 Highway 138 SE Conyers, GA 30013
+ga:Cordele:1711 E 16th Ave Cordele, GA 31015
+ga:Cornelia:330 Furniture Plaza Dr Cornelia, GA 30531
+ga:Covington (GA):4102 Highway 278 NW Covington, GA 30014
+ga:Coweta Crossroads:5 Glenda Trce Newnan, GA 30265
+ga:Cumberland Mall:2860 Cumberland Mall SE Ste 1324 Atlanta, GA 30339
+ga:Dacula:545 Dacula Rd Dacula, GA 30019
+ga:Dahlonega:488 Morrison Moore Pkwy E Dahlonega, GA 30533
+ga:Dallas (GA):300 Charlie Watts Dr Dallas, GA 30157
+ga:Dalton:1517 W Walnut Ave Dalton, GA 30720
+ga:Dalton Mall:816 Walnut Square Blvd Ste 59 Dalton, GA 30721
+ga:Dawsonville:231 Power Center Dr Dawsonville, GA 30534
+ga:Delta Air Lines Headquarters:1030 Delta Blvd Atlanta, GA 30354
+ga:Doraville Plaza:5700 Buford Hwy Ne Doraville, GA 30340
+ga:Douglasville:3202 Highway 5 Douglasville, GA 30135
+ga:Downtown Athens In-Line:101 College Ave Athens, GA 30601
+ga:Downtown Decatur:105 E Trinity Pl Decatur, GA 30030
+ga:Dublin:2002 Veterans Blvd Dublin, GA 31021
+ga:Dwarf House Chick-fil-A Classics Mt. Berry Square:726 Mount Berry Sq Ne Rome, GA 30165
+ga:Dwarf House Shipping Container Drive-Thru:315 Riverside Pkwy Ne Rome, GA 30161
+ga:Eagles Landing:1275 Eagles Landing Pkwy Stockbridge, GA 30281
+ga:East Lake:2105 Roswell Rd Marietta, GA 30062
+ga:Eisenhower Parkway:5055 Brookhaven Rd Macon, GA 31206
+ga:Ellijay:475 Howard Simmons Rd Ellijay, GA 30540
+ga:Emory Decatur Hospital:2701 N Decatur Rd Decatur, GA 30033
+ga:Epps Bridge:1870 Epps Bridge Pkwy Athens, GA 30606
+ga:Fairburn:7810 Senoia Rd Fairburn, GA 30213
+ga:Fairburn Road Drive-Thru Only:5888 Fairburn Rd Douglasville, GA 30134
+ga:Fayetteville Dwarf House:221 Banks Sta Fayetteville, GA 30214
+ga:Fayetteville Towne Center:875 Glynn St S Fayetteville, GA 30214
+ga:Forest Park Dwarf House:4959 Jonesboro Rd Forest Park, GA 30297
+ga:Fort Oglethorpe:1137 Battlefield Pkwy Fort Oglethorpe, GA 30742
+ga:Fort Valley State University:1005 State University Dr Student Center Fort Valley, GA 31030
+ga:GA World Congress Center OSL:285 Andrew Young International Blvd NW Atlanta, GA 30313
+ga:Gainesville West:805 Dawsonville Hwy Gainesville, GA 30501
+ga:Georgia Building Authority:1 Martin Luther King Jr Dr Sw Atlanta, GA 30334
+ga:Georgia College and State University:231 W Hancock St MSU Building Milledgeville, GA 31061
+ga:Georgia Gwinnett College:1000 University Center Ln Building-A Food Court Lawrenceville, GA 30043
+ga:Georgia Southern University:8107 Russell Un Statesboro, GA 30460
+ga:Georgia Southern University - Armstrong Campus:11935 Abercorn St MCC Student Union Savannah, GA 31419
+ga:Georgia Southwestern State University:800 Gsw State University Dr Canes Den Student Center Americus, GA 31709
+ga:Georgia State University:66 Courtland Street Atlanta, GA 30303
+ga:Georgia Tech:350 Ferst Dr Atlanta, GA 30332
+ga:Glenwood Place:401 Bill Kennedy Way SE Atlanta, GA 30316
+ga:Grady Memorial Hospital:80 Jesse Hill Jr Dr Se Atlanta, GA 30303
+ga:Greenbriar Mall (GA):2841 Greenbriar Pkwy SW Atlanta, GA 30331
+ga:Griffin:1000 W Taylor St Griffin, GA 30223
+ga:Grovetown:210 Meridian Dr Grovetown, GA 30813
+ga:Gulfstream Aerospace - Completions Cafe:500 Gulfstream Rd Completions Cafe Savannah, GA 31408
+ga:Gulfstream Aerospace Completions Cafe OSL:500 Gulfstream Rd Savannah, GA 31408
+ga:Gulfstream Aerospace Northwest Cafe OSL:103 Airways Ave Savannah, GA 31408
+ga:Hamilton Mill:2635 Hamilton Mill Rd Buford, GA 30519
+ga:Hapeville Dwarf House:461 N Central Ave Hapeville, GA 30354
+ga:Hartsfield-Jackson Atlanta Int'l Airport - Conc A:6000 N Terminal Pkwy Concourse A Atlanta, GA 30320
+ga:Hartsfield-Jackson Atlanta Int'l Airport - Conc C:7700 Spine Rd Rm TS3-3 Atlanta, GA 30320
+ga:Hickory Flat:6114 Hickory Flat Hwy Canton, GA 30115
+ga:Hinesville:877 W Oglethorpe Hwy Hinesville, GA 31313
+ga:Hiram:4326 Jimmy Lee Smith Pkwy Hiram, GA 30141
+ga:Houston County Galleria:2922 Watson Blvd Ste 840 Centerville, GA 31028
+ga:Howell Mill:1942 Howell Mill Rd NW Atlanta, GA 30318
+ga:Jesse Jewell Parkway:1917 NE Jesse Jewell Parkway Gainesville, GA 30501
+ga:Jett Ferry Road:2480 Jett Ferry Rd Dunwoody, GA 30338
+ga:Jimmy Carter Blvd.:5455 Jimmy Carter Blvd Norcross, GA 30093
+ga:Johns Creek:3643 Peachtree Pkwy Suwanee, GA 30024
+ga:Jonesboro Dwarf House:7348 Tara Blvd Jonesboro, GA 30236
+ga:Kedron Village:1100 N Peachtree Pkwy Peachtree City, GA 30269
+ga:Kennesaw State University:395 Cobb Ave Nw Kennesaw, GA 30144
+ga:Kennesaw State University - Marietta:1100 S Marietta Pkwy Se Marietta, GA 30060
+ga:Kingsland:1369 GA Highway 40 E Kingsland, GA 31548
+ga:Kroger/W. Marietta Crossing:1000 Whitlock Ave Nw c/o Kroger Store GA-455 Marietta, GA 30064
+ga:LaFayette Parkway:1574 Lafayette Pkwy Lagrange, GA 30241
+ga:Lake Dow:860 Highway 81 E Mcdonough, GA 30252
+ga:Lake Oconee [GA]:2521 Towne Center Parkway Greensboro, GA 30642
+ga:Lake Park:1015 Lakes Blvd Lake Park, GA 31636
+ga:LakePoint:94 Old Allatoona Rd SE Cartersville, GA 30121
+ga:Lanier Crossing:653 Atlanta Rd Cumming, GA 30040
+ga:Lassiter:3046 Shallowford Rd Marietta, GA 30062
+ga:Lavonia [GA]:20 Owens Dr Lavonia, GA 30553
+ga:Lee Crossings:1202 US Highway 19 S Leesburg, GA 31763
+ga:Lenox Square:3393 Peachtree Rd NE Atlanta, GA 30326
+ga:Lilburn:4801 Lawrenceville Hwy NW Lilburn, GA 30047
+ga:Line Creek:2720 Highway 54 Peachtree City, GA 30269
+ga:Loganville:4321 Atlanta Hwy Loganville, GA 30052
+ga:Lovejoy Station:11161 Tara Blvd Hampton, GA 30228
+ga:Macland Crossing:2005 Macland Crossing Cir SW Marietta, GA 30008
+ga:Macon Road:2421 Wynnton Rd Columbus, GA 31906
+ga:Madison (GA):1781 Eatonton Rd Madison, GA 30650
+ga:Mall Blvd Drive-Thru Only:303 Mall Blvd Savannah, GA 31406
+ga:Mall of Georgia:3333 Buford Dr Spc No1071 Buford, GA 30519
+ga:Mall of Georgia on Buford Drive:3235 Buford Dr Mall of Georgia Parkway Buford, GA 30519
+ga:Manchester Expressway:2730 Manchester Expy Columbus, GA 31904
+ga:Marietta Trade Center:170 Cobb Pkwy S Marietta, GA 30060
+ga:McDonough:1321 Highway 20 W Mcdonough, GA 30253
+ga:Memorial Drive:5542 Memorial Dr Stone Mountain, GA 30083
+ga:Mercedes-Benz Stadium:441 Martin Luther King Jr Dr NW Atlanta, GA 30313
+ga:Mercer University:1400 Coleman Ave Macon, GA 31207
+ga:Midland:6501 Kitten Lake Dr Midland, GA 31820
+ga:Milledgeville:1730 N Columbia St Milledgeville, GA 31061
+ga:Monroe (GA):620 Highway 138 Nw Monroe, GA 30655
+ga:Moore Road:1035 Peachtree Industrial Blvd Suwanee, GA 30024
+ga:Morehouse College:830 Westview Dr Sw Kilgore Center Atlanta, GA 30314
+ga:Moultrie:502 Lane St Moultrie, GA 31768
+ga:Mullins Crossing:4201 Washington Rd Evans, GA 30809
+ga:North Decatur:650 Decatur Village Way Decatur, GA 30033
+ga:North Druid Hills:2340 N Druid Hills Rd NE Atlanta, GA 30329
+ga:North Druid Hills Drive-Thru Only:3905 N Druid Hills Rd Decatur, GA 30033
+ga:North Point Mall:2180 N Point Cir Alpharetta, GA 30022
+ga:North Point Parkway:6085 N Point Pkwy Alpharetta, GA 30022
+ga:North Valdosta:3147 Inner Perimeter Rd Valdosta, GA 31602
+ga:Northeast Georgia Medical Center:743 Spring St Ne Gainesville, GA 30501
+ga:Northlake Festival:3967 Lavista Rd Tucker, GA 30084
+ga:Northridge Drive-Thru Only:8433 Roswell Rd Atlanta, GA 30350
+ga:Oglethorpe Mall:7804 Abercorn St Ste 110 Savannah, GA 31406
+ga:Outlet Shoppes at Atlanta:951 Ridgewalk Pkwy Woodstock, GA 30188
+ga:Peach Orchard Road:3130 Peach Orchard Rd Augusta, GA 30906
+ga:Peachtree at Collier:1901 Peachtree Rd NE Atlanta, GA 30309
+ga:Peachtree Center:233 Peachtree St NE # B-40 Atlanta, GA 30303
+ga:Peachtree City Midtown:707 Highway 54 Peachtree City, GA 30269
+ga:Peachtree Corners:6105 Peachtree Pkwy Norcross, GA 30092
+ga:Peachtree Ind. & Pleasant Hill:3555 Peachtree Industrial Blvd Duluth, GA 30096
+ga:Peachtree Mall:3131 Manchester Expy Ste F7 Columbus, GA 31909
+ga:Perimeter at Hammond Drive:4350 Ashford Dunwoody Rd NE Atlanta, GA 30346
+ga:Perimeter Mall:4400 Ashford Dunwoody Rd Ne Atlanta, GA 30346
+ga:Perimeter Pointe:1145 Mount Vernon Hwy Dunwoody, GA 30338
+ga:Piedmont Road:2580 Piedmont Rd NE Atlanta, GA 30324
+ga:Pike Street:680 Duluth Hwy Lawrenceville, GA 30046
+ga:Pleasant Hill Dwarf House:1570 Pleasant Hill Rd Duluth, GA 30096
+ga:Pooler:180 Pooler Pkwy Pooler, GA 31322
+ga:Poplar Road:2090 Newnan Crossing Blvd E Newnan, GA 30265
+ga:Rincon:5438 GA Highway 21 S Rincon, GA 31326
+ga:Riverdale Dwarf House:6549 Highway 85 Riverdale, GA 30274
+ga:Rivermont Station:8475 Holcomb Bridge Rd Alpharetta, GA 30022
+ga:Riverstone Parkway:1459 Riverstone Pkwy Canton, GA 30114
+ga:Robson Crossing:3405 Atlanta Hwy Flowery Branch, GA 30542
+ga:Rockmart:1500 Chattahoochee Drive Rockmart, GA 30153
+ga:Roswell Corners:1185 Woodstock Rd Roswell, GA 30075
+ga:Roswell Town Center:604 Holcomb Bridge Rd Roswell, GA 30076
+ga:Saint Simons:2205 Demere Rd Saint Simons Island, GA 31522
+ga:Salem Bridge [GA]:12920 Brown Bridge Rd Covington, GA 30016
+ga:Sam Nunn Blvd.:1363 Sam Nunn Blvd Perry, GA 31069
+ga:Sandy Springs:5925 Roswell Rd Ste C Atlanta, GA 30328
+ga:Sanford Stadium Satellite:280 East Campus Rd Gate 6 Loading Dock Athens, GA 30602
+ga:Savannah Mall:14045 Abercorn St Ste 2604 Savannah, GA 31419
+ga:Scenic Highway:1559 Scenic Hwy N Snellville, GA 30078
+ga:Smyrna (GA):5120 S Cobb Dr SE Smyrna, GA 30080
+ga:Snellville:2932 Main St W Snellville, GA 30078
+ga:South Cobb Drive:3100 S Cobb Dr SE Smyrna, GA 30080
+ga:South Warner Robins:790 Highway 96 Bonaire, GA 31005
+ga:Sprayberry:2530 Sandy Plains Rd Marietta, GA 30066
+ga:St. Augustine Road:1100 N Saint Augustine Rd Valdosta, GA 31601
+ga:Starr's Mill:1222 Highway 74 S Peachtree City, GA 30269
+ga:Statesboro:352 Northside Dr E Statesboro, GA 30458
+ga:Stone Mountain:5075 Stone Mountain Hwy Stone Mountain, GA 30087
+ga:Stonebridge Village:5905 Spout Springs Rd Flowery Branch, GA 30542
+ga:Sugarloaf & 316:4965 Sugarloaf Pkwy Lawrenceville, GA 30044
+ga:Sugarloaf & Satellite:2020 Satellite Blvd Duluth, GA 30097
+ga:Suwanee Road:2835 Lawrenceville Suwanee Rd Suwanee, GA 30024
+ga:Terminus In-Line:3280 Peachtree Rd Ne Ste 105 Atlanta, GA 30305
+ga:The Collection Forsyth:430 Peachtree Pkwy Cumming, GA 30041
+ga:The Mall at Stonecrest:2929 Turner Hill Rd Ste 2550 Lithonia, GA 30038
+ga:Thomaston [GA]:1054 Highway 19 N Thomaston, GA 30286
+ga:Thomasville:15062 Us Highway 19 S Thomasville, GA 31757
+ga:Thomson:1806 Washington Rd Thomson, GA 30824
+ga:Thornton Road:835 Thornton Rd Lithia Springs, GA 30122
+ga:Tifton:1197 US Highway 82 W Tifton, GA 31793
+ga:Tom Hill Sr Blvd:140 Tom Hill Sr Blvd Macon, GA 31210
+ga:Town Center At Cobb:400 Ernest W Barrett Pkwy NW Suite 124 Kennesaw, GA 30144
+ga:Towne Lake:3070 Eagle Dr Woodstock, GA 30189
+ga:Truett's Chick-fil-A - Newnan:505 Highway 34 E Newnan, GA 30265
+ga:Truett's Chick-fil-A - Rome:264 Shorter Ave Nw Rome, GA 30165
+ga:Truett's Chick-fil-A - Stockbridge:3649 Highway 138 Se Stockbridge, GA 30281
+ga:Truett's Grill - Griffin:1455 N Expressway Griffin, GA 30223
+ga:Truett's Grill - McDonough:1785 Jonesboro Rd Mcdonough, GA 30253
+ga:Truett's Grill - Morrow:2042 Mount Zion Rd Morrow, GA 30260
+ga:Truett's Luau:600 Lanier Ave W Ste 103 Fayetteville, GA 30214
+ga:Truist Park OSL:755 Battery Ave SE Atlanta, GA 30339
+ga:Tucker Station:4340 Hugh Howell Rd Tucker, GA 30084
+ga:Turner Hill Road:2985 Turner Hill Rd Lithonia, GA 30038
+ga:University Hospital-Augusta:1350 Walton Way Augusta, GA 30901
+ga:University of Georgia:45 Baxter St Athens, GA 30602
+ga:University of West Georgia:Campus Dining Carrollton, GA 30118
+ga:Valdosta Mall:1700 Norman Dr Spc 1056 Valdosta, GA 31601
+ga:Valdosta State University - Student Union:1500 N Patterson St Student Union Valdosta, GA 31698
+ga:Victory at Skidaway:2111 E Victory Dr Savannah, GA 31404
+ga:Vidalia:2349 E 1st St Vidalia, GA 30474
+ga:Villa Rica:85 Commerce Dr Villa Rica, GA 30180
+ga:Vine City:875 Martin Luther King Jr Dr NW Atlanta, GA 30314
+ga:Vinings:2485 Cumberland Pkwy SE Atlanta, GA 30339
+ga:Warner Robins:1867 Watson Blvd Warner Robins, GA 31093
+ga:Washington Road:3066 Washington Rd Augusta, GA 30907
+ga:Waterfall:600 Lanier Ave W Fayetteville, GA 30214
+ga:Waycross:2256 Memorial Dr Waycross, GA 31501
+ga:Wesley Chapel Road:2445 Wesley Chapel Rd Decatur, GA 30035
+ga:West Cobb:2555 Dallas Hwy SW Marietta, GA 30064
+ga:West Midtown:1100 Northside Dr NW Atlanta, GA 30318
+ga:West Paces Ferry:3419 Northside Pkwy NW Atlanta, GA 30327
+ga:Winder:850 Loganville Hwy Bethlehem, GA 30620
+ga:Windward Parkway:5180 Windward Pkwy Alpharetta, GA 30004
+ga:Windy Hill Road:2661 Windy Hill Rd SE Marietta, GA 30067
+ga:Woodlawn Square:1201 Johnson Ferry Rd Marietta, GA 30068
+ga:Woodstock Dwarf House:9728 Highway 92 Woodstock, GA 30188
+ga:Young Harris College:228 Maple Street Rollins Campus Center Young Harris, GA 30582
+ga:Zebulon Road:5920 Zebulon Rd Macon, GA 31210
+id:Ammon:3003 S 25th E Ammon, ID 83406
+id:Boise State University:1910 University Dr Student Union Boise, ID 83725
+id:Brigham Young University - Idaho:525 S Center St Manwaring Center Rexburg, ID 83460
+id:Broadway & Front:300 S Broadway Ave Boise, ID 83702
+id:Franklin Road:8000 W Franklin Rd Boise, ID 83709
+id:Treasure Valley Nampa:16800 N Marketplace Blvd Nampa, ID 83687
+id:Twin Falls:1631 Blue Lakes Blvd N Twin Falls, ID 83301
+id:University of Idaho:1080 W 6th St Idaho Commons Food Court Moscow, ID 83843
+id:Village at Meridian:2012 N Eagle Rd Meridian, ID 83646
+il:Batavia:185 N Randall Rd Batavia, IL 60510
+il:Bloomingdale:354 W Army Trail Rd Bloomingdale, IL 60108
+il:Bolingbrook:245 N Weber Rd Bolingbrook, IL 60490
+il:Bradley University:1501 W Bradley Ave Michel Student Center Peoria, IL 61625
+il:Champaign (IL):2301 N Prospect Ave Champaign, IL 61822
+il:Chicago & Orleans Delivery:831 N Sedgwick St Suite 235 Chicago, IL 60610
+il:Chicago Ridge:9600 Ridgeland Ave Chicago Ridge, IL 60415
+il:Chicago Union Station:225 S Canal St Chicago, IL 60606
+il:College of DuPage:425 Fawell Blvd Student Resource Center Glen Ellyn, IL 60137
+il:Countryside:6007 S La Grange Rd Countryside, IL 60525
+il:Crestwood (IL):13050 S Cicero Crestwood, IL 60445
+il:Crystal Lake:4812 Northwest Hwy Crystal Lake, IL 60014
+il:Deerfield (IL):75 S Waukegan Rd Deerfield, IL 60015
+il:East Peoria:250 W Washington St East Peoria, IL 61611
+il:Eastern Illinois University:600 Lincoln Ave Office of Univ. Housing/Dining Charleston, IL 61920
+il:Elmhurst:235 South IL Rt 83 Elmhurst, IL 60126
+il:Fairview Heights:6203 N Illinois St Fairview Heights, IL 62208
+il:Fox Valley Center:4435 Fox Valley Center Dr Aurora, IL 60504
+il:Green Mount Commons:2532 Green Mount Commons Belleville, IL 62221
+il:Gurnee:6550 Grand Ave Gurnee, IL 60031
+il:Homewood (IL):17450 Halsted St Homewood, IL 60430
+il:Humboldt Park Delivery:3220 W Grand Ave Chicago, IL 60651
+il:Irving Park Delivery:4131 N Rockwell St Chicago, IL 60618
+il:Kildeer:20429 N Rand Rd Kildeer, IL 60047
+il:Lombard:717 E Butterfield Rd Lombard, IL 60148
+il:Loyola Water Tower In-Line:30 E Chicago Ave Chicago, IL 60611
+il:Melrose Park:2 Winston Plz Melrose Park, IL 60160
+il:Michigan Avenue (IL) In-Line:500 N Michigan Ave Ste 140 Chicago, IL 60611
+il:Moline:3831 41st Avenue Dr Moline, IL 61265
+il:Mount Prospect:950 N Elmhurst Rd Mount Prospect, IL 60056
+il:Niles (IL):5650 W Touhy Ave Niles, IL 60714
+il:Norridge (IL):4512 N Harlem Ave Norridge, IL 60706
+il:North Riverside:7201 W Cermak Rd North Riverside, IL 60546
+il:Old Orchard:9341 Skokie Blvd Skokie, IL 60077
+il:Orland Park:15605 S La Grange Rd Orland Park, IL 60462
+il:Oswego:2740 US Highway 34 Oswego, IL 60543
+il:Peoria:4518 N Sterling Ave Northwoods Mall Peoria, IL 61615
+il:Rockford:280 N Perryville Rd Rockford, IL 61107
+il:Schaumburg:935 E Golf Rd Schaumburg, IL 60173
+il:Southern Illinois University - Carbondale:1255 Lincoln Dr Student Center Carbondale, IL 62901
+il:Southern Illinois University-Edwardsville:University Ctr Edwardsville, IL 62026
+il:Southpark Mall (IL):4500 16th St Moline, IL 61265
+il:State and Lake In-Line:177 N State St Suite 1A Chicago, IL 60601
+il:State Farm - Corporate South H:3 State Farm Plz Corporate South H Building Bloomington, IL 61791
+il:State Farm South Campus:1 State Farm Plz Bloomington, IL 61710
+il:University of Illinois - Chicago:750 S Halsted St Student Center East Chicago, IL 60607
+il:Vernon Hills:701 N Milwaukee Ave Ste 360 Vernon Hills, IL 60061
+il:Veterans & College:101 S Veterans Pkwy Normal, IL 61761
+il:West Schaumburg:90 Barrington Rd Schaumburg, IL 60194
+il:Western Illinois University:1 University Cir University Union Macomb, IL 61455
+il:Wheaton:301 E Loop Rd Wheaton, IL 60189
+il:White Oaks:2431 Wabash Ave Springfield, IL 62704
+il:Willowbrook:7101 Kingery Hwy Willowbrook, IL 60527
+in:Anderson University:1100 E 5th St OLT Student Center Anderson, IN 46012
+in:Anson (IN):6240 East Whitestown Pkwy Whitestown, IN 46075
+in:Avon:10791 E US Highway 36 Avon, IN 46123
+in:Ball State University:1101 N Mckinley Ave Atrium Food Court Muncie, IN 47306
+in:Bloomington East:3020 E 3rd St College Mall pad Bloomington, IN 47401
+in:Broad Ripple:6231 N Keystone Ave Indianapolis, IN 46220
+in:Castleton Square:6020 E 82nd St Ste 1012 Indianapolis, IN 46250
+in:Circle Centre Mall:49 W Maryland St Spc VC-10 Indianapolis, IN 46204
+in:Coliseum Boulevard:182 W Coliseum Blvd Fort Wayne, IN 46805
+in:College Mall:2856 E 3rd St Spc C-9 Bloomington, IN 47401
+in:Columbus National:1250 N National Rd Columbus, IN 47201
+in:Cross Pointe:7101 E Indiana St Evansville, IN 47715
+in:Eastland Mall (IN):800 N Green River Rd Evansville, IN 47715
+in:Glenbrook Square:4201 Coldwater Rd Fort Wayne, IN 46805
+in:Greenwood:155 Marlin Dr Greenwood, IN 46142
+in:Greenwood Park Mall (IN):1251 US Highway 31 N Ste C19 Greenwood, IN 46142
+in:Indiana University Purdue Univ at Indianapolis:420 University Blvd Ste 120 Indianapolis, IN 46202
+in:Indiana Wesleyan University:4201 S Washington St Barnes Student Center Marion, IN 46953
+in:Indianapolis International Airport:7800 Col H Weir Cook Mem Dr Indianapolis, IN 46241
+in:Jefferson Pointe:1725 Apple Glen Blvd Fort Wayne, IN 46804
+in:Jeffersonville:3549 E 10th St Jeffersonville, IN 47130
+in:Lafayette (IN):50 N Creasy Ln Lafayette, IN 47905
+in:Merrillville:2385 Southlake Mall Merrillville, IN 46410
+in:Mishawaka Main Street:5517 N Main St Mishawaka, IN 46545
+in:Muncie:511 W McGalliard Rd Muncie, IN 47303
+in:New Albany:2225 State St New Albany, IN 47150
+in:Noblesville at SR37:16685 Mercantile Blvd Noblesville, IN 46060
+in:Plainfield:2687 E Main St Plainfield, IN 46168
+in:Purdue University OSL:401 N Russell St West Lafayette, IN 47906
+in:Saxony & I-69:14098 Bergen Blvd Noblesville, IN 46060
+in:South Bend:4555 S Michigan St South Bend, IN 46614
+in:Southport Road:5240 E Southport Rd Indianapolis, IN 46237
+in:Taylor University:236 W Reade Ave LaRita R. Boren Campus Center Upland, IN 46989
+in:Terre Haute:3675 S US Highway 41 Terre Haute, IN 47802
+in:The Crossing:3802 E 82nd St Indianapolis, IN 46240
+in:The Pyramids:3360 W 86th St Indianapolis, IN 46268
+in:University of Evansville:1800 Lincoln Ave John Ridgway University Center Evansville, IN 47722
+in:University of Southern Indiana:8600 University Blvd Evansville, IN 47712
+in:University Park Mall:6501 Grape Rd Mishawaka, IN 46545
+in:Veterans Parkway:1320 Veterans Pkwy Clarksville, IN 47129
+in:Westfield:14647 Thatcher Ln Carmel, IN 46032
+ia:Ames:230 S Duff Ave Ames, IA 50010
+ia:Ankeny:2410 SE Delaware Avenue Ankeny, IA 50021
+ia:Coral Ridge Mall:1451 Coral Ridge Ave Ste 620 Coralville, IA 52241
+ia:Davenport:2945 E 53rd St Davenport, IA 52807
+ia:Dubuque:3500 Dodge St Dubuque, IA 52003
+ia:Jordan Creek Town Center:101 Jordan Creek Pkwy Ste 12508 West Des Moines, IA 50266
+ia:Lindale:217 Collins Rd NE Cedar Rapids, IA 52402
+ia:Merle Hay:4040 Merle Hay Rd Des Moines, IA 50310
+ia:Mills Civic Parkway:6555 Mills Civic Pkwy West Des Moines, IA 50266
+ia:Northpark Mall (IA):320 W Kimberly Rd Davenport, IA 52806
+ia:Sergeant Road:4428 Sergeant Rd Sioux City, IA 51106
+ia:Southern Hills Mall:4400 Sergeant Rd Ste 214 Sioux City, IA 51106
+ia:University Ave (IA):4502 University Ave West Des Moines, IA 50266
+ia:Waterloo:1331 Flammang Dr Waterloo, IA 50702
+ia:Westdale:2610 Edgewood Rd SW Cedar Rapids, IA 52404
+ks:135th and 69 Hwy:7500 W 135th St Overland Park, KS 66223
+ks:17th and Wanamaker:1625 SW Wanamaker Rd Topeka, KS 66604
+ks:21st & Maize:10515 W 21st St N Wichita, KS 67205
+ks:Central & Rock Road:7990 E Central Ave Wichita, KS 67206
+ks:Derby Marketplace:1818 N Rock Rd Derby, KS 67037
+ks:Hutchinson:1809 E 17th Ave Hutchinson, KS 67501
+ks:Iowa & 27th (KS):2735 Iowa St Lawrence, KS 66046
+ks:Johnson County Community College:12345 College Blvd # Sc110 Overland Park, KS 66210
+ks:Kansas State University:918 N 17th St 121 K- State Student Union Manhattan, KS 66506
+ks:Lenexa:15919 W 87th Street Pkwy Lenexa, KS 66219
+ks:Manhattan (KS):636 Tuttle Creek Blvd Manhattan, KS 66502
+ks:Maple & Ridge:7320 West Taft Street Wichita, KS 67209
+ks:Mission Crossing:6039 Metcalf Ave Mission Crossing Center Mission, KS 66202
+ks:Oak Park Plaza:9707 Quivira Rd Overland Park, KS 66215
+ks:Olathe Pointe:12087 S Blackbob Rd Olathe, KS 66062
+ks:Plaza at the Speedway:10770 Parallel Pkwy Kansas City, KS 66109
+ks:Salina:2245 S 9th St Salina, KS 67401
+ks:University of Kansas:1301 Jayhawk Blvd Wescoe Hall Underground Lawrence, KS 66045
+ks:Wichita Dwight D. Eisenhower National Airport:2277 S Eisenhower St Wichita, KS 67209
+ks:Wichita State University:1845 Fairmount Rhatigan Student Center Wichita, KS 67260
+ky:Ashland:410 River Hill Dr Ashland, KY 41101
+ky:Bardstown Road:3420 Bardstown Rd Louisville, KY 40218
+ky:Campbell Lane:1766 Campbell Ln Bowling Green, KY 42104
+ky:Campbellsville University:1 University Dr Upo 783 Student Center Campbellsville, KY 42718
+ky:Cincinnati-Northern Kentucky International Airport:Terminal 3, 4th Floor Cincinnati / N KY Airport Hebron, KY 41048
+ky:Dixie Hwy (KY):6630 Dixie Hwy Louisville, KY 40258
+ky:Eastern Kentucky University:17 Powell Dr Richmond, KY 40475
+ky:Elizabethtown:1840 N Dixie Ave Elizabethtown, KY 42701
+ky:Fayette Mall:3401 Nicholasville Rd Ste FC5A Lexington, KY 40503
+ky:Fort Wright:3436 Madison Pike Route 17 Ft Wright, KY 41017
+ky:Frankfort (KY):1300 US Highway 127 S Ste F Frankfort, KY 40601
+ky:Georgetown (KY):101 Tiger Way Georgetown, KY 40324
+ky:Glenmary:7901 Bardstown Rd Louisville, KY 40291
+ky:Hamburg Place:1863 Plaudit Pl Lexington, KY 40509
+ky:Hopkinsville:4250 Fort Campbell Blvd Hopkinsville, KY 42240
+ky:Houston Road:4980 Houston Rd Florence, KY 41042
+ky:Jefferson Commons:4925 Outer Loop Louisville, KY 40219
+ky:Jefferson Mall:4801 Outer Loop Louisville, KY 40219
+ky:Kentucky Oaks Mall:5101 Hinkleville Rd Ste 540 Paducah, KY 42001
+ky:Louisville Catering & Delivery:7405 New La Grange Rd # B Louisville, KY 40222
+ky:Mall Road:8050 Mall Rd Florence, KY 41042
+ky:Mall St. Matthews:5000 Shelbyville Rd Ste 1630 Louisville, KY 40207
+ky:Middletown Commons:13313 Shelbyville Rd Louisville, KY 40223
+ky:Morehead State University:UPO 1371 Morehead, KY 40351
+ky:Murray State University:1415 Chestnut St. Curris Center Murray, KY 42071
+ky:Newport Pavilion:95 Carothers Rd Newport, KY 41071
+ky:Nicholasville Road:2514 Nicholasville Rd Lexington, KY 40503
+ky:Owensboro:4601 Frederica St Owensboro, KY 42301
+ky:Paducah:5193 Hinkleville Rd Paducah, KY 42001
+ky:Richmond Centre:2072 Lantern Ridge Dr Richmond, KY 40475
+ky:Richmond Rd at New Circle Rd:2299 Richmond Rd Lexington, KY 40502
+ky:Scottsville Rd:3162 Scottsville Rd Bowling Green, KY 42104
+ky:Somerset [KY]:2400 S Highway 27 Somerset, KY 42501
+ky:Springhurst:10501 Westport Rd Louisville, KY 40241
+ky:St. Matthews:5001 Shelbyville Rd Louisville, KY 40207
+ky:Stonybrook:2350 Shane Dr Louisville, KY 40220
+ky:Turfland:2025 Harrodsburg Rd Lexington, KY 40504
+ky:University of Kentucky:239 Student Ctr UK Student Center Lexington, KY 40508
+ky:University of Louisville:2100 S Floyd St SAC Bldg W206 Louisville, KY 40208
+ky:University of Louisville Medical Center:500 S Preston St Louisville, KY 40202
+ky:University of Pikeville:810 Hambley Blvd Health Professional Education Building Pikeville, KY 41501
+ky:University of the Cumberlands:6178 College Station Dr Williamsburg, KY 40769
+ky:Western Kentucky University:1 Big Red Way Bowling Green, KY 42101
+ky:Western Kentucky University-Tower Food Court:1770 Avenue Of Champions Tower Food Court Bowling Green, KY 42101
+la:Acadiana Mall:5725 Johnston St # A266 Lafayette, LA 70503
+la:Airline Highway:15055 Airline Hwy Baton Rouge, LA 70817
+la:Alexandria Mall:3437 Masonic Dr Alexandria, LA 71301
+la:Ambassador Caffery Parkway:3806 Ambassador Caffery Pkwy Lafayette, LA 70503
+la:Burbank & Ben Hur:5919 Creek Centre Dr Baton Rouge, LA 70820
+la:College Drive:3023 College Dr Baton Rouge, LA 70808
+la:Covington - Highway 190:912 N Highway 190 Covington, LA 70433
+la:Covington - Highway 21:69280 Highway 21 Covington, LA 70433
+la:Denham Springs:2341 S Range Ave Denham Springs, LA 70726
+la:Gause Blvd.:1645 Gause Blvd Slidell, LA 70458
+la:Gonzales (LA):2119 W Highway 30 Gonzales, LA 70737
+la:Grambling State University:100 Founders Street Tiger Express Food Court Grambling, LA 71245
+la:Hammond:1925 SW Railroad Ave Hammond, LA 70403
+la:Harvey:1128 Manhattan Blvd Harvey, LA 70058
+la:Houma:1741 Martin Luther King Jr Blvd Houma, LA 70360
+la:I-10 at Louisiana Avenue:3205 Louisiana Ave Lafayette, LA 70501
+la:I-220 & Airline Drive:2601 Beene Blvd Bossier City, LA 71111
+la:Jackson & Macarthur:1300 MacArthur Dr Alexandria, LA 71301
+la:Kenner:2236 Veterans Blvd Kenner, LA 70062
+la:Lagniappe Village:1116 E Admiral Doyle Dr New Iberia, LA 70560
+la:Lake Charles:3435 Nelson Rd Lake Charles, LA 70605
+la:Lakeside Shopping Center:3301 Veterans Memorial Blvd Ste 78F Metairie, LA 70002
+la:Louis Armstrong New Orleans Int'l Airport:1 Airline Dr North Terminal - Head House Kenner, LA 70062
+la:Louisiana State University:310 Lsu Student Union Room 306 Baton Rouge, LA 70803
+la:Louisiana Tech University:100 Wisteria Dr Fl Center/2nd Student Center/2nd Floor Ruston, LA 71272
+la:Mall of Louisiana:6401 Bluebonnet Blvd Ste FC-10 Baton Rouge, LA 70836
+la:Marrero (LA):4951 Lapalco Blvd Marrero, LA 70072
+la:Millerville Road:1919 Millerville Rd Baton Rouge, LA 70816
+la:Nicholls State University:217 Ardoyne Dr Thibodaux, LA 70310
+la:North Shore Square:150 Northshore Blvd Ste 5024 Slidell, LA 70460
+la:Northwestern State University:912 University Pkwy Natchitoches, LA 71457
+la:Oakwood Center:197 Westbank Expy Ste 1685 Gretna, LA 70053
+la:Pecanland Mall:4700 Millhaven Rd Ste 1098 Monroe, LA 71203
+la:Prien Lake Mall:592 W. Prien Lake Rd. Lake Charles, LA 70601
+la:Ruston:1206 Maxwell Blvd Ruston, LA 71270
+la:S. Clearview:1141 S Clearview Pkwy Jefferson, LA 70121
+la:Siegen Lane:7055 Siegen Ln # 17 Baton Rouge, LA 70809
+la:Southeastern Louisiana University - War Memorial:303 West Texas Avenue War Memorial Student Center Hammond, LA 70402
+la:Southern University:133 Smith Brown Memorial Student Union Baton Rouge, LA 70813
+la:Thomas Road:203 Thomas Rd West Monroe, LA 71291
+la:University of Louisiana Lafayette:600 Mckinley St Lafayette, LA 70503
+la:University of Louisiana Monroe:700 University Ave Monroe, LA 71209
+la:University of New Orleans:University Ctr Rm 250 New Orleans, LA 70148
+la:Veterans Memorial Blvd:3870 Veterans Memorial Blvd Metairie, LA 70002
+la:West Monroe Drive-Thru Only:911 Glenwood Dr West Monroe, LA 71291
+la:Xavier University:4980 Dixon St University Center New Orleans, LA 70125
+la:Youree Drive:7010 Youree Dr Shreveport, LA 71105
+me:Bangor:605 Stillwater Ave Bangor, ME 04401
+md:Aberdeen:1001 Beards Hill Rd Aberdeen, MD 21001
+md:Annapolis:2025 Somerville Rd Annapolis, MD 21401
+md:Arundel Mills:7055 Arundel Mills Cir Hanover, MD 21076
+md:Baltimore-Washington Intl Airport - A/B Core:Aviation Boulevard & Elm Road A-B Core Baltimore, MD 21240
+md:Baltimore-Washington Int'l Airport-Conc D:Aviation Blvd & Elm Road Baltimore, MD 21240
+md:Bel Air:408 Baltimore Pike Bel Air, MD 21014
+md:Bowie:16503 Ballpark Rd Bowie, MD 20716
+md:Bowie Marketplace:15505 Annapolis Rd Bowie Marketplace Shopping Center Bowie, MD 20715
+md:Brandywine:16003 Crain Hwy Brandywine, MD 20613
+md:Cambridge:705 Cambridge Marketplace Cambridge, MD 21613
+md:Canton Crossing:3809 Boston St Baltimore, MD 21224
+md:Capital Centre:1040 Shoppers Way Largo, MD 20774
+md:Centre at Glen Burnie:6709 Ritchie Hwy Glen Burnie, MD 21061
+md:Centre at Salisbury:2300 N Salisbury Blvd Ste G115 Salisbury, MD 21801
+md:Clarksville:6395 10 Oaks Rd Clarksville, MD 21029
+md:Columbia Mall (MD):10300 Little Patuxent Pkwy Ste 1335 Columbia, MD 21044
+md:Constant Friendship:408 Constant Friendship Blvd Abingdon, MD 21009
+md:Corridor Market Place:3366 Corridor Market Place Laurel, MD 20724
+md:Country Club Mall:1262 Vocke Rd Ste 284 Cumberland, MD 21502
+md:Crofton:2691 Carver Rd Gambrills, MD 21054
+md:District Heights:5502 Silver Hill Rd District Heights, MD 20747
+md:Dobbin Center:6375 Dobbin Rd Columbia, MD 21045
+md:Easton:28632 Marlboro Ave Easton, MD 21601
+md:Eastpoint:7907 Eastern Ave Baltimore, MD 21224
+md:Edgewater (MD):3220 Solomons Island Rd Edgewater, MD 21037
+md:Eldersburg:6032 Sykesville Rd Eldersburg, MD 21784
+md:Elkton:1100 E Pulaski Hwy Elkton, MD 21921
+md:Executive Park Drive:4905 Executive Park Dr Columbia, MD 21045
+md:First Colony Center:45150 First Colony Way California, MD 20619
+md:Forest Hill:1980 Rock Spring Rd Forest Hill, MD 21050
+md:Foundry Row:10170 Reisterstown Rd Owings Mills, MD 21117
+md:Frederick:5501 Urbana Pike Frederick, MD 21704
+md:Frederick North:2401 Monocacy Blvd Frederick, MD 21701
+md:Frostburg State University:Stadium Road Lane Center Frostburg, MD 21532
+md:Germantown Town Center:19945 Century Blvd Germantown, MD 20874
+md:Hagerstown:1680 Wesel Blvd Hagerstown, MD 21740
+md:Hunt Valley Towne Centre:6 Hyland Ave Hunt Valley, MD 21030
+md:Ingleside:5668 Baltimore National Pike Catonsville, MD 21228
+md:Inner Harbor In-Line:400 E Pratt St Baltimore, MD 21202
+md:Johns Hopkins Road:10975 Johns Hopkins Rd Laurel, MD 20723
+md:Joppa Road:2008 E Joppa Rd Parkville, MD 21234
+md:Kent Island:1845 Main St Chester, MD 21619
+md:Kentlands Square In-Line:104 Main St Gaithersburg, MD 20878
+md:La Plata:107 Drury Dr La Plata, MD 20646
+md:La Vale:12101 Winchester Rd #31 Lavale, MD 21502
+md:Lansdowne Station:3599 Washington Blvd Baltimore, MD 21227
+md:Laurel:13600 Baltimore Ave Ste 600 Laurel, MD 20707
+md:Linthicum:1610 W Nursery Rd Linthicum Heights, MD 21090
+md:Marley Station:7900 Ritchie Hwy Spc E-113 Glen Burnie, MD 21061
+md:Martin Plaza:1202 Martin Blvd Middle River, MD 21220
+md:Montrose Crossing In-Line:12001 Rockville Pike Rockville, MD 20852
+md:Morgan State University:1700 E Cold Spring Ln Student Center Baltimore, MD 21251
+md:North Pointe Plaza (MD):2736 N Salisbury Blvd Salisbury, MD 21801
+md:Nottingham Square:5198 Campbell Blvd Baltimore, MD 21236
+md:Olney:18115 Georgia Ave Olney, MD 20832
+md:Owings Mills Square:10480 Owings Mills Blvd Owings Mills, MD 21117
+md:Pasadena Crossroads:8110 Jumpers Hole Rd Pasadena, MD 21122
+md:Perry Hall Shopping Center:8867 Belair Rd Baltimore, MD 21236
+md:Prince Frederick:806 Solomons Island Rd N Prince Frederick, MD 20678
+md:Quarterfield Crossing:7831 Quarterfield Park Road Severn, MD 21144
+md:Queen City Centre:221 Williams St Cumberland, MD 21502
+md:Reisterstown:12001 Reisterstown Rd Reisterstown, MD 21136
+md:Rockville Research Row:1401 Research Blvd Rockville, MD 20850
+md:Salisbury University:1101 Camden Ave Guerrier Student Center Salisbury, MD 21801
+md:Severna Park:511 Ritchie Hwy Severna Park, MD 21146
+md:Silver Spring In-Line:825 Ellsworth Dr Lot D1-A Silver Spring, MD 20910
+md:St. Agnes Hospital:900 Caton Ave Baltimore, MD 21229
+md:St. Charles Towne Center Mall:11110 Mall Cir Waldorf, MD 20603
+md:Steeplechase:9121 Alaking Ct Capitol Heights, MD 20743
+md:Tech Rd. Silver Spring In-Line:12289 Tech Rd Silver Spring, MD 20904
+md:TownMall of Westminster:400 N Center St Ste 243 Westminster, MD 21157 4108763525
+md:Towson Town Center:825 Dulaney Valley Rd Ste 3285 Towson, MD 21204
+md:Towson University:8000 York Rd Towson, MD 21252
+md:University of Maryland- Baltimore County:1000 Hilltop Cir University Center Baltimore, MD 21250
+md:University of Maryland-College Park:3972 Campus Dr Stamp Union Food Court College Park, MD 20742
+md:University of Maryland-Eastern Shore:30617 Backbone Road Student Services Center Princess Anne, MD 21853
+md:Vista Gardens Marketplace:10631 Martin Luther King Jr Hwy Bowie, MD 20720
+md:Waldorf:3365 Crain Hwy Waldorf, MD 20603
+md:Waugh Chapel:2615 Brandermill Blvd Gambrills, MD 21054
+md:West Ocean City:12901 Ocean Gtwy Ocean City, MD 21842
+md:Westfield Annapolis Mall:1035 Annapolis Mall Annapolis, MD 21401
+md:Westfield Montgomery Mall (MD):7101 Democracy Blvd Spc 2122 Bethesda, MD 20817
+md:Westminster:144 Englar Rd Westminster, MD 21157
+md:White Marsh Mall:8200 Perry Hall Blvd Baltimore, MD 21236
+md:Woodyard Landing:8813 Woodyard Rd Clinton, MD 20735
+md:York Road:10142 York Rd Cockeysville, MD 21030
+ma:Attleboro:252 Washington St Ste. A-100 South Attleboro, MA 02703
+ma:Brockton:542 Westgate Dr Brockton, MA 02301
+ma:Burlington Mall:75 Middlesex Turnpike Store 2110 Burlington, MA 01803
+ma:Cape Cod:155 Enterprise Rd Hyannis, MA 02601
+ma:Chicopee:501 Memorial Dr Chicopee, MA 01020
+ma:Dedham:140 Providence Hwy Dedham, MA 02026
+ma:Framingham:359 Cochituate Rd Framingham, MA 01701
+ma:Hanover (MA):1835 Washington St Hanover, MA 02339
+ma:Marlborough (MA):36 Apex Dr Marlborough, MA 01752
+ma:Methuen:73 Pleasant Valley St Methuen, MA 01844
+ma:Northshore Mall:210 Andover St Space F105 Peabody, MA 01960
+ma:Plymouth:49 Commerce Way Plymouth, MA 02360
+ma:Seekonk:1100 Fall River Ave Seekonk, MA 02771
+ma:Terminated One Milk Street In-Line:1 Milk St Boston, MA 02109
+ma:Westborough:286 Turnpike Rd Westborough, MA 01581
+ma:Woburn:375 Washington St Woburn, MA 01801
+ma:Worcester:80 Gold Star Blvd Worcester, MA 01606
+mi:28th & Beltline:2750 E Beltline Ave SE Grand Rapids, MI 49546
+mi:54th and 131:700 54th St SW Wyoming, MI 49509
+mi:Allen Park (MI):3355 Fairlane Dr Allen Park, MI 48101
+mi:Detroit Medical Center:3990 John R St Detroit, MI 48201
+mi:Detroit Metropolitan Airport:2562 Worldgateway Pl McNamara Terminal, Core 10 Detroit, MI 48242
+mi:Detroit Metropolitan Airport-North Terminal:601 Rogell Dr Ste 4007 Suite 4007 Detroit, MI 48242
+mi:Eastern Michigan University:878 W Cross St. McKenny Hall Ypsilanti, MI 48197
+mi:Grand Rapids South:1545 Edgeknoll Dr SE Grand Rapids, MI 49508
+mi:Holland:2332 N Park Dr Holland, MI 49424
+mi:Lansing:5617 W Saginaw Hwy Lansing, MI 48917
+mi:Okemos:2075 W Grand River Ave Okemos, MI 48864
+mi:Somerset Collection North:2800 W Big Beaver Rd Ste Y-323 Troy, MI 48084
+mi:Terminated Beltline & Knapp:2183 E Beltline Ave NE Grand Rapids, MI 49525
+mi:Twelve Oaks (MI):27750 Novi Rd Novi, MI 48377
+mi:Westnedge:6202 S Westnedge Ave Portage, MI 49002
+mn:Apple Valley:7480 153rd St W Apple Valley, MN 55124
+mn:Bloomington (MN):2500 W 79th St Bloomington, MN 55431
+mn:Brooklyn Park (MN):9751 Xenia Ave N Brooklyn Park, MN 55443
+mn:Burnsville FSU  (MN):1200 County Road 42 W Burnsville, MN 55337
+mn:Chanhassen:445 W 79th St Chanhassen, MN 55317
+mn:Coon Rapids at Riverdale:3590 River Rapids Dr NW Coon Rapids, MN 55448
+mn:Crossroads Center:4185 W Division St Saint Cloud, MN 56301
+mn:Eagan:3420 Promenade Ave Eagan, MN 55123
+mn:Ear of Corn:1201 Broadway Ave S Ste 100 Rochester, MN 55904
+mn:Knollwood:8020 Highway 7 Saint Louis Park, MN 55426
+mn:Mall of America:354 Central Pkwy Bloomington, MN 55425
+mn:Maple Grove:11820 Fountains Way Maple Grove, MN 55369
+mn:Maplewood:3045 White Bear Ave N Maplewood, MN 55109
+mn:Minneapolis - Saint Paul Intl Airport-Concourse C:4300 Glumack Dr C-2560 Saint Paul, MN 55111
+mn:Minneapolis - Saint Paul Intl Airport-Concourse F:4300 Glumack Dr Concourse F Saint Paul, MN 55111
+mn:Minnesota State University-Mankato:7 Centennial Student Un Mankato, MN 56001
+mn:Northtown:595 Northtown Dr NE Blaine, MN 55434
+mn:Roseville (MN):2090 Snelling Ave N Roseville, MN 55113
+mn:St. Cloud State University:720 4th Ave S Saint Cloud, MN 56301
+mn:University of Minnesota:300 Washington Ave Se Minneapolis, MN 55455
+mn:West St. Paul:1770 Robert St S West Saint Paul, MN 55118
+ms:Alcorn State University:1000 Alcorn Dr Lorman, MS 39096
+ms:Barnes Crossing Mall:1001 Barnes Crossing Rd Ste 14 Tupelo, MS 38804
+ms:Brandon:201 Disotell Blvd Brandon, MS 39042
+ms:Byram In-Line DT:401 Handley Blvd Ste A Byram, MS 39272
+ms:Clinton:952 Highway 80 E Clinton, MS 39056
+ms:Columbus:528 18th Ave N Columbus, MS 39705
+ms:County Line Road:1065 E County Line Rd Jackson, MS 39211
+ms:Delta State University:200 Washington St Nowell Student Union Building Cleveland, MS 38732
+ms:D'Iberville:3842 Promenade Pkwy Diberville, MS 39540
+ms:Dogwood Festival:274 Dogwood Blvd Flowood, MS 39232
+ms:Edgewater Mall:2600 Beach Blvd Biloxi, MS 39531
+ms:Getwell Road:6885 Getwell Rd N Southaven, MS 38672
+ms:Gulfport:11001 Highway 49 Gulfport, MS 39503
+ms:Hattiesburg:6099 U S Highway 98 Hattiesburg, MS 39402
+ms:Jackson State University:1400 J R Lynch St Student Center Jackson, MS 39217
+ms:Laurel (MS):1138 Highway 15 N Laurel, MS 39440
+ms:Madison (MS):1873 Main St Madison, MS 39110
+ms:Meridian (MS):109 S Frontage Rd Meridian, MS 39301
+ms:Mississippi Baptist Medical Center:1225 N State St Jackson, MS 39202
+ms:Mississippi State University:Perry Cafeteria/Darden Avenue Mississippi State, MS 39762
+ms:North Mississippi Medical Center:830 S Gloster St Tupelo, MS 38801
+ms:Northpark Mall (MS):1200 E County Line Rd Ste 232 Ridgeland, MS 39157
+ms:Olive Branch:8101 Camp Creek Rd Olive Branch, MS 38654
+ms:Regions Plaza:210 E Capitol St Jackson, MS 39201
+ms:Sawmill Square:910 Sawmill Rd Ste 206 Laurel, MS 39440
+ms:Southaven:235 Goodman Rd W Southaven, MS 38671
+ms:Starkville:701 Highway 12 E Starkville, MS 39759
+ms:Thompson Square:908 Barnes Crossing Rd Tupelo, MS 38804
+ms:Turtle Creek Mall:1000 Turtle Creek Dr Ste 270 Hattiesburg, MS 39402
+ms:University of Mississippi:115 Northgate Dr Fl Third Student Union Building, Third Floor University, MS 38677
+ms:University of Mississippi Medical Center:2500 N State St Jackson, MS 39216
+ms:University of Southern Mississippi:118 College Dr Union Building Hattiesburg, MS 39406
+ms:Vicksburg:3403 Halls Ferry Rd Vicksburg, MS 39180
+ms:West Jackson Avenue:2307 Jackson Ave W Oxford, MS 38655
+mo:Arnold:1 Arnold Mall Arnold, MO 63010
+mo:Barry Road:6501 NW Barry Rd Kansas City, MO 64154
+mo:Battlefield Mall:2825 S Glenstone Ave Ste Vc-11 Springfield, MO 65804
+mo:Blue Springs:951 NE Coronado Dr Blue Springs, MO 64014
+mo:Branson:607 W Main St Branson, MO 65616
+mo:Brentwood (MO):8590 Eager Rd Brentwood, MO 63144
+mo:Bridgeton (MO):12450 Saint Charles Rock Rd Bridgeton, MO 63044
+mo:Cape Girardeau:3333 Gordonville Rd Cape Girardeau, MO 63703
+mo:Chesterfield Valley:17365 Chesterfield Airport Rd Chesterfield, MO 63005
+mo:Des Peres:11997 Manchester Rd Des Peres, MO 63131
+mo:Ellisville:304 Clarkson Rd Ellisville, MO 63011
+mo:Florissant (MO):3155 N Highway 67 Florissant, MO 63033
+mo:Glenstone:3700 S Glenstone Ave Springfield, MO 65804
+mo:Hampton & Chippewa:3801 Hampton Ave Saint Louis, MO 63109
+mo:Independence Center:18785 E 39th St S Independence, MO 64057
+mo:Jefferson City:3407 Missouri Blvd Jefferson City, MO 65109
+mo:Lee's Summit:690 Nw Blue Pkwy Lees Summit, MO 64086
+mo:Liberty:110 N Conistor Ln Liberty, MO 64068
+mo:Lindenwood University:209 S Kingshighway St Spellman Student Center Saint Charles, MO 63301
+mo:Mid Rivers Mall Dr & 94:6180 Mid Rivers Mall Dr Saint Peters, MO 63304
+mo:Missouri State University:901 S National Plaster Student Union Springfield, MO 65897
+mo:Missouri University of Science & Technology:1346 N Bishop Ave Rolla, MO 65409
+mo:Missouri Western State University:4525 Downs Dr Blum Student Union Food Court Saint Joseph, MO 64507
+mo:Northpark Mall (MO):101 N Range Line Rd Joplin, MO 64801
+mo:Northwest Missouri State University:800 University Dr J.W. Jones Student Center Maryville, MO 64468
+mo:O'Fallon:2106 Highway K O Fallon, MO 63368
+mo:Range Line Road:2127 S Range Line Rd Joplin, MO 64804
+mo:South County:4125 Lemay Ferry Rd St. Louis, MO 63129
+mo:Southeast Missouri State University:1 University Plz MS 1700 Cape Girardeau, MO 63701
+mo:St. Joseph:5303 N Belt Hwy Saint Joseph, MO 64506
+mo:St. Louis College of Pharmacy:4588 Parkview Pl Parkview Cafe Saint Louis, MO 63110
+mo:Stadium Boulevard:305 N Stadium Blvd Columbia, MO 65203
+mo:Sunset Hills:10706 Sunset Hills Plz Saint Louis, MO 63127
+mo:Sunshine & Campbell:425 W Sunshine St Springfield, MO 65807
+mo:Truman State University:901 S. Franklin St. Kirksville, MO 63501
+mo:University of Central Missouri:517 South Holden Elliott University Union Warrensburg, MO 64093
+mo:University of Missouri - Kansas City:5100 Cherry St Bldg. #216, Student Union Kansas City, MO 64110
+mo:Ward Parkway:8551 State Line Rd Kansas City, MO 64114
+mo:Wentzville:1918 Wentzville Pkwy Wentzville, MO 63385
+mo:West County Center:184 W County Ctr Spc N Des Peres, MO 63131
+mt:Kalispell:35 Treeline Rd Kalispell, MT 59901
+ne:123rd & Dodge:12310 W Dodge Rd Omaha, NE 68154
+ne:48th & O Street:4770 O St Lincoln, NE 68510
+ne:72nd & Sorensen:6310 N 72nd St Omaha, NE 68134
+ne:76th & Dodge:7575 Dodge St Omaha, NE 68114
+ne:Bellevue:2016 Cornhusker Rd Bellevue, NE 68123
+ne:Legacy Village:17501 W Center Rd Omaha, NE 68130
+ne:Mutual of Omaha:33rd And Dodge St Mutual of Omaha Plaza Omaha, NE 68175
+ne:Mutual of Omaha Bank:3333 Farnam St Omaha, NE 68131
+ne:Papillion:8710 S 71st Plz Papillion, NE 68133
+ne:SouthPointe Pavilions:6810 S 27th St Lincoln, NE 68512
+ne:University of Nebraska - Lincoln:1400 R St Nebraska Union Lincoln, NE 68588
+ne:University of Nebraska at Kearney:1013 W 27th St Nebraskan Student Union Kearney, NE 68849
+nv:Craig Road & Scott Robinson:1720 W Craig Road North Las Vegas, NV 89031
+nv:Eastern and Ione:9925 S Eastern Ave Las Vegas, NV 89183
+nv:Flamingo & Valley View:3841 W Flamingo Rd Las Vegas, NV 89103
+nv:Golden Nugget Las Vegas Hotel:129 Fremont St Las Vegas, NV 89101
+nv:Las Vegas Blvd & I-215:7010 S. Las Vegas Blvd Las Vegas, NV 89119
+nv:Rainbow & Lake Mead:1991 N Rainbow Blvd Las Vegas, NV 89108
+nv:Sahara at I-15:2480 S Rancho Dr Las Vegas, NV 89102
+nv:South McCarran and 580:6365 S McCarran Blvd Reno, NV 89509
+nv:Sparks Blvd & I-80:1390 Big Fish Dr Sparks, NV 89434
+nv:Stephanie at Warm Springs:460 N Stephanie St Henderson, NV 89014
+nv:Strip at Harmon In-Line:3667 Las Vegas Blvd S Las Vegas, NV 89109
+nh:Pheasant Lane Mall:310 Daniel Webster Hwy Ste 144 Nashua, NH 03060
+nh:Somerset Plaza:377 Amherst St Nashua, NH 03063
+nj:Audubon Crossings:110 Black Horse Pike Suite 850 Audubon, NJ 08106
+nj:Berlin Cross Keys Road:481 Cross Keys Rd Sicklerville, NJ 08081
+nj:Berlin Township:244 N Route 73 West Berlin, NJ 08091
+nj:Brick Township:522 Route 70 Brick, NJ 08723
+nj:Burlington Township:1817 Mount Holly Rd Burlington, NJ 08016
+nj:Centerton Square:58 Centerton Rd Mount Laurel, NJ 08054
+nj:Cherry Hill:400 Haddonfield Rd Cherry Hill, NJ 08002
+nj:Cumberland:3849 S Delsea Dr Suite I000 Vineland, NJ 08360
+nj:Delaware Gap Travel Plaza:19 Simpson Road Columbia, NJ 07832
+nj:Delran:1301 Fairview Blvd Delran, NJ 08075
+nj:Deptford:1480 Clements Bridge Rd Deptford, NJ 08096
+nj:Deptford Mall:1750 Deptford Center Rd Ste F17 Deptford, NJ 08096
+nj:East Gate Square:1418 Nixon Dr Mount Laurel, NJ 08054
+nj:Egg Harbor:6038 Black Horse Pike Egg Harbor Township, NJ 08234
+nj:Englewood (NJ) In-Line:2 Nathaniel Pl Englewood, NJ 07631
+nj:Fire Road:6801 Black Horse Pike Suite 600 Egg Harbor Township, NJ 08234
+nj:Flemington:287 US Highway 202/31 S Flemington, NJ 08822
+nj:Freehold Raceway Mall:3710 US Highway 9 Ste 2314 Freehold, NJ 07728
+nj:Garden State Park In-Line:2020 Marlton Pike W Ste C Cherry Hill, NJ 08002
+nj:Garden State Plaza:1 Garden State Plz Spc Fc-10 Space FC-10 Paramus, NJ 07652
+nj:Hamilton Marketplace:555 Marketplace Blvd Hamilton, NJ 08691
+nj:Howell:4881 Us Highway 9 Howell, NJ 07731
+nj:Mantua Square:621 Woodbury Glassboro Rd Sewell, NJ 08080
+nj:Marlkress:1749 Marlton Pike E Cherry Hill, NJ 08003
+nj:Marlton:220 Route 73 N Marlton, NJ 08053
+nj:Menlo Park Mall:55 Parsonage Rd Unit 434 Edison, NJ 08837
+nj:Monmouth Mall:180 Highway 35 Spc F-9 Eatontown, NJ 07724
+nj:Morris Plains:1711 NJ-10
+nj:Newport Centre:30 Mall Dr W Jersey City, NJ 07310
+nj:Old Bridge:770 Texas Rd Old Bridge, NJ 08857
+nj:Old Bridge:628 Texas Rd Old Bridge, NJ 08857
+nj:Paramus Park Shopping Center:2065 Paramus Park Mall Paramus, NJ 07652
+nj:Phillipsburg:1194 US Highway 22 Phillipsburg, NJ 08865
+nj:Ramsey (NJ):726 State Rt 17 Ramsey, NJ 07446
+nj:South Plainfield:6851 Middlesex Mall South Plainfield, NJ 07080
+nj:St. Georges Ave:1040 US Highway 1 N Woodbridge, NJ 07095
+nj:Stockton University:101 Vera King Farris Dr College Center Galloway, NJ 08205
+nj:Terrill Road:1640 US Highway 22 Watchung, NJ 07069
+nj:Teterboro Landing:19 Teterboro Landing Dr Teterboro, NJ 07608
+nj:The Mall at Voorhees Town Center:1530 The Mall at Voorhees Town Center Voorhees, NJ 08043
+nj:Thomas Edison Travel Plaza:Mile Marker 92.9 South New Jersey Turnpike Woodbridge, NJ 07095
+nj:Union Township:2319 US Highway 22 W Union, NJ 07083
+nj:Voorhees:1170 White Horse Rd Voorhees, NJ 08043
+nj:Washington Township at Greentree Rd:5651 Route 42 Turnersville, NJ 08012
+nj:Wayne Towne Center (NJ) In-Line:88 Willowbrook Blvd Wayne, NJ 07470
+nj:Woodbridge Center:434 Woodbridge Ctr Woodbridge, NJ 07095
+nm:Central & Eubank:210 Eubank Blvd SE Albuquerque, NM 87123
+nm:Cerrillos Road:2400 Cerrillos Rd Santa Fe, NM 87505
+nm:Coors:4001 Coors Blvd NW Albuquerque, NM 87120
+nm:Cottonwood:3801 Ellison Rd NW Albuquerque, NM 87114
+nm:E. University Ave:1105 E University Ave Las Cruces, NM 88001
+nm:Gibson Boulevard:1600 Gibson Blvd SE Albuquerque, NM 87106
+nm:Lohman Avenue:2091 E Lohman Ave Las Cruces, NM 88001
+nm:Main Street & English Road:4910 E Main St Farmington, NM 87402
+nm:Mesilla Valley Mall:700 S Telshor Blvd Ste 1254 Las Cruces, NM 88011
+nm:Montgomery and San Mateo:5009 Montgomery Blvd NE Albuquerque, NM 87109
+nm:New Mexico State University Student Center:Corbett Ctr Rm 130 Las Cruces, NM 88003
+nm:Paseo Del Norte:8110 San Pedro Dr NE Albuquerque, NM 87113
+nm:University of New Mexico:201 La Posada Albuquerque, NM 87131
+nm:Unser & Southern:1058 Unser Blvd SE Rio Rancho, NM 87124
+nm:Wyoming Boulevard:2274 Wyoming Blvd NE Albuquerque, NM 87112
+ny:1536 3rd Avenue In-Line:1536 3rd Ave New York, NY 10028
+ny:22nd & 6th In-Line:700 Avenue of the Americas New York, NY 10010
+ny:37th & 6th In-Line:1000 Avenue of the Americas New York, NY 10018
+ny:42nd & Madison In-Line:50 E 42nd St New York, NY 10017
+ny:46th & 6th In-Line:1180 Avenue Of The Americas New York, NY 10036
+ny:711 Lexington Avenue In-Line:711 Lexington Ave New York, NY 10022
+ny:918 8th Avenue In-Line:918 8th Ave New York, NY 10019
+ny:Albany International Airport:737 Albany Shaker Rd Albany, NY 12211
+ny:Cicero:7916 Brewerton Rd Cicero, NY 13039
+ny:Commack:656 Commack Rd Commack, NY 11725
+ny:Farmingdale:1991 Broadhollow Rd Farmingdale, NY 11735
+ny:Farmingdale State College:2350 Broad Hollow Rd Farmingdale, NY 11735
+ny:Flatbush and Atlantic In-Line:166 Flatbush Ave Brooklyn, NY 11217
+ny:Fordham University - Lincoln:113 W 60th St Ram Cafe New York, NY 10023
+ny:Fulton Street In-Line:144 Fulton St New York, NY 10038
+ny:Greece:2140 W Ridge Rd Greece, NY 14626
+ny:Hicksville NY:1401 Broadway Mall Hicksville, NY 11801
+ny:New York University:5 University Pl # 11 Weinstein Food Court New York, NY 10003
+ny:Plattsburgh:400 State Route 3 Plattsburgh, NY 12901
+ny:Port Jefferson:5184 Nesconset Hwy Port Jefferson Station, NY 11776
+ny:Queens Center Mall:9015 Queens Blvd Ste 7 Elmhurst, NY 11373
+ny:Roosevelt Field Mall:630 Old Country Rd Garden City, NY 11530
+ny:Staten Island Mall:2655 Richmond Ave Staten Island, NY 10314
+ny:Transit & Losson:4942 Transit Rd Depew, NY 14043
+ny:Westbury:1530 Old Country Rd Westbury, NY 11590
+nc:95 & 264 [NC]:5100 Raleigh Road Pkwy W Wilson, NC 27896
+nc:Afton Ridge:6061 Bayfield Pkwy Concord, NC 28027
+nc:Albemarle:625 NC Hwy 24/27 byp E Albemarle, NC 28001
+nc:Albemarle Road:9010 Albemarle Rd Charlotte, NC 28227
+nc:Apex:1110 Beaver Creek Commons Dr Apex, NC 27502
+nc:Appalachian State University:Stadium Dr Trivette Hall Boone, NC 28608
+nc:Arboretum:3117 Pineville Matthews Rd Charlotte, NC 28226
+nc:Asheboro:1212 E Dixie Dr Asheboro, NC 27203
+nc:Asheville Mall:3 S Tunnel Rd Asheville, NC 28805
+nc:Bank of America Plaza:101 S Tryon St Ste 9 2 Bank of America Plaza Charlotte, NC 28280
+nc:Belmont:801 Park St Belmont, NC 28012
+nc:Blakeney:10001 Rea Rd Charlotte, NC 28277
+nc:Boone:2082 Blowing Rock Rd Boone, NC 28607
+nc:Brassfield:3703 Battleground Ave Greensboro, NC 27410
+nc:Brier Creek Parkway at Lumley Road:8901 Brier Creek Pkwy Raleigh, NC 27617
+nc:Cameron Village:2000 Cameron St Raleigh, NC 27605
+nc:Campbell University:85 Main Street Britt Hall Buies Creek, NC 27506
+nc:Capital Crossing:4621 Capital Blvd Raleigh, NC 27604
+nc:Carolina Mall:1480 Concord Pkwy N Concord, NC 28025
+nc:Carolina Pavilion:9801 South Blvd Charlotte, NC 28273
+nc:Carolina Place:11025 Carolina Place Pkwy Ste Fc10 Pineville, NC 28134
+nc:Carolinas Medical Center:1001 Blythe Blvd Charlotte, NC 28203
+nc:Carraway Village:101 Village Center Drive Chapel Hill, NC 27516
+nc:Cary Towne Center:1105 Walnut St Ste FC-7 Cary, NC 27511
+nc:Charlotte-Douglas International Airport:5501 Birmingham Parkway Charlotte, NC 28208
+nc:Clemmons:2551 Lewisville Clemmons Rd Clemmons, NC 27012
+nc:Cleveland Mall:2001 E Dixon Blvd Ste 38 Shelby, NC 28152
+nc:Cobb Corners:1332 Jeffreys Rd Rocky Mount, NC 27804
+nc:Concord Commons:985 Concord Pkwy S Concord, NC 28027
+nc:Concord Mills:8020 Concord Mills Blvd Concord, NC 28027
+nc:Concord Parkway:1475 Concord Pkwy N Concord, NC 28025
+nc:Cornelius:17035 Nat Bynum Cornelius, NC 28031
+nc:Cotswold:4431 Randolph Rd Charlotte, NC 28211
+nc:Crabtree Valley Mall:4325 Glenwood Ave Ste 2040 Raleigh, NC 27612
+nc:Cross Creek Mall (NC):419 Cross Creek Mall Fayetteville, NC 28303
+nc:Crossroads Plaza Cary:1815 Walnut St Cary, NC 27518
+nc:Davis Lake:8433 Davis Lake Pkwy Charlotte, NC 28269
+nc:Denver (NC):7267 Highway 73 Denver, NC 28037
+nc:Downtown Raleigh:400 Fayetteville St Raleigh, NC 27601
+nc:Duke University Childrens Hospital:Pg2 Erwin Rd Ste 40 Suite 0040 Durham, NC 27710
+nc:Duke University Medical Center:S Food Ct Flowers Drive Durham, NC 27710
+nc:East Carolina University - Croatan:5th Street The Croatan Greenville, NC 27858
+nc:East Carolina University - Mendenhall:1000 E 5th St Mendenhall Student Center Greenville, NC 27858
+nc:East Woodlawn Road:1540 E Woodlawn Rd Charlotte, NC 28209
+nc:Eastchester:3855 John Gordon Ln High Point, NC 27265
+nc:Elizabeth City:1706 W Ehringhaus St Elizabeth City, NC 27909
+nc:Elkin:541 Cc Camp Rd Elkin, NC 28621
+nc:Elon University Commons:1477 University Dr Burlington, NC 27215
+nc:Falls Village:6701 Falls of Neuse Rd Raleigh, NC 27615
+nc:Fayetteville State University:1200 Murchison Rd Student Center Fayetteville, NC 28301
+nc:Four Seasons Town Centre:348 Four Seasons Town Ctr Greensboro, NC 27407
+nc:Franklin Square:3350 E Franklin Blvd Gastonia, NC 28056
+nc:Friendly:611 Pembroke Rd Greensboro, NC 27408
+nc:Fuquay Varina:1460 N Main St Fuquay Varina, NC 27526
+nc:Gardner-Webb University:100 S Main St Dover Campus Center Boiling Springs, NC 28017
+nc:Garner Towne Square:2720 Timber Dr Garner, NC 27529
+nc:Gate City:2710 Koury Blvd Greensboro, NC 27407
+nc:Gateway Village:800 W Trade St Charlotte, NC 28202
+nc:Goldsboro:1201 N Berkeley Blvd Goldsboro, NC 27534
+nc:Greenville Mall:714 Greenville Blvd Se Ste F7 Greenville, NC 27858
+nc:Guilford College:5901 W Friendly Ave Greensboro, NC 27410
+nc:Hanes Mall:3320 Silas Creek Pkwy Ste FC7 Winston Salem, NC 27103
+nc:Hanes Mall Boulevard:924 Hanes Mall Blvd Winston Salem, NC 27103
+nc:Harris Square (NC):6805 Jenkins Ln. Harrisburg, NC 28075
+nc:Harrison Square:1803 N Harrison Ave Cary, NC 27513
+nc:Henderson:200 Trade St Henderson, NC 27536
+nc:Hendersonville:52 Highlands Square Dr Hendersonville, NC 28792
+nc:Heritage Village:1010 Forestville Rd Wake Forest, NC 27587
+nc:High Point:2700 N Main St High Point, NC 27265
+nc:High Point University:833 Montlieu Ave High Point, NC 27262
+nc:Hillsborough Road:3429 Hillsborough Rd Durham, NC 27705
+nc:Holly Springs:801 Village Walk Dr Holly Springs, NC 27540
+nc:Hope Mills:3101 N Main St Hope Mills, NC 28348
+nc:Huffman Mill:3102 Garden Rd Burlington, NC 27215
+nc:Independence Mall:3500 Oleander Dr Ste Fc2 Wilmington, NC 28403
+nc:Indian Trail:13801 E Independence Blvd Indian Trail, NC 28079
+nc:Jacksonville Mall:306 Jacksonville Mall Jacksonville, NC 28546
+nc:Jacksonville Mall Drive-Thru Only:304B Western Blvd Jacksonville, NC 28546
+nc:Kernersville:1110 S Main St Kernersville, NC 27284
+nc:Kinston:4499 Us Highway 70 W Kinston, NC 28504
+nc:Knightdale:6711 Knightdale Blvd Knightdale, NC 27545
+nc:Lake Boone Trail:3770 Lake Boone Trl Raleigh, NC 27607
+nc:Lake Norman:16915 Statesville Rd Huntersville, NC 28078
+nc:Laurinburg [NC]:914 S 401 Bypass Hwy Laurinburg, NC 28352
+nc:Leland Town Center:3571 Leland Town Center Drive Leland, NC 28451
+nc:Lenoir Rhyne University:625 7th Ave Ne Cromer Center - Bear's Lair Hickory, NC 28601
+nc:Lexington Parkway Plaza:75 Plaza Pkwy Lexington, NC 27292
+nc:Lincolnton [NC]:1904 E Main St Lincolnton, NC 28092
+nc:Lumberton:230 Jackson Ct Lumberton, NC 28358
+nc:Market Street:5123 Market St Wilmington, NC 28405
+nc:Matthews:9905 Matthews Park Dr Matthews, NC 28105
+nc:Mayfaire:6891 Swan Mill Rd Wilmington, NC 28405
+nc:Mebane:1311 Mebane Oaks Rd Mebane, NC 27302
+nc:Merrimon Avenue:170 Merrimon Ave Asheville, NC 28801
+nc:Methodist University:5400 Ramsey St Berns Student Center Fayetteville, NC 28311
+nc:Monkey Junction:5106 S College Rd Wilmington, NC 28412
+nc:Monroe (NC):2592 W Roosevelt Blvd Monroe, NC 28110
+nc:Monroe Crossing Mall:2115 W Roosevelt Blvd Ste 105 Monroe, NC 28110
+nc:Mooresville:457 River Hwy Mooresville, NC 28117
+nc:Morehead City:5156 Hwy 70 W Morehead City, NC 28557
+nc:Morganton:1006 Burkemont Ave Morganton, NC 28655
+nc:Mount Airy:2007 Rockford St Mount Airy, NC 27030
+nc:Mountain Island:9731 Callabridge Ct Charlotte, NC 28216
+nc:NC A&T (NC Agricultural & Technical State Univ.):1601 E Market St Dining Services Greensboro, NC 27411
+nc:New Bern:3000 M L King Jr Blvd New Bern, NC 28562
+nc:North Carolina Central University:610 E. Lawson St. W.G Pearson Student Center Durham, NC 27707
+nc:North Carolina State University:2600 Founders Dr Raleigh, NC 27695
+nc:North Hills In-Line (NC):4154 Main at North Hills St Suite 114 Raleigh, NC 27609
+nc:Northlake Mall (NC):6801 Northlake Mall Dr Ste FC201 Ste FC201 Charlotte, NC 28216
+nc:Northlake Parkway:8411 Northlake Commons Blvd Charlotte, NC 28216
+nc:Oleander:3389 Oleander Dr Wilmington, NC 28403
+nc:Parkside Town Commons:7107 Okelly Chapel Rd Cary, NC 27519
+nc:Peace Haven:1925 N Peace Haven Rd Winston Salem, NC 27106
+nc:Peters Creek:3343 Sides Branch Rd Winston Salem, NC 27127
+nc:Porters Neck Rd:195 Porters Neck Rd Wilmington, NC 28411
+nc:Prosperity Church Rd:5920 Prosperity Church Rd Charlotte, NC 28269
+nc:Raeford Road:2727 Raeford Rd Fayetteville, NC 28303
+nc:Ramsey Street:4611 Ramsey St Fayetteville, NC 28311
+nc:Randolph Mall:425 Randolph Mall Asheboro, NC 27203
+nc:Renaissance Village:7836 Leonardo Dr Durham, NC 27713
+nc:Research Triangle:104 Residence Inn Blvd Durham, NC 27713
+nc:Rivergate Parkway:14111 Rivergate Pkwy Charlotte, NC 28273
+nc:Roanoke Rapids:280 Premier Blvd Roanoke Rapids, NC 27870
+nc:Roxboro Road:3912 N Roxboro St Durham, NC 27704
+nc:Sanford:3224 NC Highway 87 S Sanford, NC 27332
+nc:Shelby:719 E Dixon Blvd Shelby, NC 28152
+nc:Six Forks and Strickland Road:8661 Six Forks Rd Raleigh, NC 27615
+nc:Skibo Square:1921 Skibo Rd Fayetteville, NC 28314
+nc:Smith Crossroads:116 Wilkesboro Blvd SE Lenoir, NC 28645
+nc:Smithfield:1300 N Brightleaf Blvd Smithfield, NC 27577
+nc:South Asheville:1832 Hendersonville Rd Asheville, NC 28803
+nc:South End:3015 South Blvd Charlotte, NC 28209
+nc:South Hickory:1815 US Highway 70 SE Hickory, NC 28602
+nc:South Square:4139 Durham Chapel Hill Blvd Durham, NC 27707
+nc:Southern Pines:10735 S. US Highway 15/501 Southern Pines, NC 28387
+nc:Southpark (NC):4400 Sharon Rd # VC06 Charlotte, NC 28211
+nc:Stanleyville:328 E Hanes Mill Rd Winston Salem, NC 27105
+nc:Statesville:228 Turnersburg Hwy Statesville, NC 28625
+nc:Stone Creek Village:1000 Valleystone Dr Cary, NC 27519
+nc:Stonecrest at Piper Glen:7910 Rea Rd Charlotte, NC 28277
+nc:The Streets at Southpoint:6910 Fayetteville Rd Ste 246 Durham, NC 27713
+nc:The Village at North Elm:209 Pisgah Church Rd Greensboro, NC 27455
+nc:Thruway Shopping Center:391 Knollwood St Winston Salem, NC 27103
+nc:Towne Creek Commons:902 E Innes St Salisbury, NC 28144
+nc:Townridge Square:6612 Glenwood Ave Raleigh, NC 27612
+nc:Triangle Town Center:5959 Triangle Town Blvd Spc FC1104 Raleigh, NC 27616
+nc:Tunnel Road Drive-Thru Only:40 S Tunnel Rd Asheville, NC 28805
+nc:University Commons:3020 Evans St Greenville, NC 27834
+nc:University of NC - Pembroke:355 N. Odum Street James B. Chavis Center Pembroke, NC 28372
+nc:University of NC-Chapel Hill (Lenoir Hall):36 Lenior Hall Chapel Hill, NC 27599
+nc:University of NC-Charlotte:9201 University City Blvd Cone Center ID Office Charlotte, NC 28223
+nc:University of NC-Greensboro (Elliott Center):516 Stirling St Greensboro, NC 27412
+nc:University of NC-Wilmington:601 S College Rd Wilmington, NC 28403
+nc:University of North Carolina Hospital-Beach:1 Medical Dr Beach Cafe, Brinkhouse-Bullitt Chapel Hill, NC 27599
+nc:University Place:8700 University Exec Park Dr Charlotte, NC 28262
+nc:University Place (NC):201 S Estes Dr Spc 51 Chapel Hill, NC 27514
+nc:Valley Hills Mall:1960 US Highway 70 SE Ste 2-121 Hickory, NC 28602
+nc:Viewmont:1239 2nd St NE Hickory, NC 28601
+nc:Wake Forest:11730 Retail Dr Wake Forest, NC 27587
+nc:Wake Forest Baptist Medical Center:1 Medical Center Blvd Wattlington Hall Ground Floor Winston Salem, NC 27157
+nc:Wake Forest University:1834 Wake Forest Dr Benson Food Court Center Winston Salem, NC 27109
+nc:Waverly:11530 Waverly Center Dr Charlotte, NC 28277
+nc:Waverly Place:411 Colonades Way Cary, NC 27518
+nc:Waynesville:45 Barber Blvd Waynesville, NC 28786
+nc:Wells Fargo Bank:1525 W W T Harris Blvd Charlotte, NC 28262
+nc:Wendover:1100 Lanada Rd Greensboro, NC 27407
+nc:Wesley Chapel Weddington:6390 Weddington Rd Matthews, NC 28104
+nc:West Asheville:139 Smokey Park Hwy Asheville, NC 28806
+nc:Western Boulevard:1405 Western Blvd Jacksonville, NC 28546
+nc:Western Carolina University:160 West University Way Courtyard Food Court Cullowhee, NC 28723
+nc:White Oak Crossing:220 Shenstone Ln Garner, NC 27529
+nc:Whitehall Commons Shopping Center:8032 S Tryon St Charlotte, NC 28273
+nc:Wilkesboro:2007 W Us Highway 421 Wilkesboro, NC 28697
+nc:Wilson:2407 Forest Hills Rd W Wilson, NC 27893
+nc:Wingate University:220 N Camden Rd The Klondike Building Wingate, NC 28174
+nc:Winston Salem State University:601 S Martin Luther King Jr Dr Donald Julian Reaves Student Center Winston Salem, NC 27110
+nc:Winterville:4239 Winterville Pkwy Winterville, NC 28590
+nd:Grand Forks:3230 32nd Ave S Grand Forks, ND 58201
+nd:West Acres:4100 13th Ave S Fargo, ND 58103
+oh:Airport Highway:6720 Airport Hwy Holland, OH 43528
+oh:Anderson:8598 Beechmont Ave Cincinnati, OH 45255
+oh:Beachwood Place Mall:26300 Cedar Rd Ste FC5 Beachwood, OH 44122
+oh:Beavercreek:2360 N Fairfield Rd Beavercreek, OH 45431
+oh:Belden Village Mall:4228 Belden Village Mall Canton, OH 44718
+oh:Benchwood:3339 Benchwood Rd Dayton, OH 45414
+oh:Bridgewater Falls:3403 Princeton Rd Fairfield, OH 45011
+oh:Cedar Point Theme:1 Cedar Point Dr Frontier Land Sandusky, OH 44870
+oh:Central & McCord:6636 W Central Ave Toledo, OH 43617
+oh:Chapel Hill:420 Howe Ave Cuyahoga Falls, OH 44221
+oh:Cleveland-Hopkins International Airport:5300 Riverside Dr Cleveland, OH 44135
+oh:Colerain Commons:9496 Colerain Ave Cincinnati, OH 45251
+oh:Cornerstone:5301 Cornerstone North Blvd Centerville, OH 45440
+oh:Dayton Mall:2700 Miamisburg-Ctrvil Rd #212 Dayton, OH 45459
+oh:Deerfield Crossing:5150 Merten Dr Mason, OH 45040
+oh:Dressler Road:5411 Dressler Rd NW North Canton, OH 44720
+oh:Eastgate:874 Eastgate North Dr Cincinnati, OH 45245
+oh:Easton Town Center:3940 Morse Rd Columbus, OH 43219
+oh:Fairfield (OH):6305 S Gilmore Rd Fairfield, OH 45014
+oh:Findlay (OH):1931 Tiffin Ave Findlay, OH 45840
+oh:Franklin Park Mall:5001 Monroe St Ste FC10 Toledo, OH 43623
+oh:Grandview Yard:807 W 3rd Ave Columbus, OH 43212
+oh:Great Lakes Mall:7850 Mentor Ave Ste 870 Mentor, OH 44060
+oh:Grove City:1696 Stringtown Rd Grove City, OH 43123
+oh:Harvard Park:4001 Richmond Rd Warrensville Heights, OH 44122
+oh:Howland:1885 Niles Cortland Rd SE Warren, OH 44484
+oh:Kenwood Towne Centre:7875 Montgomery Rd Spc F5 Cincinnati, OH 45236
+oh:Kettering:480 E Stroop Rd Kettering, OH 45429
+oh:Kings Island Theme Park OSL:6300 Kings Island Dr Mason, OH 45040
+oh:Liberty Way:7602 Trailside Dr West Chester, OH 45069
+oh:Macedonia:8213 Golden Link Blvd Macedonia, OH 44067
+oh:Mall at Fairfield Commons:2727 Fairfield Commons Blvd Spc F225 Beavercreek, OH 45431
+oh:Market at East Broad:6240 E Broad St Columbus, OH 43213
+oh:Market of Hilliard:1988 Hilliard Rome Rd Hilliard, OH 43026
+oh:Mayfield Heights (OH):6390 Mayfield Rd Mayfield Heights, OH 44124
+oh:Mentor:9611 Mentor Ave Mentor, OH 44060
+oh:Milford Miami Township:5700 Romar Dr Milford, OH 45150
+oh:Montrose:47 Flight Memorial Pkwy Fairlawn, OH 44333
+oh:North Olmsted:4779 Great Northern Blvd North Olmsted, OH 44070
+oh:Oakley Station:4695 Marburg Ave Cincinnati, OH 45209
+oh:Perrysburg Plaza:10315 Fremont Pike Perrysburg, OH 43551
+oh:Polaris Fashion Place Mall:1500 Polaris Pkwy Ste FC4 Columbus, OH 43240
+oh:Polaris Parkway:8787 Sancus Blvd Columbus, OH 43240
+oh:Rocky River:20801 Center Ridge Rd Rocky River, OH 44116
+oh:Sandusky (OH):4661 Milan Rd Sandusky, OH 44870
+oh:Sawmill Road:6051 Sawmill Rd Dublin, OH 43017
+oh:Secor Road:3308 Secor Rd Toledo, OH 43606
+oh:Solon (OH):6150 Som Center Rd Solon, OH 44139
+oh:Southern Park:7401 Market St Rm 857 Boardman, OH 44512
+oh:Springdale:501 E Kemper Rd Springdale, OH 45246
+oh:St. Clairsville:67950 Mall Ring Road Saint Clairsville, OH 43950
+oh:Strongsville:16584 Royalton Rd Strongsville, OH 44136
+oh:Sylvania & Talmadge:4260 W Sylvania Ave Toledo, OH 43623
+oh:The OSU In-Line:1924 N High St Columbus, OH 43201
+oh:Tiffany Square Plaza:1110 Boardman-Poland Rd Poland, OH 44514
+oh:Troy In-Line DT:1910 W Main St Troy, OH 45373
+oh:Tuttle Crossing Mall:5043 Tuttle Crossing Blvd Ste 169 Dublin, OH 43016
+oh:University of Akron-Student Center:303 Carroll St Student Center Akron, OH 44325
+oh:University of Akron-Summit College:225 S Main St Polsky Building Akron, OH 44325
+oh:University of Cincinnati:2701 Bearcat Way University Tangeman Center Cincinnati, OH 45221
+oh:University of Toledo:2801 W Bancroft St Student Union Toledo, OH 43606
+oh:Voice of America:7733 Voice of America Centre Dr West Chester, OH 45069
+oh:Washington Township:1482 Miamisburg Centerville Rd Dayton, OH 45459
+oh:Western Hills:6495 Glenway Ave Cincinnati, OH 45211
+oh:Willoughby Commons:35441 Euclid Ave Willoughby, OH 44094
+oh:Youngstown State University:1 University Plz Kilcawley Center Youngstown, OH 44555
+ok:12th Avenue:120 12th Ave NE Norman, OK 73071
+ok:15th & Sooner:5705 SE 15th St Midwest City, OK 73110
+ok:240 & Western:920 W I 240 Service Rd Oklahoma City, OK 73139
+ok:29th & Town Center:7331 SE 29th St Midwest City, OK 73110
+ok:2nd & Bryant:1210 E 2nd St Edmond, OK 73034
+ok:33rd & Broadway:52 E 33rd St Edmond, OK 73013
+ok:Ada:1500 Lonnie Abbott Blvd Ada, OK 74820
+ok:Ardmore:2500 12th Ave NW Ardmore, OK 73401
+ok:Bartlesville:602 SE Washington Blvd Bartlesville, OK 74006
+ok:Bixby:10437 S Memorial Dr Tulsa, OK 74133
+ok:Broken Arrow:850 E. Kenosha Street Broken Arrow, OK 74012
+ok:Cache Road:2301 NW Cache Rd Lawton, OK 73505
+ok:Central Mall (OK):200 SW C Ave 18 Central Mall Lawton, OK 73501
+ok:Claremore:664 S Lynn Riggs Blvd Claremore, OK 74017
+ok:Duncan Regional Hospital:1407 N Whisenant Dr Duncan, OK 73533
+ok:Eastside Market:11201 E 71st St Tulsa, OK 74133
+ok:Enid:4329 W Owen K Garriott Rd Enid, OK 73703
+ok:Gaylord Family Oklahoma Memorial Stadium:180 W Brooks University of Oklahoma Norman, OK 73019
+ok:Glenpool:12130 S Waco Ave Glenpool, OK 74033
+ok:I-35 at 15th:1025 W I 35 Frontage Rd Edmond, OK 73034
+ok:I-40 & MacArthur:6420 SW 3rd St Oklahoma City, OK 73128
+ok:May and 63rd:6201 N May Ave Oklahoma City, OK 73112
+ok:Moore:2001 S Telephone Rd Moore, OK 73160
+ok:Muskogee:2004 N 11th St Muskogee, OK 74401
+ok:Norman:2437 W Main St Norman, OK 73069
+ok:Northeastern State University:600 N Grand Ave Tahlequah, OK 74464
+ok:Oklahoma Baptist University:500 W University St Geiger Center Shawnee, OK 74804
+ok:Oklahoma Christian University:2501 E Memorial Rd Edward L. Gaylord University Center Edmond, OK 73013
+ok:Oklahoma City University:2501 N Blackwelder Ave Oklahoma City, OK 73106
+ok:Oklahoma State University:100 S Hester St Student Union Building, Room 177 Stillwater, OK 74078
+ok:Oral Roberts University:7777 S Lewis Ave Tulsa, OK 74171
+ok:Owasso Market:12015 E 96th St N Owasso, OK 74055
+ok:Penn Square Mall:1901 NW Expressway Ste 2045A Oklahoma City, OK 73118
+ok:Quail Springs:14040 N Pennsylvania Ave Oklahoma City, OK 73134
+ok:Quail Springs Mall:2501 W Memorial Rd Ste 12 Oklahoma City, OK 73134
+ok:Rockwell & NW Highway:7004 NW Expressway Oklahoma City, OK 73132
+ok:Sand Springs:450 S Hwy 97 Sand Springs, OK 74063
+ok:Shawnee:4637 N Kickapoo Ave Shawnee, OK 74804
+ok:Sooner Mall:3351 W Main St Norman, OK 73072
+ok:Southroads Shopping Center:4933 E 41st St Tulsa, OK 74135
+ok:SSM Health St. Anthony Hospital:535 Nw 9th St Oklahoma City, OK 73102
+ok:Stillwater:600 E Hall of Fame Ave Stillwater, OK 74075
+ok:Tulsa Hills:7129 S Olympia Ave Tulsa, OK 74132
+ok:University of Central Oklahoma:100 N University Dr Edmond, OK 73034
+ok:University of Oklahoma:1400 Asp Ave Room 133 Norman, OK 73019
+ok:University of Oklahoma Couch Building:333 3rd St Norman, OK 73019
+ok:University of Oklahoma Health Science Center:1106 N Stonewall Ave Student Center 132 Oklahoma City, OK 73117
+ok:University of Tulsa:440 S Gary Ave Tulsa, OK 74104
+ok:Woodland Hills Mall:7021 S Memorial Dr Ste 260A Tulsa, OK 74133
+ok:Yukon:1724 Garth Brooks Blvd Yukon, OK 73099
+or:Cedar Hills Blvd:2940 SW Cedar Hills Blvd Beaverton, OR 97005
+or:Clackamas Promenade:12520 SE 93rd Ave Clackamas, OR 97015
+or:Crater Lake & Pacific Hwy:10 Rossanley Dr Medford, OR 97501
+or:Hwy 97 & Robal Road:20508 Robal Ln Bend, OR 97701
+or:Raleigh Hills:10657 SW Beaverton Hillsdale Hwy Beaverton, OR 97005
+or:Tanasbourne:2855 NW TOWN CENTER DR Hillsboro, OR 97006
+pa:5th Street Hwy:4205 N 5th Street Hwy Temple, PA 19560
+pa:Altoona:106 Sierra Dr Altoona, PA 16601
+pa:Aramingo:2301 E Butler St Philadelphia, PA 19137
+pa:Ashbridge Square:845 E Lancaster Ave Downingtown, PA 19335
+pa:Audubon:680 S Trooper Rd Norristown, PA 19403
+pa:Bartonsville:115 Plaza 611 Lane Stroudsburg, PA 18360
+pa:Beaver Valley Mall:544 Beaver Valley Mall Monaca, PA 15061
+pa:Bensalem:1525 Street Rd Bensalem, PA 19020
+pa:Berkshire Mall:1665 State Hill Rd Ste 930 Wyomissing, PA 19610
+pa:Bloomsburg University:400 E 2nd St Soltz Residence Hall Bloomsburg, PA 17815
+pa:Broadcasting Square:2707 N Meridian Blvd Reading, PA 19610
+pa:Brookhaven:4700 Edgmont Ave Brookhaven, PA 19015
+pa:California University of Pennsylvania:250 University Ave Flatz In Student Center California, PA 15419
+pa:Carlisle:2 Noble Blvd Carlisle, PA 17013
+pa:Chambersburg:970 Norland Ave Chambersburg, PA 17201
+pa:Cheltenham:2421 W Cheltenham Ave Wyncote, PA 19150
+pa:Columbus Commons:2204 S Columbus Blvd Philadelphia, PA 19148
+pa:Concord Township:20 State Farm Dr Glen Mills, PA 19342
+pa:Cranberry:1700 Route 228 Cranberry Township, PA 16066
+pa:Drexel University:203 N 34th St Northside Dining Terrace Philadelphia, PA 19104
+pa:Duquesne University:600 Forbes Ave Pittsburgh, PA 15219
+pa:East Norriton:2640 Dekalb Pike East Norriton, PA 19401
+pa:East York:2801 E Market St York, PA 17402
+pa:Eastgate Plaza:5156 State Route 30 Greensburg, PA 15601
+pa:Erie:7160 Peach St Erie, PA 16509
+pa:Exeter:4675 Perkiomen Ave Reading, PA 19606
+pa:Exton Square:280 Exton Square Mall Exton, PA 19341
+pa:Fashion District of Philadelphia:1100 Market St Market Place Food Court Philadelphia, PA 19107
+pa:Fruitville Pike:1579 Fruitville Pike Lancaster, PA 17601
+pa:Gannon University:109 University Sq Doc's Landing Food Court Erie, PA 16541
+pa:Gateway at Sanatoga:14 W Lightcap Rd Pottstown, PA 19464
+pa:Greengate Centre:900 Greengate Centre Cir Greensburg, PA 15601
+pa:Hanover:340 Eisenhower Dr Hanover, PA 17331
+pa:Happy Valley:1938 N Atherton St State College, PA 16803
+pa:Hershey:300 Park Blvd Founders Way Hershey, PA 17033
+pa:HersheyPark Food Truck:One Hershey Drive Hershey, PA 17033
+pa:Horsham:134 Welsh Rd Horsham, PA 19044
+pa:Indiana University of Pennsylvania:319 Pratt Dr Hadley Union Building
+pa:King of Prussia:135 W Dekalb Pike King Of Prussia, PA 19406
+pa:King of Prussia Mall:160 N Gulph Rd Ste 1017 King Of Prussia, PA 19406
+pa:King's College - King's on the Square:20 Public Sq Wilkes Barre, PA 18701
+pa:Kutztown University:20 Luckenbill Road Academic Forum Building Kutztown, PA 19530
+pa:Lansdale:210 Forty Foot Rd Lansdale, PA 19446
+pa:Lehigh Valley Mall:826 Lehigh Lifestyle Ctr Whitehall, PA 18052
+pa:Liberty Place:1625 Chestnut St Ste F8 Philadelphia, PA 19103
+pa:Lima:1190 W Baltimore Pike Media, PA 19063
+pa:Lincoln Highway East:2467 Lincoln Hwy E Lancaster, PA 17602
+pa:Lindle Road:4655 Lindle Rd Harrisburg, PA 17111
+pa:Lionville:211 Eagleview Blvd Exton, PA 19341
+pa:Lock Haven University:401 N Fairview St Eagle Rock Food Court - Bently Hall Lock Haven, PA 17745
+pa:Loucks Road:922 Loucks Rd York, PA 17404
+pa:Lower Nazareth:3750 Dryland Way Easton, PA 18045
+pa:Malvern:270 Old Morehall Road Malvern, PA 19355
+pa:McKnight Road:7451 McKnight Rd Pittsburgh, PA 15237
+pa:Mechanicsburg:6416 Carlisle Pike Ste 3500 Mechanicsburg, PA 17050
+pa:Miracle Mile:4040 William Penn Hwy Monroeville, PA 15146
+pa:Misericordia University:301 Lake St Banks Student Center Dallas, PA 18612
+pa:Montgomery Mall (PA):314 Montgomery Mall North Wales, PA 19454
+pa:Montgomeryville:794 Bethlehem Pike Montgomeryville, PA 18936
+pa:Neshaminy:3621 Horizon Blvd Trevose, PA 19053
+pa:Neshaminy Mall:307 Neshaminy Mall Bensalem, PA 19020
+pa:Newtown:4 West Rd Newtown, PA 18940
+pa:Northeast Tower:4670 Roosevelt Blvd Northeast Tower Center Philadelphia, PA 19124
+pa:Oxford Valley Road:2424 E Lincoln Hwy Langhorne, PA 19047
+pa:Penn State University:BO1OC Hub-Robeson Center University Park, PA 16802
+pa:Philadelphia International Airport - B/C Connector:8500 Essington Ave Philadelphia, PA 19153
+pa:Pittsburgh International Airport:1000 Airport Blvd Pittsburgh, PA 15231
+pa:Pleasant Hills:461 Clairton Blvd Pleasant Hills, PA 15236
+pa:Plymouth Meeting Mall:500 W Germantown Pike Ste 2265 Plymouth Meeting, PA 19462
+pa:Quakertown:602 N West End Blvd Quakertown, PA 18951
+pa:Ridley:405 Macdade Blvd Folsom, PA 19033
+pa:Robinson at North Fayette:120 Andrew Dr Pittsburgh, PA 15275
+pa:Ross Park Mall:1000 Ross Park Mall Dr Pittsburgh, PA 15237
+pa:Royersford:70 Buckwalter Rd Ste 1450 Royersford, PA 19468
+pa:Shrewsbury:14665 Mount Airy Rd Shrewsbury, PA 17361
+pa:South Hills:1620 Washington Rd Pittsburgh, PA 15241
+pa:Springfield Park:805 Baltimore Pike Springfield, PA 19064
+pa:Temple University:1755 N 13th St Howard Gittis Student Center Philadelphia, PA 19122
+pa:Temple University - Morgan Hall:1601 N Broad St Morgan Hall Philadelphia, PA 19122
+pa:The Mall at Robinson:100 Robinson Center Dr # FC-5 Pittsburgh, PA 15205
+pa:The Waterfront:480 E Waterfront Dr Homestead, PA 15120
+pa:Trexlertown:6379 Hamilton Blvd Allentown, PA 18106
+pa:University of Pittsburgh:3990 5th Ave University of Pittsburgh Tower Pittsburgh, PA 15213
+pa:University of Scranton:900 Mulberry Street DeNaples Student Center Scranton, PA 18510
+pa:Warminster:45 W Street Rd Warminster, PA 18974
+pa:Warrington Crossing:160 Easton Rd Warrington, PA 18976
+pa:Washington (PA):375 Washington Rd Washington, PA 15301
+pa:Waynesburg University:61 N Washington St Marisa Field House Waynesburg, PA 15370
+pa:West Chester University:Rosedale Ave Rams Head Food Ct West Chester, PA 19383
+pa:Westmoreland Mall:5256 State Route 30 Ste 235B 235 B Westmoreland Mall Greensburg, PA 15601
+pa:Wexford:12101 Perry Hwy Wexford, PA 15090
+pa:Whitehall:2610 MacArthur Rd Whitehall, PA 18052
+pa:Whitman Square:9711 Roosevelt Blvd Philadelphia, PA 19114
+pa:Wilkes Barre Township:989 Schechter Dr Wilkes Barre, PA 18702
+pa:Willow Grove Park:2500 W Moreland Rd Ste 3066 Willow Grove, PA 19090
+ri:Bald Hill Road:1500 Bald Hill Rd Warwick, RI 02886
+sc:Aiken:202 Eastgate Dr Aiken, SC 29803
+sc:Anderson Mall:3131 N Main St Anderson, SC 29621
+sc:Anderson Pavilion:1641 E Greenville St Anderson, SC 29621
+sc:Anderson University-New Student Center:316 Boulevard City New Student Center Anderson, SC 29621
+sc:Ashley Crossing:2013 Magwood Dr Charleston, SC 29414
+sc:Ballentine:1007 Dutch Fork Rd Irmo, SC 29063
+sc:Baxter Village:1600 Highway 160 W Fort Mill, SC 29708
+sc:Beaufort:2405 Boundary St Beaufort, SC 29906
+sc:Benedict College:1600 Harden St Swinton Campus Center Columbia, SC 29204
+sc:Bluffton:9 Malphrus Rd Bluffton, SC 29910
+sc:Bob Jones University:1700 Wade Hampton Blvd Student Center Greenville, SC 29614
+sc:Boiling Springs:3902 Highway 9 Boiling Springs, SC 29316
+sc:Bush River Road:229 Bush River Rd Columbia, SC 29210
+sc:Camden:2211 W Dekalb St Camden, SC 29020
+sc:Carolina Forest:85 Rodeo Dr Myrtle Beach, SC 29579
+sc:Carowinds OSL:3900 Avenue of the Carolinas Unit #1323 Fort Mill, SC 29708
+sc:Centre Pointe:4926 Centre Pointe Dr North Charleston, SC 29418
+sc:Charleston Southern University:9200 University Blvd Strom Thurmond Center North Charleston, SC 29406
+sc:Cherry Road:2415 Cherry Rd Rock Hill, SC 29732
+sc:Cherrydale Point:1544 Poinsett Hwy Greenville, SC 29609
+sc:Church Street:1613 Church St Conway, SC 29526
+sc:Citadel Mall:2070 Sam Rittenberg Blvd Unit FC5 Charleston, SC 29407
+sc:Clemson:1061 Tiger Blvd Clemson, SC 29631
+sc:Clemson Blvd.:3725 Clemson Blvd Anderson, SC 29621
+sc:Clemson University:201 Fernow Street Fernow Cafe Clemson, SC 29631
+sc:Coastal Carolina University:100 Spadoni Park Circle Lib Jackson Student Center Conway, SC 29528
+sc:Coastal Grand:2000 Coastal Grand Cir Ste FC1 Ste FC1 Myrtle Beach, SC 29577
+sc:College of Charleston - Berry Hall:162 Calhoun St Berry Hall Charleston, SC 29401
+sc:Colonial Mall - Myrtle Beach:10177 N Kings Hwy Spc C9 Myrtle Beach, SC 29572
+sc:Columbiana Centre:100 Columbiana Cir Ste 1284 Columbia, SC 29212
+sc:Dave Lyle Boulevard:2245 Dave Lyle Blvd Rock Hill, SC 29730
+sc:Decker Blvd.:2600 Decker Blvd Columbia, SC 29206
+sc:Dorchester Road:8455 Dorchester Rd North Charleston, SC 29420
+sc:Duncan:1519 E Main St Duncan, SC 29334
+sc:Easley:5175 Calhoun Memorial Hwy Easley, SC 29640
+sc:Five Points:901 Harden St Columbia, SC 29205
+sc:Forest Drive:5440 Forest Dr Columbia, SC 29206
+sc:Furman University-Student Center:3300 Poinsett Hwy Greenville, SC 29613
+sc:Gaffney:1704 W Floyd Baker Blvd Gaffney, SC 29341
+sc:Garners Ferry Road:7424 Garners Ferry Rd Columbia, SC 29209
+sc:Goose Creek:516 Saint James Ave Goose Creek, SC 29445
+sc:Greenville Memorial Hospital:701 Grove Rd Greenville, SC 29605
+sc:Greenville-Spartanburg International Airport:2000 Gsp Dr Greer, SC 29651
+sc:Greenwood (SC):428 Bypass 72 NW Greenwood Mall Greenwood, SC 29649
+sc:Greenwood Drive-Thru Only:213 Highway 72 By-Pass Greenwood, SC 29649
+sc:Greer:1379 W Wade Hampton Blvd Greer, SC 29650
+sc:Harbison Blvd.:294 Harbison Blvd Columbia, SC 29212
+sc:Haywood Mall:700 Haywood Rd Ste 102 Greenville, SC 29607
+sc:Haywood Road:575 Haywood Rd Greenville, SC 29607
+sc:Hillcrest Shopping Center:1995 E Main St Spartanburg, SC 29307
+sc:Indian Land:10032 Charlotte Hwy Indian Land, SC 29707
+sc:Irby Street:2016 S Irby St Florence, SC 29505
+sc:James Island:849 Folly Rd Charleston, SC 29412
+sc:Killian Crossing:405 Killian Rd Columbia, SC 29203
+sc:Lancaster:901 Hwy 9 Bypass West Lancaster, SC 29720
+sc:Lander University:320 Stanley Ave Grier Student Center Greenwood, SC 29649
+sc:Laurens County:917 E Main St Ste A U.S. Highway 76 Laurens, SC 29360
+sc:Laurens Road:1564 Laurens Rd Greenville, SC 29607
+sc:Lexington:5560 Sunset Blvd Lexington, SC 29072
+sc:Long Point Road:653 Long Point Rd Mount Pleasant, SC 29464
+sc:Magnolia Mall (Inside):2701 David H McLeod Blvd # 1320 Florence, SC 29501
+sc:Mauldin:135 W Butler Rd Mauldin, SC 29662
+sc:Medical University of South Carolina:171 Ashley Ave Rm Eh110a Charleston, SC 29425
+sc:Midtowne Park:3526 Clemson Blvd Anderson, SC 29621
+sc:Moncks Corner:601 N Highway 52 Moncks Corner, SC 29461
+sc:Mt. Pleasant:1024 Johnnie Dodds Blvd Mount Pleasant, SC 29464
+sc:Murrells Inlet:4400 Highway 17 Murrells Inlet, SC 29576
+sc:Myrtle Beach International Airport:1100 Jet Port Rd Myrtle Beach, SC 29577
+sc:Newberry College:2100 College St Kaufman Dining Hall Newberry, SC 29108
+sc:North Augusta:1267 Knox Ave North Augusta, SC 29841
+sc:North Greenville University:7801 N Tigerville Rd Todd Dining Center Tigerville, SC 29688
+sc:North Mount Pleasant:3102 Ironclad Aly Mount Pleasant, SC 29466
+sc:North Myrtle Beach:690 Highway 17 N North Myrtle Beach, SC 29582
+sc:Northwoods Mall:2150 Northwoods Blvd Unit B4 North Charleston, SC 29406
+sc:Orangeburg:3559 Saint Matthews Rd Orangeburg, SC 29118
+sc:Pelham Road:3890 Pelham Rd Greenville, SC 29615
+sc:Powdersville:3420 Highway 153 Piedmont, SC 29673
+sc:Rivers Avenue:7616 Rivers Ave North Charleston, SC 29406
+sc:Saluda Pointe:4295 Sunset Blvd Lexington, SC 29072
+sc:Savannah Highway:1656 Savannah Hwy Charleston, SC 29407
+sc:Seaboard Commons:1940 Mister Joe White Ave Myrtle Beach, SC 29577
+sc:Seneca:1612 Sandifer Blvd Seneca, SC 29678
+sc:Simpsonville:659 Fairview Rd Simpsonville, SC 29680
+sc:Spartanburg:1790 Asheville Hwy Spartanburg, SC 29303
+sc:Summerville (SC):1312 N Main St Summerville, SC 29483
+sc:Sumter:1170 Broad St Sumter, SC 29150
+sc:Sumter Mall:1057 Broad St Ste 7 Sumter, SC 29150
+sc:Surfside:2360 Dick Pond Rd Myrtle Beach, SC 29575
+sc:Taylors:2801 Wade Hampton Blvd Ste C Taylors, SC 29687
+sc:The Citadel Military College:4 Avenue Of Rembrance Charleston, SC 29409
+sc:Travelers Rest:22 Benton Rd Travelers Rest, SC 29690
+sc:Two Notch Road:10136 Two Notch Rd Ste 103 Columbia, SC 29229
+sc:University of South Carolina:1718 College St Columbia, SC 29208
+sc:West Columbia:2299 Augusta Rd West Columbia, SC 29169
+sc:West Florence:2705 David H McLeod Blvd Florence, SC 29501
+sc:Westgate Drive-Thru Only:1503 Wo Ezell Blvd Spartanburg, SC 29301
+sc:Westgate Mall (SC):205 W Blackstock Rd Ste 630 Spartanburg, SC 29301
+sc:Winthrop University:2020 Alumni Drive Markley's Food Court, DiGorgio Campus Center Rock Hill, SC 29730
+sc:Wofford College:429 N Church St Spartanburg, SC 29303
+sc:Woodruff Road:1225 Woodruff Rd Greenville, SC 29607
+sd:South Dakota State University:1421 Student Union Ln University Student Union Brookings, SD 57007
+sd:University of South Dakota:414 E Clark St Muenster Student Union Vermillion, SD 57069
+tn:Austin Peay State University:601 College St Morgan Center University Clarksville, TN 37044
+tn:Belmont University:2000 Belmont Blvd Graphart Center Nashville, TN 37212
+tn:Berry Farms:203 Lathram Lane Franklin, TN 37064
+tn:Bethel University:325 Cherry Ave Vera Lowe Center Mc Kenzie, TN 38201
+tn:Brainerd Village:5830 Brainerd Rd Chattanooga, TN 37411
+tn:Brentwood:330 Franklin Rd Brentwood, TN 37027
+tn:Carson Newman University:809 E College St Maddox Student Activities Center Jefferson City, TN 37760
+tn:Chapman Highway:7565 Mountain Grove Dr Knoxville, TN 37920
+tn:Charlotte Pike:6500 Charlotte Pike Nashville, TN 37209
+tn:Church Street - Nashville:1622 Church St Nashville, TN 37203
+tn:Collierville:1036 W Poplar Ave Collierville, TN 38017
+tn:Columbia (TN):605 S James Campbell Blvd Columbia, TN 38401
+tn:Cookeville:1370 Interstate Dr Cookeville, TN 38501
+tn:CoolSprings Galleria (Mall):1800 Galleria Blvd Ste 3060 Franklin, TN 37067
+tn:Crown Point Plaza:6564 Clinton Hwy Knoxville, TN 37912
+tn:Dyersburg:2440 Lake Rd Dyersburg, TN 38024
+tn:East Ridge:639 Camp Jordan Pkwy Chattanooga, TN 37412
+tn:East Tennessee State University:J.L. Seehorn, Jr. Dr DP Culp Center Johnson City, TN 37601
+tn:Elizabethton:753 W Elk Ave Bemberg Shopping Center Elizabethton, TN 37643
+tn:Emory Road:540 E Emory Rd Powell, TN 37849
+tn:Erlanger Health Systems:975 E 3rd St Chattanooga, TN 37403
+tn:Foothills Mall (TN):144 Foothills Mall Maryville, TN 37801
+tn:Fountain City:5100 N Broadway St Knoxville, TN 37918
+tn:Gallatin:101 N Belvedere Dr Gallatin, TN 37066
+tn:Germantown Pkwy.:1230 S Germantown Rd Germantown, TN 38138
+tn:Glenbrook:1033 Glenbrook Way Hendersonville, TN 37075
+tn:Gunbarrel Pointe:1804 Gunbarrel Rd Chattanooga, TN 37421
+tn:Hamilton Place:2100 Hamilton Place Blvd Ste 313 Chattanooga, TN 37421
+tn:Hermitage:305 Old Lebanon Dirt Rd Hermitage, TN 37076
+tn:Homberg Drive:4944 Kingston Pike Knoxville, TN 37919
+tn:Hunter's Crossing:1031 Hunters Xing Alcoa, TN 37701
+tn:Hwy 96:1122 Murfreesboro Rd Franklin, TN 37064
+tn:Jackson-Madison County Hospital:620 Skyline Dr Jackson, TN 38301
+tn:Johnson City Crossing:3206 Peoples St Johnson City, TN 37604
+tn:Keith Street:3890 Keith St NW Cleveland, TN 37312
+tn:Kingston Overlook:9646 Kingston Pike Knoxville, TN 37922
+tn:Knoxville Center:3001 Knoxville Center Dr Ste 2223 Knoxville, TN 37924
+tn:Lebanon:706 S Cumberland St Lebanon, TN 37087
+tn:Lee University:1120 N Ocoee St Cleveland, TN 37311
+tn:Lenoir City:1009 Highway 321 N Lenoir City, TN 37771
+tn:Lincoln Memorial University:6965 Cumberland Gap Pkwy Harrogate, TN 37752
+tn:Lipscomb University:1 University Park Dr Bennett Campus Center Nashville, TN 37204
+tn:Madison Street:1626 Madison St Clarksville, TN 37043
+tn:Melrose Music City:2619 8th Ave S Nashville, TN 37204
+tn:Memorial Blvd (TN):2116 Memorial Blvd Murfreesboro, TN 37129
+tn:MetroCenter (TN) In-Line DT:2120 Rosa L Parks Blvd Suite 105 Nashville, TN 37228
+tn:Middle Tennessee State University:1301 Main St Murfreesboro, TN 37132
+tn:Millington:8492 US Highway 51 N Millington, TN 38053
+tn:Morristown:2141 W Andrew Johnson Hwy Morristown, TN 37814
+tn:Murfreesboro Towne Centre:2005 Old Fort Pkwy Murfreesboro, TN 37129
+tn:Nolensville Pike:5805 Nolensville Pike Nashville, TN 37211
+tn:Northgate Mall (TN):209 Northgate Mall Chattanooga, TN 37415
+tn:Northshore Town Center:2082 Town Center Blvd Knoxville, TN 37922
+tn:Oak Court Mall:4465 Poplar Ave Ste FS03 Memphis, TN 38117
+tn:Oak Park Town Center:5740 Highway 153 Hixson, TN 37343
+tn:Oak Ridge:357 S Illinois Ave Oak Ridge, TN 37830
+tn:Old Hickory Mall:2021 N Highland Ave Ste A3 Jackson, TN 38305
+tn:One Bellevue:7606 Highway 70 S Nashville, TN 37221
+tn:Ooltewah:8959 Old Lee Highway Ooltewah, TN 37363
+tn:Paragon Place:6282 Poplar Ave Memphis, TN 38119
+tn:Paul Huff Pkwy:1000 Paul Huff Pkwy NW Cleveland, TN 37312
+tn:Poplar Avenue:4916 Poplar Ave Memphis, TN 38117
+tn:Providence Marketplace:401 S Mount Juliet Rd Ste 105 Mount Juliet, TN 37122
+tn:RELO - Wolfcreek:2881 N Germantown Pkwy Memphis, TN 38133
+tn:Rivergate:2000 Gallatin Pike N Madison, TN 37115
+tn:Sevierville:1432 Parkway Sevierville, TN 37862
+tn:Smyrna (TN):470 Sam Ridley Pkwy W Smyrna, TN 37167
+tn:South Franklin:2016 Columbia Ave Franklin, TN 37064
+tn:Spring Hill In-Line DT:4885 Main St Spring Hill, TN 37174
+tn:Stone Drive:1205 E Stone Dr Kingsport, TN 37660
+tn:Tennessee State University:3500 John A Merritt Blvd Floyd-Payne Campus Center Nashville, TN 37209
+tn:Tennessee Tech University:1000 N Dixie Roaden University Center Cookeville, TN 38505
+tn:Tennessee Tower:312 Rosa L Parks Nashville, TN 37243
+tn:The Mall at Johnson City:2011 N Roan St Ste 38 Johnson City, TN 37601
+tn:The Pinnacle:360 Pinnacle Pkwy Bristol, TN 37620
+tn:The Shoppes at Bartlett:2940 Kirby Whitten Rd Bartlett, TN 38134
+tn:Thoroughbred Square:3063 Mallory Ln Franklin, TN 37067
+tn:Tullahoma:1708 N Jackson St Tullahoma, TN 37388
+tn:Turkey Creek:11068 Parkside Dr Knoxville, TN 37934
+tn:Tusculum University:60 Shiloh Rd Niswonger Commons Greeneville, TN 37745
+tn:Union Avenue:1980 Union Ave Memphis, TN 38104
+tn:University of Memphis-University Center:499 University Ctr University Center Food Court Memphis, TN 38152
+tn:University of Tennessee:1015 Phillip Fulmer Way Knoxville, TN 37996
+tn:University of Tennessee - Presidential Court:1017 Francis St Knoxville, TN 37916
+tn:University of Tennessee Health Science Center:910 Madison Ave The Plaza Memphis, TN 38103
+tn:University of Tennessee-Chattanooga:615 Mccallie Ave 107 University Center Chattanooga, TN 37403
+tn:University of Tennessee-Martin:133 Boling University Ctr Martin, TN 38238
+tn:Vann Drive:3 Stonebridge Blvd Jackson, TN 38305
+tn:West Hills:7520 Kingston Pike Knoxville, TN 37919
+tn:West Market Street:2103 W Market St Johnson City, TN 37604
+tn:West Town Drive-Thru Only:7063 Kingston Pike Knoxville, TN 37919
+tn:West Town Mall:7600 Kingston Pike Rm NO1320 Knoxville, TN 37919
+tn:Wilma Rudolph:3096 Wilma Rudolph Blvd Clarksville, TN 37040
+tn:Winchester Road:7072 Winchester Rd Memphis, TN 38125
+tn:Wolfchase Galleria:2760 N Germantown Pkwy Ste 268 Memphis, TN 38133
+tn:Wolfcreek:2849 N Germantown Pkwy Memphis, TN 38133
+tx:105 & Lonestar Pkwy:20155 Eva St Montgomery, TX 77356
+tx:10th Street:7340 N 10th St Mcallen, TX 78504
+tx:114th & Quaker Avenue:11425 Quaker Ave Lubbock, TX 79424
+tx:1960 & Cutten:7007 FM 1960 Rd W Houston, TX 77069
+tx:1960 & Walters:3635 Cypress Creek Pkwy Houston, TX 77068
+tx:1960 / I-45:430 Cypress Creek Pkwy Houston, TX 77090
+tx:1960 and Eldridge Parkway:12325 FM 1960 Rd W Houston, TX 77065
+tx:249 at Jones Road:21622 State Highway 249 Houston, TX 77070
+tx:27th & Nolana:2709 W Nolana Ave Mcallen, TX 78504
+tx:288 & Southfork Drive:3621 Business Center Dr Pearland, TX 77584
+tx:290 and Spring Cypress:25835 Highway 290 Cypress, TX 77429
+tx:2920 / Kuykendahl:5905 FM 2920 Rd Spring, TX 77388
+tx:336 Marketplace:453 S Loop 336 W Conroe, TX 77304
+tx:45 & Crosstimbers:4410 North Fwy Houston, TX 77022
+tx:45 & Wayside:5940 Gulf Fwy Houston, TX 77023
+tx:45 & West Road:165 West Rd Houston, TX 77037
+tx:4th & Frankford:5705 4th St Lubbock, TX 79416
+tx:59 & Kirby:2715 Southwest Fwy Houston, TX 77098
+tx:59 & West Airport Drive-Thru Only:12161 Southwest Fwy Stafford, TX 77477
+tx:59 and Little York Drive-Thru Only:3955 Little York Rd Houston, TX 77093
+tx:69th & Slide:6820 Slide Rd Lubbock, TX 79424
+tx:75 and Campbell:106 W Campbell Rd Richardson, TX 75080
+tx:82nd & Milwaukee:6416 82nd St Lubbock, TX 79424
+tx:82nd & University:8225 University Ave Lubbock, TX 79423
+tx:Abilene:3130 S Clack St Abilene, TX 79606
+tx:Abilene Christian University:216B McGlothlin Campus Ctr Abilene, TX 79699
+tx:Abrams & LBJ:9386 Lyndon B Johnson Fwy Dallas, TX 75243
+tx:Addison:3781 Belt Line Rd Addison, TX 75001
+tx:Aggieland:1719 Texas Ave S College Station, TX 77840
+tx:Airway & Edgemere:1300A Airway Blvd El Paso, TX 79925
+tx:Alamo Ranch Marketplace:5615 W Loop 1604 N San Antonio, TX 78253
+tx:Alden Bridge Village Center:8020 Research Forest Dr The Woodlands, TX 77382
+tx:Alliance Town Center:2870 Heritage Trace Pkwy Fort Worth, TX 76177
+tx:Alon Town Center:10503 NW Military Hwy San Antonio, TX 78231
+tx:Altamesa and McCart:3580 Altamesa Blvd Fort Worth, TX 76133
+tx:Alvin (TX):2018 E Highway 6 Alvin, TX 77511
+tx:Amarillo at Gem Lake Road:5544 W Amarillo Blvd Amarillo, TX 79106
+tx:Angelo State University:2601 W Avenue N San Angelo, TX 76909
+tx:Anna Town Center:513 S Central Expy Anna, TX 75409
+tx:Augusta Woods & Kuykendahl:25630 Kuykendahl Rd Tomball, TX 77375
+tx:Austin Highway:1350 Austin Hwy San Antonio, TX 78209
+tx:Balcones Heights:4455 Fredericksburg Rd Balcones Heights, TX 78201
+tx:Bandera Road:11558 Bandera Rd San Antonio, TX 78250
+tx:Barton Creek Square Mall:2901 S Capital of Texas Hwy Ste VC8 Austin, TX 78746
+tx:Bastrop:721 Highway 71 W Bastrop, TX 78602
+tx:Baybrook Mall:1 Baybrook Mall Friendswood, TX 77546
+tx:Baylor University Medical Center:3500 Gaston Ave J.G. LaHair @ Baylor Dallas Ed Dallas, TX 75246
+tx:Baylor University on 7th Street:901 S 7th St Waco, TX 76706
+tx:Baylor University Student Union:1311 S 5th St Waco, TX 76798
+tx:Baytown:5006 Garth Rd Baytown, TX 77521
+tx:Bella Terra:5644 W Grand Pkwy S Richmond, TX 77406
+tx:Belterra Village:165 Hargraves Dr St. L Austin, TX 78737
+tx:Beltway 8 & Hammerly Blvd.:2267 W Sam Houston Pkwy N Houston, TX 77043
+tx:Beltway 8 & Wallisville Road:5910 E Sam Houston Pkwy N Houston, TX 77049
+tx:Beltway 8 at West Road:9440 W Sam Houston Pkwy N Houston, TX 77064
+tx:Benbrook:8800 Highway 377 S Benbrook, TX 76126
+tx:Blanco Road:18310 Blanco Rd San Antonio, TX 78258
+tx:Boca Chica:3385 Boca Chica Blvd Brownsville, TX 78521
+tx:Braker Lane:10901 Research Blvd Svrd NB Austin, TX 78759
+tx:Broad and 360:3200 E Broad St Mansfield, TX 76063
+tx:Broadway Crossing:5716 S Broadway Ave Tyler, TX 75703
+tx:Broadway Square Mall:4601 S Broadway Ave Tyler, TX 75703
+tx:Bryan:2210 Briarcrest Dr Bryan, TX 77802
+tx:Buda:15500 S Interstate 35 Buda, TX 78610
+tx:Burleson:1105 N Burleson Blvd Burleson, TX 76028
+tx:Calallen:13701 Northwest Blvd Corpus Christi, TX 78410
+tx:Camp Wisdom & 360:3041 W Camp Wisdom Rd Grand Prairie, TX 75052
+tx:Carrier Towne Crossing:3970 S Carrier Pkwy Grand Prairie, TX 75052
+tx:Cedar Hill:387 E FM 1382 Cedar Hill, TX 75104
+tx:Cedar Park:1325 E Whitestone Blvd Cedar Park, TX 78613
+tx:Central & Southwestern:7718 N Central Expy Dallas, TX 75206
+tx:Central Mall (TX):2400 Richmond Rd Texarkana, TX 75503
+tx:Centreport:4332 Highway 360 Fort Worth, TX 76155
+tx:Chambers Town Center:8738 N Highway 146 Baytown, TX 77523
+tx:Champions Center:3588 Highway 114 Fort Worth, TX 76177
+tx:Chisholm Trail Ranch:5601 McPherson Blvd Fort Worth, TX 76123
+tx:Cielo Vista Mall:8401 Gateway Blvd W El Paso, TX 79925
+tx:Cinco Ranch:23860 Westheimer Pkwy Katy, TX 77494
+tx:City Base Landing:3214 SE Military Dr San Antonio, TX 78223
+tx:CityLine:1400 E Renner Rd Richardson, TX 75082
+tx:Cityview:4913 Bryant Irvin Rd Fort Worth, TX 76132
+tx:Cockrell Hill Drive-Thru Only:1535 N Cockrell Hill Rd Dallas, TX 75211
+tx:Coit & Spring Creek:6240 Coit Rd Plano, TX 75023
+tx:College Street:3825 College St Beaumont, TX 77701
+tx:Cook Children's Medical Center:801 7th Ave Fort Worth, TX 76104
+tx:Copperas Cove:202 Robert Griffin III Blvd Copperas Cove, TX 76522
+tx:Copperfield:8440 Highway 6 N Houston, TX 77095
+tx:Covenant Medical Ctr (Methodist Hosp):3615 19th St Lubbock, TX 79410
+tx:Cross Roads:11851 US Highway 380 Crossroads, TX 76227
+tx:Custer & 121:8700 State Highway 121 Mckinney, TX 75070
+tx:Cypress Towne Lake:9823 Barker Cypress Rd Cypress, TX 77433
+tx:Dallas Baptist University:3000 Mountain Creek Pkwy Mahler Student Center Dallas, TX 75211
+tx:Dallas Love Field:8008 Cedar Springs Rd Dallas, TX 75235
+tx:Dallas/Fort Worth Intl Airport (DFW) - Terminal C:International Parkway Terminal C Dfw Airport, TX 75261
+tx:Dallas/Fort Worth Intl Airport (DFW) - Terminal E:International Parkway Terminal E Dfw Airport, TX 75261
+tx:Dallas/Fort Worth Intl Airport (DFW) -Terminal D:International Parkway Terminal D Dfw Airport, TX 75261
+tx:Deer Park:9101 Spencer Hwy La Porte, TX 77571
+tx:Deerbrook Mall:20131 Highway 59 N Ste 2106 Humble, TX 77338
+tx:Del Rio:2207 Veterans Blvd Del Rio, TX 78840
+tx:Denton Towne Crossing:1711 S Loop 288 Denton, TX 76205
+tx:Desert Blvd.:6450 N Desert Blvd Bldg. N El Paso, TX 79912
+tx:DeZavala Road:5189 De Zavala Rd San Antonio, TX 78249
+tx:Dowlen Road:4050 Dowlen Rd Beaumont, TX 77706
+tx:Eagle Pass:635 S Bibb Ave Eagle Pass, TX 78852
+tx:East Alief:6840 W Sam Houston Pkwy S Houston, TX 77072
+tx:East Longview:507 E Loop 281 Longview, TX 75605
+tx:East Pearland:1512 Broadway St Pearland, TX 77581
+tx:East Texas Baptist University:1 Tiger Dr Ornelas Student Center Marshall, TX 75670
+tx:Edinburg:1360 W University Dr Edinburg, TX 78539
+tx:El Dorado Boulevard:18323 Gulf Fwy Webster, TX 77598
+tx:Eldorado & Ridge:6201 Eldorado Pkwy Mckinney, TX 75070
+tx:Eldorado & Tollway:5211 Eldorado Pkwy Frisco, TX 75033
+tx:Ennis:390 N Interstate Highway 45 Ennis, TX 75119
+tx:Everhart:4741 S Padre Island Dr Corpus Christi, TX 78411
+tx:ExxonMobil:22777 Springwoods Village Pkwy Spring, TX 77389
+tx:Fairfield Towne Center:28644 Highway 290 Cypress, TX 77433
+tx:Fairmont Parkway:5104 Fairmont Pkwy Pasadena, TX 77505
+tx:First Colony Mall:16535 Southwest Fwy Suite 515 Sugar Land, TX 77479
+tx:FM 620 North:13229 Ranch Road 620 N Austin, TX 78717
+tx:Forum Shopping Center:8371 Agora Pkwy Selma, TX 78154
+tx:Founders Square:2001 Long Prairie Rd Flower Mound, TX 75022
+tx:Four Points:7710 N FM 620 Rd, Bldg 9 Bldg 9 Austin, TX 78726
+tx:Frankford Road:4523 Frankford Rd Dallas, TX 75287
+tx:Franklin Avenue:4310 Franklin Ave Waco, TX 76710
+tx:Friendswood (TX):1757 S Friendswood Dr Friendswood, TX 77546
+tx:Frisco Lakes:7979 FM 423 Frisco, TX 75034
+tx:Gainesville (TX):1001 W US Highway 82 Gainesville, TX 76240
+tx:Galleria I:5015 Westheimer Rd Ste 1330 Houston, TX 77056
+tx:Gates Of Prosper:1091 S Preston Rd Prosper, TX 75078
+tx:Georgetown:1031 W University Ave Georgetown, TX 78628
+tx:Georgia Street:2525 S Georgia St Amarillo, TX 79109
+tx:Gleannloch Village:8510 Spring Cypress Rd Spring, TX 77379
+tx:Granbury:1011 E Highway 377 Granbury, TX 76048
+tx:Grand Parkway North:3195 Riley Fuzzel Rd Spring, TX 77386
+tx:Grapevine:1245 William D Tate Ave Grapevine, TX 76051
+tx:Grapevine Hwy and Mid-Cities Blvd:460 Grapevine Hwy Hurst, TX 76054
+tx:Grapevine Mills:2255 E Grapevine Mills Cir Grapevine, TX 76051
+tx:Greatwood:20010 Southwest Fwy Sugar Land, TX 77479
+tx:Greenville In-Line DT:3130 Interstate Highway 30 Greenville, TX 75402
+tx:Hampton & I-20:2429 W Wheatland Rd Dallas, TX 75237
+tx:Harker Heights (TX):201 E Central Texas Expy Bldg 2000 Harker Heights, TX 76548
+tx:Harlingen:1021 Dixieland Rd Harlingen, TX 78552
+tx:Hawks Creek:6650 Westworth Blvd Westworth Village, TX 76114
+tx:Heartland Mall:306 Early Blvd Early, TX 76802
+tx:Heights Corner:3200 Hulen St Fort Worth, TX 76107
+tx:Hendrick Medical Center:1600 Pine St Abilene, TX 79601
+tx:Heritage Towne Crossing:3003 State Highway 121 Euless, TX 76039
+tx:Highland Lakes:2105 N US Highway 281 Marble Falls, TX 78654
+tx:Highlands Village Shopping Center:3830 Troup Hwy Tyler, TX 75703
+tx:Hillcrest & University In-Line:6423 Hillcrest Ave Dallas, TX 75205
+tx:Holcombe & Buffalo Speedway:3101 W Holcombe Blvd Houston, TX 77025
+tx:Houston Baptist University:7502 Fondren Rd M.D. Anderson Student Center Houston, TX 77074
+tx:Houston Center:1200 McKinney St Ste 363 Houston, TX 77010
+tx:Houston George Bush Inter'l Airport - Terminal A:2800 N Terminal Rd Terminal A Houston, TX 77032
+tx:Houston George Bush Inter'l Airport - Terminal B:2800 N Terminal Rd Terminal B Houston, TX 77032
+tx:Hudson Oaks:98 Hudson Oaks Drive Hudson Oaks, TX 76087
+tx:Huebner & Babcock:5803 Babcock Rd San Antonio, TX 78240
+tx:Hulen Mall:4800 S Hulen St Ste 2105 Fort Worth, TX 76132
+tx:Humble:19707 Highway 59 N Humble, TX 77338
+tx:Huntsville (TX):285 I-45 S. Huntsville, TX 77340
+tx:Hutto:200 Ed Schmidt Blvd Hutto, TX 78634
+tx:Hwy 191 at Faudree Road:7951 Tres Hermanas Blvd Odessa, TX 79765
+tx:Hwy 26 at Precinct Line:767 Grapevine Hwy Hurst, TX 76054
+tx:Hwy. 249 at West Road:12935 State Highway 249 Houston, TX 77086
+tx:Hwy. 287 & Sublett:4901 West Sublett Road Arlington, TX 76017
+tx:Hwy. 290 & Jones Road:17430 Northwest Fwy Jersey Village, TX 77040
+tx:Hwy. 6 & Bellaire:6895 Highway 6 S Houston, TX 77083
+tx:Hwy. 6 at West Little York:6175 Highway 6 N Lot 7 Houston, TX 77084
+tx:Hwy. 96 & South Shore Blvd.:2805 E League City Pkwy League City, TX 77573
+tx:I-10 and Silber Road:7660 Katy Fwy Houston, TX 77024
+tx:I-10 and Uvalde:13720 East Fwy Houston, TX 77015
+tx:I-20 and Little Road:4412 Little Rd Arlington, TX 76016
+tx:I-35 at Aquarena Springs:1433 N Interstate 35 San Marcos, TX 78666
+tx:I-35 at Wonder World Dr.:2213 S Interstate 35 San Marcos, TX 78666
+tx:I-35/Ben White:500 E Ben White Blvd Building B Austin, TX 78704
+tx:I-35/Parmer Lane:12901 I-35 N Service Road Bldg 14 Austin, TX 78753
+tx:I-45 & Almeda:10225 Almeda Genoa Rd Houston, TX 77075
+tx:I-635 and MacArthur:7850 N MacArthur Blvd Irving, TX 75063
+tx:I-820 and Clifford:9105 Clifford Street White Settlement, TX 76108
+tx:Ingram Park:6565 Ingram Rd San Antonio, TX 78238
+tx:Ingram Park Mall (Inside):6301 NW Loop 410 Ste VC9 San Antonio, TX 78238
+tx:Inwood Road:12120 Inwood Rd Dallas, TX 75244
+tx:Jackson Ave.:1300 E Jackson Ave Mcallen, TX 78503
+tx:Jones Crossing:1700 Harvey Mitchell Pkwy S College Station, TX 77845
+tx:Justin Road:2001 Justin Rd Flower Mound, TX 75028
+tx:Katy Green:19303 Katy Fwy Houston, TX 77094
+tx:Katy Mills:25601 Nelson Way Katy, TX 77494
+tx:Keller:1002 Keller Pkwy Keller, TX 76248
+tx:Kemah:321 Marina Bay Dr Clear Lake Shores, TX 77565
+tx:Kensington Square:4481 FM 2181 Corinth, TX 76210
+tx:Kerrville:1060 Junction Hwy Kerrville, TX 78028
+tx:Killeen:1400 E Central Texas Expy Killeen, TX 76541
+tx:Kingwood:4594 Kingwood Dr Kingwood, TX 77345
+tx:Knickerbocker:1609 Knickerbocker Rd San Angelo, TX 76904
+tx:Kyle:5289 Kyle Center Dr Kyle, TX 78640
+tx:La Palmera Mall:5488 S Padre Island Dr Ste 1014 Corpus Christi, TX 78411
+tx:La Plaza & South 10th Street:1804 S 10th St Mcallen, TX 78503
+tx:Lake Conroe Parkway:1321 W Davis St Conroe, TX 77304
+tx:Lake Highlands In-Line DT:6176 Retail Rd Ste 100 Dallas, TX 75231
+tx:Lake Houston:19220 W Lake Houston Pkwy Humble, TX 77346
+tx:Lake Jackson:121 Highway 332 W # A Lake Jackson, TX 77566
+tx:Lake Travis:3600 Ranch Road 620 S Ste C Bee Cave, TX 78738
+tx:Lake Woodlands Drive:1660 Lake Woodlands Dr The Woodlands, TX 77380
+tx:Lake Worth (TX):6556 Lake Worth Blvd Lake Worth, TX 76135
+tx:Lakeline Mall:11200 Lakeline Mall Dr Ste Vc2 Cedar Park, TX 78613
+tx:Lamar University:4405 Jimmy Simmons Blvd Setzer Student Center Beaumont, TX 77705
+tx:Laredo:5118 McPherson Rd Laredo, TX 78041
+tx:Las Colinas:5350 N MacArthur Blvd Irving, TX 75038
+tx:LBJ & Midway:12795 Midway Rd Dallas, TX 75244
+tx:League City Towne Center:1640 FM 646 Rd W Dickinson, TX 77539
+tx:Leander:1205 S Highway 183 Leander, TX 78641
+tx:Lebanon & Tollway:5377 Dallas Pkwy Frisco, TX 75034
+tx:Lockheed Martin:1 Lockheed Blvd 50' Cafe Fort Worth, TX 76108
+tx:Longview Mall:3500 McCann Rd Longview, TX 75605
+tx:Louetta Crossing:20608 Interstate 45 Spring, TX 77373
+tx:Louis Henna Blvd Drive-Thru Only:110 Louis Henna Blvd Round Rock, TX 78664
+tx:Love Field:3040 W Mockingbird Ln Dallas, TX 75235
+tx:Lufkin Mall:4600 S Medford Dr Ste 1262 Lufkin, TX 75901
+tx:M.D. Anderson Hospital:1515 Holcombe Blvd Houston, TX 77030
+tx:Magnolia:6543 FM 1488 Rd Magnolia, TX 77354
+tx:Main Street:749 W Main St # FM1171 Lewisville, TX 75067
+tx:Mall Del Norte:5300 North I-35, Suite 171 Laredo, TX 78041
+tx:Mall of Abilene:4310 Buffalo Gap Rd Suite 1442 Abilene, TX 79606
+tx:Mansfield:800 N Walnut Creek Dr Mansfield, TX 76063
+tx:Marbach at 410:8221 Marbach Rd San Antonio, TX 78227
+tx:Market at Springwoods Village:2102 Spring Stuebner Rd Spring Stubner and Holzwarth Spring, TX 77389
+tx:Marketplace at Bob Bullock:1916 Bob Bullock Loop Laredo, TX 78043
+tx:Martin Luther King Drive-Thru Only:503 W Martin Luther King Jr Blvd Austin, TX 78701
+tx:Mason Road:369 S Mason Rd Katy, TX 77450
+tx:McCreless Marketplace:4110 S New Braunfels Ave San Antonio, TX 78223
+tx:McKinney:2011 W University Dr Mckinney, TX 75071
+tx:Medical Center:4715 Medical Dr San Antonio, TX 78229
+tx:Memorial & Dairy Ashford:753 Dairy Ashford Rd Houston, TX 77079
+tx:Memorial City Mall:303 Memorial City Ste 385 Houston, TX 77024
+tx:Mesa Street & Remcon Circle:7597 N Mesa St El Paso, TX 79912
+tx:Mesquite:1600 N Town East Blvd Mesquite, TX 75150
+tx:Meyerland Plaza:5001 Beechnut St Houston, TX 77096
+tx:Mid-County:8701 Memorial Blvd Port Arthur, TX 77640
+tx:Midland Drive:4508 W Loop 250 N Midland, TX 79707
+tx:Midland Park Mall:4511 N Midkiff Rd Ste C19 Midland, TX 79705
+tx:Midlothian:2010 FM 663 Midlothian, TX 76065
+tx:Midwestern State University:3410 Taft Blvd Clark Student Union Wichita Falls, TX 76308
+tx:Missouri City:6124 Highway 6 Missouri City, TX 77459
+tx:Montana Avenue at Joe Battle Blvd.:12240 Montana Ave El Paso, TX 79938
+tx:Morrison Road:4325 N Expressway # 77 Brownsville, TX 78520
+tx:Morton Ranch:2826 W Grand Pkwy N Katy, TX 77449
+tx:Murphy:117 E Fm 544 Murphy, TX 75094
+tx:Mustang Crossing:900 E US Highway 80 Forney, TX 75126
+tx:N. Loop 610 & Shepherd:925 North Loop W Houston, TX 77008
+tx:N. Tarrant Pkwy & Davis Blvd.:9130 N Tarrant Pkwy North Richland Hills, TX 76182
+tx:Nacogdoches:2804 North St Nacogdoches, TX 75965
+tx:Nassau Bay:1900 Nasa Pkwy Houston, TX 77058
+tx:North 31st Street:114 N 31st St Temple, TX 76504
+tx:North Abilene:1750 State Highway 351 Abilene, TX 79601
+tx:North Beltline Road:2711 N Belt Line Rd Irving, TX 75062
+tx:North Collins Street:1505 N Collins St Arlington, TX 76011
+tx:North East Mall:1101 Melbourne Rd Ste 2307 Hurst, TX 76053
+tx:North Garland Crossing:5425 N George Bush Hwy Garland, TX 75044
+tx:North Hills Crossing:10721 Gateway South Blvd El Paso, TX 79924
+tx:North Laredo:2460 Monarch Dr Laredo, TX 78045
+tx:North Mopac & Parmer Lane:12501 N Mopac Exp Austin, TX 78727
+tx:North Rockwall:1979 N Goliad Rockwall, TX 75087
+tx:North Star Mall:7400 San Pedro Ave Ste 10 San Antonio, TX 78216
+tx:NorthPark Center:8687 N Central Expy Ste 2386 Dallas, TX 75225
+tx:Northpark Drive:195 Northpark Dr Kingwood, TX 77339
+tx:Northwest Crossing:13240 Northwest Fwy Houston, TX 77040
+tx:NW Highway:3820 W Northwest Hwy Dallas, TX 75220
+tx:Odessa Town Center:3805 E 42nd St Odessa, TX 79762
+tx:One Allen Center:500 Dallas St Suite T-50 Houston, TX 77002
+tx:Orange (TX):3130 N 16th St Orange, TX 77630
+tx:Palm Valley Blvd:2350 E Palm Valley Blvd Round Rock, TX 78665
+tx:Palmhurst:214 E Mile 3 Rd Palmhurst, TX 78573
+tx:Park Boulevard & Plano Parkway:6408 W Plano Pkwy Plano, TX 75093
+tx:Parkdale Mall:6155 Eastex Fwy Beaumont, TX 77706
+tx:Parkway Village:13412 Briar Forest Dr Houston, TX 77077
+tx:Pavilions North:27 NE Loop 410 San Antonio, TX 78216
+tx:Pearland:10105 Broadway St Pearland, TX 77584
+tx:Pearland Parkway:2660 Pearland Pkwy Pearland, TX 77581
+tx:Pennzoil Place:711 Louisiana St Ste 100 Houston, TX 77002
+tx:Pflugerville:18617 Limestone Commercial Dr Pflugerville, TX 78660
+tx:Pharr:2023 W Interstate 2 Pharr, TX 78577
+tx:Pioneer Parkway:1225 W Pioneer Pkwy Grand Prairie, TX 75051
+tx:Pipeline Road at Loop 820:1475 W Pipeline Rd Hurst, TX 76053
+tx:Plano Parkway:212 W Plano Pkwy Plano, TX 75075
+tx:Pleasure Pier:2501 Seawall Blvd Galveston, TX 77550
+tx:Potranco Road:10634 Potranco Rd San Antonio, TX 78251
+tx:Prairie View A&M University:L.W. Minor Street Memorial Student Center Prairie View, TX 77446
+tx:Presidio Towne Crossing:2401 N Tarrant Pkwy Fort Worth, TX 76177
+tx:Preston & Beltline:14897 Preston Rd Dallas, TX 75254
+tx:Preston & Park:1909 Preston Rd Plano, TX 75093
+tx:Preston Road & Hwy 121:8724 Preston Rd Plano, TX 75024
+tx:Preston Road and Gary Burns:8875 Preston Rd Frisco, TX 75034
+tx:Prestonwood:15235 Montfort Rd Dallas, TX 75248
+tx:Raider Park:312 University Ave Lubbock, TX 79415
+tx:Rayzor Ranch:2410 W University Dr Denton, TX 76201
+tx:Red Oak:200 Sharaf Avenue Red Oak, TX 75154
+tx:RELO - Plano Parkway:300 W Plano Pkwy Plano, TX 75075
+tx:Renaissance Tower:1201 Elm St Ste LL06 Dallas, TX 75270
+tx:Richardson:603 S Plano Rd Richardson, TX 75081
+tx:Richland Mall:6001 W Waco Dr Ste 102 Waco, TX 76710
+tx:Richmond Avenue:5005 Richmond Ave Houston, TX 77056
+tx:Ridge Road:2835 Ridge Rd Rockwall, TX 75032
+tx:Ridgmar Mall:2508 Green Oaks Rd Fort Worth, TX 76116
+tx:Roanoke:1300 N Highway 377 Roanoke, TX 76262
+tx:Rojas:1335 N Zaragoza Rd El Paso, TX 79936
+tx:Rolling Oaks Mall:6909 N Loop 1604 E Ste 2072 San Antonio, TX 78247
+tx:Rosenberg:24734 Southwest Fwy Rosenberg, TX 77471
+tx:Rowlett:2617 Lakeview Pkwy Rowlett, TX 75088
+tx:Ruben Torres:2150 Ruben Torres Sr Blvd Brownsville, TX 78526
+tx:Rufe Snow:5131 Rufe Snow Dr North Richland Hills, TX 76180
+tx:S. Rice and Westpark:5325 S Rice Ave Sage Road and Westpark Toll Houston, TX 77081
+tx:Saginaw:4500 W Bailey Boswell Rd Fort Worth, TX 76179
+tx:Sam Houston State University:1717 Avenue J Campus Dining Service Huntsville, TX 77340
+tx:Saratoga:5929 Saratoga Blvd Corpus Christi, TX 78414
+tx:Sawdust Road:720 Sawdust Rd The Woodlands, TX 77380
+tx:Sawyer Heights:2222 Shearn St Houston, TX 77007
+tx:Schertz:6038 FM 3009 Schertz, TX 78154
+tx:Seguin Road:7010 FM 78 San Antonio, TX 78244
+tx:Shadow Creek Ranch:11629 Shadow Creek Pkwy Pearland, TX 77584
+tx:Sharyland Towne Crossing:2501 E Interstate Highway 2 Mission, TX 78572
+tx:Sherman FSU (TX):3500 N US Highway 75 Sherman, TX 75090
+tx:Sherwood Way:3720 S FM 2288 San Angelo, TX 76901
+tx:Sienna Crossing:9130 Highway 6 Missouri City, TX 77459
+tx:South 31st Street:3303 S 31st St Temple, TX 76502
+tx:South Burleson:111 NW John Jones Dr Burleson, TX 76028
+tx:South College Station:4431 State Highway 6 S College Station, TX 77845
+tx:South Cooper Street:4700 S Cooper St Arlington, TX 76017
+tx:South Coulter Street:4510 S Coulter St Amarillo, TX 79119
+tx:South Loop Crossing:4605 S Medford Dr Lufkin, TX 75901
+tx:South Mopac at US Hwy 290 West:5033-D US 290 West Austin, TX 78735
+tx:South Park Mall (TX):2310 SW Military Dr Ste 108 San Antonio, TX 78224
+tx:South Plains Mall:6002 Slide Rd Ste 68252 Lubbock, TX 79414
+tx:Southern Methodist University (SMU):3300 Dyer St # 101 Dining Services Dallas, TX 75275
+tx:Southlake:2301 E Southlake Blvd Southlake, TX 76092
+tx:Southpark Meadows:161 W Slaughter Ln Ste M Austin, TX 78748
+tx:Southwest Military:2660 SW Military Dr San Antonio, TX 78224
+tx:Spencer Hwy & Burke Rd:3700 Spencer Hwy Pasadena, TX 77504
+tx:Spring Creek & Hwy. 121:7000 W Spring Creek Pkwy Plano, TX 75024
+tx:St. Mary's University:1 Camino Santa Maria St Student Dining Center San Antonio, TX 78228
+tx:Stacy Road:350 E Stacy Rd Allen, TX 75002
+tx:Staples and McArdle:4946 S Staples St Corpus Christi, TX 78411
+tx:Stephen F. Austin University:University Center Vista Dr Room 109 Nacogdoches, TX 75962
+tx:Stone Oak:1555 North FM 1604 East San Antonio, TX 78232
+tx:Stone Ridge:20831 U S 281 San Antonio, TX 78258
+tx:Stonebriar Centre:2601 Preston Rd Ste 2046 Frisco, TX 75034
+tx:Sugar Land:2330 Highway 6 Sugar Land, TX 77478
+tx:Sulphur Springs (TX):130 Shannon Rd E Sulphur Springs, TX 75482
+tx:Summerwood:14335 E Sam Houston Pkwy N Houston, TX 77044
+tx:Sunland Park Mall:750 Sunland Park Dr Ste VC6 El Paso, TX 79912
+tx:Sunrise Mall (BV):2370 N Expressway Ste 1348 Brownsville, TX 78521
+tx:Sunset Mall:4001 Sunset Dr San Angelo, TX 76904
+tx:Sunshine Strip:1814 South Business 77 Sunshine Strip Blvd. Harlingen, TX 78550
+tx:Tarleton State University:1451 W Jones St Stephenville, TX 76401
+tx:Terrell:1300 FM 148 Terrell, TX 75160
+tx:Texarkana FSU (TX):2601 Richmond Rd Texarkana, TX 75503
+tx:Texas A&M Commerce:2200 W Neal St Commerce, TX 75428
+tx:Texas A&M Corpus Christi:6300 Ocean Dr Unit 5763 Corpus Christi, TX 78412
+tx:Texas A&M International University:5201 University Blvd Student Center Food Court Laredo, TX 78041
+tx:Texas A&M University - Memorial Student Center:275 Joe Routt Blvd Memorial Student Center College Station, TX 77843
+tx:Texas A&M University-Kingsville:1050 E Santa Gertrudis St Memorial Student Union Building
+tx:Texas A&M-Ag Cafe:Agronomy Rd College Station, TX 77843
+tx:Texas A&M-SBISA:Agronomy Rd College Station, TX 77843
+tx:Texas Childrens Hospital:6621 Fannin St Foodcourt Houston, TX 77030
+tx:Texas Christian University:2901 Stadium Dr Brown Lupton University Union Fort Worth, TX 76129
+tx:Texas City:3440 Palmer Hwy Texas City, TX 77590
+tx:Texas Health Presbyterian Hospital - Dallas:8200 Walnut Hill Ln Dallas, TX 75231
+tx:Texas Medical Center:6550 Bertner Ave Houston, TX 77030
+tx:Texas Southern University:3100 Cleburne St Sterling Student Life Center Houston, TX 77004
+tx:Texas State University:100 Moore Street Bldg 30 San Marcos, TX 78666
+tx:Texas Tech University:15th and Akron Housing and Dining Services Lubbock, TX 79409
+tx:Texas Tech University - College of Business:703 Flint Ave College of Business Lubbock, TX 79409
+tx:Texas Tech University - Sam's West:3211 18th St. Sam's Place Wiggins Lubbock, TX 79409
+tx:Texas Woman's University:420 Administration Dr. Rm 001, Student Center Denton, TX 76201
+tx:The Colony:3705 Main St The Colony, TX 75056
+tx:The Crossing at Katy Fulshear:6635 FM 1463 Rd Katy, TX 77494
+tx:The Parks at Arlington:3811 S Cooper St Arlington, TX 76015
+tx:The Rim:18203 W Interstate 10 San Antonio, TX 78257
+tx:The Shops at La Cantera:15900 La Cantera Pkwy Ste 12000 San Antonio, TX 78256
+tx:The Woodlands at College Park:3425 College Park Dr Conroe, TX 77384
+tx:The Woodlands Mall:1201 Lake Woodlands Dr Ste 2146 The Woodlands, TX 77380
+tx:Tomball:14314 FM 2920 Rd Tomball, TX 77377
+tx:Town East Mall:3054 Town East Mall Mesquite, TX 75150
+tx:Trinity Mills:2652 Old Denton Rd Carrollton, TX 75007
+tx:Twin Creeks Village:902 W McDermott Dr Allen, TX 75013
+tx:Tyler Junior College:1250 Magnolia Dr New Student Resident Life Center Tyler, TX 75701
+tx:University Blvd Odessa:106 E University Blvd Odessa, TX 79762
+tx:University Blvd.:305 University Blvd Round Rock, TX 78665
+tx:University of Houston-Downtown:1 Main St Houston, TX 77002
+tx:University of Houston-The Satellite:3801 Cullen Blvd Houston, TX 77004
+tx:University of Houston-University Center:4700 Calhoun Rd Room 121, American Cafe/Univ. Ctr. Houston, TX 77004
+tx:University of Mary Hardin - Baylor:900 College St Student Union Building Belton, TX 76513
+tx:University of North Texas:Student Union Bldg Denton, TX 76203
+tx:University of North Texas - Walk Up:1155 Union Cir # 3111040 Denton, TX 76203
+tx:University of Texas - El Paso:2051 Wiggins Way El Paso Natural Gas Conference Center El Paso, TX 79902
+tx:University of Texas - Rio Grande Valley:1201 W University Dr Student Union Building Edinburg, TX 78539
+tx:University of Texas - Tyler:3900 University Blvd University Center Tyler, TX 75799
+tx:University of Texas Medical Branch:301 N University Blvd Galveston, TX 77555
+tx:University of Texas-Arlington:300 W First St Arlington, TX 76019
+tx:University of Texas-Austin:2308 Whitis Ave Stop F4200 24th & Guadalupe Street, Texas Union Austin, TX 78712
+tx:University of Texas-Austin-SAC:2201 Speedway Student Activities Center Austin, TX 78712
+tx:University of Texas-Dallas:2601 N Floyd Rd Founders North Building Richardson, TX 75080
+tx:University of Texas-San Antonio (UTSA):1 Utsa Cir JPL Food Court San Antonio, TX 78249
+tx:University of the Incarnate Word:4301 Broadway St San Antonio, TX 78209
+tx:USAA Cafe H:9800 Fredericksburg Rd McDermott Bldg., C-S-W San Antonio, TX 78288
+tx:Valley Ranch:11877 N Grand Pkwy E New Caney, TX 77357
+tx:Victoria Mall:7800 Hallettsville Highway #155 Ste 155 Victoria, TX 77901
+tx:Village at Westlake:701 S Capital of Texas Hwy Ste L400 West Lake Hills, TX 78746
+tx:Vista Ridge Village:483 E Round Grove Rd Lewisville, TX 75067
+tx:Wall Street:25 Village Cir Midland, TX 79701
+tx:Walnut Avenue:1031 S Walnut Ave New Braunfels, TX 78130
+tx:Watauga:8016 Denton Hwy Watauga, TX 76148
+tx:Waterview Town Center:19245 W Bellfort St Richmond, TX 77407
+tx:Waxahachie:996 W Highway 287 Byp Waxahachie, TX 75165
+tx:Weatherford:2525 S Main St Weatherford, TX 76087
+tx:Weslaco:1200 N Westgate Dr Weslaco, TX 78596
+tx:West 7th at Montgomery Plaza:549 Carroll St Fort Worth, TX 76107
+tx:West End:3210 W Loop 289 Lubbock, TX 79407
+tx:West Longview:1740 W Loop 281 Longview, TX 75604
+tx:West Midland:5120 Andrews Hwy Midland, TX 79703
+tx:West Texas A&M University:2501 4th Ave JBK Student Center Canyon, TX 79016
+tx:Western Center Blvd:2900 Western Center Blvd Fort Worth, TX 76131
+tx:Westgate Mall (TX):7701 W Interstate 40 Ste 132 Amarillo, TX 79121
+tx:Westheimer & Fondren:8609 Westheimer Rd Houston, TX 77063
+tx:Westheimer & Kirkwood:2606 S Kirkwood Rd Houston, TX 77077
+tx:WestPointe Village:1663 W State Highway 46 New Braunfels, TX 78132
+tx:Whispering Creek:6104 N Navarro St Victoria, TX 77904
+tx:White Rock:9111 Garland Rd Dallas, TX 75218
+tx:Wichita Falls:3704 Call Field Rd Wichita Falls, TX 76308
+tx:William P. Hobby Airport:7800 Airport Blvd International Terminal Houston, TX 77061
+tx:Willis:12310 Old Montgomery Rd Willis, TX 77318
+tx:Willow Bend Mall:6121 W Park Blvd Ste FC103 Plano, TX 75093
+tx:Willowbrook Mall:1174 Willowbrook Mall Houston, TX 77070
+tx:Wilson/Beltway 8:9525 N Sam Houston Pkwy E Humble, TX 77396
+tx:Windsong and 380:4420 W University Dr Prosper, TX 75078
+tx:Wylie:400 S Highway 78 Wylie, TX 75098
+tx:Zaragosa Road:1840 N Zaragoza Rd El Paso, TX 79936
+ut:American Fork:183 N West State Rd American Fork, UT 84003
+ut:Brigham Young University:Ernest L. Wilkinson Student Center, BYU Cougareat Food Court Provo, UT 84602
+ut:Centerville:540 N 800 W Centerville, UT 84014
+ut:City Creek Center:28 S State St # FC-101 Salt Lake City, UT 84111
+ut:Cougar & State:484 W Bulldog Blvd Provo, UT 84604
+ut:Dixie State University:225 S 700 E Gardner Center Saint George, UT 84770
+ut:Draper:357 E 12300 S Draper, UT 84020
+ut:Fashion Place:6191 S State St Ste 348 Murray, UT 84107
+ut:Fort Union:1088 E Fort Union Blvd Midvale, UT 84047
+ut:Jordan Landing:7676 S Campus View Dr West Jordan, UT 84084
+ut:Layton:651 W Antelope Dr Layton, UT 84041
+ut:Layton Hills Mall:1201 N Hill Field Rd Suite Fc-07 Layton, UT 84041
+ut:Lehi Pointe:3470 N Digital Dr Lehi, UT 84043
+ut:Logan:1323 N Main St Logan, UT 84341
+ut:Mountain View Village:4627 W Partridge Hill Ln Riverton, UT 84096
+ut:Murray:5175 S State St Murray, UT 84107
+ut:Ogden:1120 Washington Blvd Ogden, UT 84404
+ut:Orem Plaza:121 N State St Orem, UT 84057
+ut:Red Rock Commons:15 S River Rd Ste 500 Saint George, UT 84790
+ut:Riverdale City:4067 Riverdale Rd Riverdale, UT 84405
+ut:South Jordan:11494 S District Dr South Jordan, UT 84095
+ut:South Towne Marketplace:10090 S State St Sandy, UT 84070
+ut:Southern Utah University:351 W University Blvd Sharwan Smith Student Center Cedar City, UT 84720
+ut:Spanish Fork:825 E Highway 6 Spanish Fork, UT 84660
+ut:Station Park:440 N Station Pkwy Farmington, UT 84025
+ut:Sugar House:1206 E 2100 S Salt Lake City, UT 84106
+ut:Taylorsville:5580 S Redwood Rd Taylorsville, UT 84123
+ut:University Mall (UT):575 E University Pkwy Ste M208 Orem, UT 84097
+ut:Utah Valley University:800 W University Pkwy Sorenson Student Center Orem, UT 84058
+ut:Vivint Smart Home Arena Satellite:301 W South Temple Salt Lake City, UT 84101
+ut:West Valley:3246 S 5600 W West Valley City, UT 84120
+va:Apple Blossom Mall:1850 Apple Blossom Dr Winchester, VA 22601
+va:Atlee Station:9080 Times Dispatch Blvd Mechanicsville, VA 23116
+va:Ballston Quarter:671 N Glebe Rd Ste 1270 Arlington, VA 22203
+va:Battlefield Blvd.:1516 Sams Cir Chesapeake, VA 23320
+va:Bonsack:3814 Challenger Ave Roanoke, VA 24012
+va:Bristol:3483 Lee Hwy Bristol, VA 24202
+va:Bristow:9939 Sowder Village Sq Manassas, VA 20109
+va:Broad Creek Crossing:1205 N Military Hwy Norfolk, VA 23502
+va:Burke Centre:5815 Burke Centre Pkwy Burke, VA 22015
+va:Candlers Mountain Road Drive-Thru Only:2901 Candlers Mountain Rd Lynchburg, VA 24502
+va:Celebrate Virginia:1094 International Pkwy Fredericksburg, VA 22406
+va:Center of the Universe:815 England St Ashland, VA 23005
+va:Central Park:1698 Carl D Silver Pkwy Fredericksburg, VA 22401
+va:Chantilly:4201 Chantilly Shopping Center Chantilly, VA 20151
+va:Chantilly Air and Space:3454 Historic Sully Way Chantilly, VA 20151
+va:Charlottesville Fashion Square:1576 Rio Rd E Charlottesville, VA 22901
+va:Chesapeake Square Mall:4200 Portsmouth Blvd Ste 516 Chesapeake, VA 23321
+va:Chester:2900 W Hundred Rd Chester, VA 23831
+va:Chesterfield Plaza:1590 Koger Center Blvd North Chesterfield, VA 23235
+va:Chippenham Hospital:7101 Jahnke Rd Richmond, VA 23225
+va:Christiansburg:2200 N Franklin St Christiansburg, VA 24073
+va:Christopher Newport:12423 Warwick Blvd Newport News, VA 23606
+va:Christopher Newport University:1 University Pl Newport News, VA 23606
+va:Coliseum Drive:2140 Coliseum Dr Hampton, VA 23666
+va:Colonial Heights:661 Southpark Blvd Colonial Heights, VA 23834
+va:Crystal City In-Line:2200 Crystal Dr Ste G Arlington, VA 22202
+va:Culpeper Colonnade:15275 Creativity Dr Culpeper, VA 22701
+va:Danville Mall:325 Piedmont Dr Danville, VA 24540
+va:Dulles 28 and Waxpool Road:22015 Dulles Retail Plz Sterling, VA 20166
+va:Dulles Town Center Mall:21100 Dulles Town Cir Ste 244 Dulles, VA 20166
+va:Dulles Town Crossing:45440 Dulles Crossing Plz Sterling, VA 20166
+va:Dumfries:3880 Fettler Park Dr Dumfries, VA 22025
+va:Edinburgh Commons:205 Carmichael Way Chesapeake, VA 23322
+va:Fair Lakes (VA):4516 Fair Knoll Dr Fairfax, VA 22033
+va:Fair Oaks Mall:11750 Lee Jackson Memorial Hwy Fairfax, VA 22033
+va:Fairfax Circle:9509 Fairfax Blvd Fairfax, VA 22031
+va:Frederick Blvd.:901 Frederick Blvd Portsmouth, VA 23707
+va:Fredericksburg:4220 Plank Rd Fredericksburg, VA 22407
+va:Garrisonville:25 Dunn Dr Stafford, VA 22556
+va:General Booth Blvd.:1524 General Booth Blvd Virginia Beach, VA 23454
+va:George Mason University (SUB 1):4400 University Dr Student Union Building 1 Fairfax, VA 22030
+va:George Washington:44835 Lakeview Overlook Plz Ashburn, VA 20147
+va:Ghent:1600 Monticello Ave Norfolk, VA 23510
+va:Gloucester:6780 Waltons Ln Gloucester, VA 23061
+va:Grassfield:600 Grassfield Pkwy Chesapeake, VA 23322
+va:Greenbrier Mall (VA):1401 Greenbrier Pkwy Ste 2010 Chesapeake, VA 23320
+va:Greenbrier Parkway:1428 Greenbrier Pkwy Chesapeake, VA 23320
+va:Hampton University:135 Marshall Ave Queen and Tyler Streets Hampton, VA 23668
+va:Harbour View:6212 College Dr Suffolk, VA 23435
+va:Harrisonburg:1691 E Market St Harrisonburg, VA 22801
+va:Haygood Shopping Center:1097 Independence Blvd Virginia Beach, VA 23455
+va:Haymarket:15180 Washington St Haymarket, VA 20169
+va:Hull Street at Brandermill:12301 Chattanooga Plz Midlothian, VA 23112
+va:Indian River Road:5409 Indian River Rd Virginia Beach, VA 23464
+va:James Madison University:Msc 902 Dining Services Harrisonburg, VA 22807
+va:Kings Dominion:16000 Theme Park Way Doswell, VA 23047
+va:Lake Ridge:4101 Old Bridge Rd Woodbridge, VA 22192
+va:Lansdowne Town Center (VA):19313 Front Street Leesburg, VA 20176
+va:Leesburg:1002 Edwards Ferry Rd NE Leesburg, VA 20176
+va:Liberty University - Tilley:1971 University Blvd Tilley Student Center Lynchburg, VA 24502
+va:Longwood University:156 S South St Farmville, VA 23901
+va:Lynnhaven Mall:701 Lynnhaven Pkwy Virginia Beach, VA 23452
+va:Main Street (VA):1018 N Main St Suffolk, VA 23434
+va:Mall at Chesterfield Towne Center:11500 Midlothian Tpke Ste 478 North Chesterfield, VA 23235
+va:Marketplace at Hilltop:749 First Colonial Rd Virginia Beach, VA 23451
+va:Martinsville:400 Liberty St Martinsville, VA 24112
+va:Mechanicsville:7285 Battle Hill Dr Mechanicsville, VA 23111
+va:Medical College of Virginia:403 N 13th St MCV Campus Richmond, VA 23298
+va:Mercury Boulevard:110 Market Place Dr Hampton, VA 23666
+va:Monticello Marketplace:4610 Monticello Ave Williamsburg, VA 23188
+va:Mooretown Road:6732 Mooretown Rd Williamsburg, VA 23188
+va:Norfolk State University:700 Park Ave Norfolk, VA 23504
+va:North Point Village:1494 Northpoint Village Ctr Reston, VA 20194
+va:Northampton Blvd.:1501 Premium Outlets Blvd Norfolk, VA 23502
+va:Old Dominion University:1200 Webb Ctr Norfolk, VA 23529
+va:Pantops:1626 Richmond Rd Charlottesville, VA 22911
+va:Parham Road:1529 N Parham Rd Richmond, VA 23229
+va:Parkway Plaza:877 Lynnhaven Pkwy Virginia Beach, VA 23452
+va:Patrick Henry Mall:12300 Jefferson Ave Spc 740-F1 Newport News, VA 23602
+va:Pleasant Valley Road:2230 S Pleasant Valley Rd Winchester, VA 22601
+va:Portsmouth Blvd.:4204 Portsmouth Blvd Chesapeake, VA 23321
+va:Purcellville:165 Purcellville Gateway Dr Purcellville, VA 20132
+va:Radford University:Fairfax Street Dalton Hall Radford, VA 24142
+va:Regency Square (VA):1404 N Parham Rd Ste Fc101 Richmond, VA 23229
+va:River Ridge Mall:3405 Candlers Mountain Rd Ste FC6 Lynchburg, VA 24502
+va:Riverside Drive:3535 Riverside Dr Danville, VA 24541
+va:Rutherford Crossing:112 Market St Winchester, VA 22603
+va:Ryan Park:43520 Yukon Dr Ashburn, VA 20147
+va:Salem:1353 W Main St Salem, VA 24153
+va:Salem Crossing:2013 Lynnhaven Pkwy Virginia Beach, VA 23456
+va:Seven Corners In-Line:6108C Arlington Blvd Falls Church, VA 22044
+va:Short Pump Crossing:3380 Pump Rd Richmond, VA 23233
+va:Short Pump Town Center:11800 W Broad St Ste 1008 Richmond, VA 23233
+va:Signal Hill:9506 Liberia Ave Manassas, VA 20110
+va:South Riding:43310 Defender Dr South Riding, VA 20152
+va:Southern Hills Drive:4110 Southern Hills Dr Sw Roanoke, VA 24014
+va:Southpark (VA):384 Southpark Cir Spc B-10 Colonial Heights, VA 23834
+va:Southpoint:9900 Southpoint Pkwy Fredericksburg, VA 22407
+va:Spotsylvania Towne Centre:8020 Spotsylvania Mall Fredericksburg, VA 22407
+va:Springfield In-Line DT:6681A Backlick Rd Springfield, VA 22150
+va:Staunton [VA]:101 George Cochran Pkwy Staunton, VA 24401
+va:Stratford Hills:7125 Forest Hill Ave Richmond, VA 23225
+va:Sudley Manor Drive:10677 Sudley Manor Dr Manassas, VA 20109
+va:Sugarland Crossing:46920 Community Plz Sterling, VA 20164
+va:Sully Plaza:13962 Lee Jackson Memorial Hwy Chantilly, VA 20151
+va:The Shops at Willow Lawn:1601 Willow Lawn Dr Suite 301A Richmond, VA 23230
+va:Tuckernuck Plaza:9100 W Broad St Richmond, VA 23294
+va:Tyson's West In-Line:8461 Leesburg Pike Ste B Vienna, VA 22182
+va:University of Virginia:180 Mccormick Rd First Floor Pavilion 11 Charlottesville, VA 22904
+va:University of Virginia - Wise:1 College Ave Wise, VA 24293
+va:Valley Health Winchester Medical Center:1836 Amherst St Cafe at Winchester Medical Center Winchester, VA 22601
+va:Valley View Boulevard:4805 Valley View Blvd NW Roanoke, VA 24012
+va:Valley View Mall:4802 Valley View Blvd NW Suite UB105 Roanoke, VA 24012
+va:Victory Boulevard:5003A Victory Blvd Yorktown, VA 23693
+va:Vienna on Maple:538 Maple Ave W Vienna, VA 22180
+va:Village Commons:12160 Sunset Hills Rd Reston, VA 20190
+va:Virginia Beach Blvd:4752 Virginia Beach Blvd Virginia Beach, VA 23462
+va:Virginia Beach Blvd Drive-Thru Only:4393 Virginia Beach Blvd Virginia Beach, VA 23462
+va:Virginia Center:10176 Brook Rd Glen Allen, VA 23059
+va:Virginia Commonwealth University:900 Park Ave VCU Dining Services Richmond, VA 23284
+va:Virginia Gateway:5015 Wellington Rd Gainesville, VA 20155
+va:Virginia State University:1 Hayden St Foster Hall Student Center Petersburg, VA 23803
+va:Virginia Tech:200 Owens Hall Owens Dining Center Blacksburg, VA 24061
+va:Wards Road:4003 Wards Rd Lynchburg, VA 24502
+va:Warrenton:256 W Lee Hwy Warrenton, VA 20186
+va:Waynesboro:710 Shenandoah Village Dr Waynesboro, VA 22980
+va:Westchester Commons:132 Schofield Dr Midlothian, VA 23113
+va:White Oak Village:4443 S Laburnum Ave Richmond, VA 23231
+va:William & Mary:249 Richmond Rd Tribe Square Williamsburg, VA 23185
+va:Willow Lawn:4920 W Broad St Richmond, VA 23230
+va:Winterpock:14101 Hull Street Rd Chesterfield, VA 23832
+va:Woodbridge:2425 Prince William Pkwy Woodbridge, VA 22192
+va:Woodbrook Drive:350 Woodbrook Dr Charlottesville, VA 22901
+va:Yoder Plaza:12128 Jefferson Ave Newport News, VA 23602
+dc:Capitol Hill East Drive-Thru Only:1401 Maryland Ave NE Washington, DC 20002
+dc:Catholic University:620 Michigan Ave Ne Washington, DC 20064
+dc:Dakota Crossing:2410 Market St NE Washington, DC 20018
+dc:DC USA In-Line:3100 14th St NW Washington, DC 20010
+dc:Dupont In-Line:1214 18th St NW Washington, DC 20036
+dc:George Washington University:2121 H St Nw District House Washington, DC 20052
+dc:Georgetown University:3800 Reservoir Rd Nw Hoya Commons Food Court Washington, DC 20007
+dc:Ronald Reagan Washington National Airport:1 Aviation Cir Washington, DC 20001
+dc:Tenleytown In-Line:4505 Wisconsin Ave NW Washington, DC 20016
+dc:Union Station:50 Massachusetts Ave Ne Washington, DC 20002
+wa:272nd at Wax:17440 SE 272nd St Covington, WA 98042
+wa:38th & Steele:3902 S Steele St Tacoma, WA 98409
+wa:Aurora Ave N & 130th:12801 Aurora Ave N Seattle, WA 98133
+wa:Bothell Canyon Park:1220 228th St SE Bothell, WA 98021
+wa:Bridgeport & 100th:5429 100th St SW Lakewood, WA 98499
+wa:Cascade Park:16400 SE Mill Plain Blvd Vancouver, WA 98684
+wa:Celebration at Federal Way:32025 Pacific Hwy S Federal Way, WA 98003
+wa:Fircrest:6602 19th St W Fircrest, WA 98466
+wa:Gonzaga University:502 E Boone Ave Spokane, WA 99258
+wa:I-5 & 88th Marysville:8810 36th Ave NE Marysville, WA 98270
+wa:Lynnwood:3026 196th St SW Lynnwood, WA 98036
+wa:Northeast 8th Street:785 116th Ave NE Bellevue, WA 98004
+wa:Puyallup:104 39th Ave SW Puyallup, WA 98373
+wa:Southcenter Parkway:17333 Southcenter Pkwy Tukwila, WA 98188
+wa:Totem Lake:12026 NE 124th St Kirkland, WA 98034
+wv:Beckley Galleria:1300 N Eisenhower Dr Beckley, WV 25801
+wv:Charleston Town Center:3000 Charleston Town Ctr # 3011 Charleston, WV 25389
+wv:Crossroads Mall (WV):31 Crossroads Mall Mount Hope, WV 25880
+wv:Emily Drive:310 Emily Dr Clarksburg, WV 26301
+wv:Fairmont State University:1201 Locust Ave Falcon Center Fairmont, WV 26554
+wv:Foxcroft Ave:1005 Foxcroft Ave Martinsburg, WV 25401
+wv:Grand Central Mall:100 Grand Central Mall # F140 F140 Grand Central Mall Vienna, WV 26105
+wv:Harper Road:100 Hylton Ln Beckley, WV 25801
+wv:Highlands:110 Cabela Dr Triadelphia, WV 26059
+wv:Huntington Mall:385 Huntington Mall Barboursville, WV 25504
+wv:Marshall University:1 John Marshall Dr Huntington, WV 25755
+wv:Meadowbrook Mall:2399 Meadowbrook Mall Ste 620 Bridgeport, WV 26330
+wv:Melody Farms Road:148 Melody Farms Rd Barboursville, WV 25504
+wv:Mercer Mall:261 Mercer Mall Rd Suite 515 Bluefield, WV 24701
+wv:Morgantown Mall:9415 Mall Rd Morgantown, WV 26501
+wv:Patteson Drive:334 Patteson Dr Morgantown, WV 26505
+wv:Princeton:750 Oakvale Rd Princeton, WV 24740
+wv:Ranson:156 Joshua M Freeman Blvd Ranson, WV 25438
+wv:Southridge Center:2509 Mountaineer Blvd Charleston, WV 25309
+wv:University Town Centre (WV):835 Sesame Drive Morgantown, WV 26501
+wv:Vienna:210 Grand Central Ave Vienna, WV 26105
+wv:West Virginia University:1550 University Ave Mountainlair Student Center Morgantown, WV 26506
+wv:West Virginia University Health Science Center:1 Medical Center Dr Morgantown, WV 26506
+wi:124th and Capitol:12625 W Capitol Dr Brookfield, WI 53005
+wi:Appleton:3775 W College Ave Appleton, WI 54914
+wi:Brookfield Square:1 N Moorland Rd Brookfield, WI 53005
+wi:Delafield (WI):2980 Golf Court Delafield, WI 53018
+wi:Drexel Town Square:150 W Town Square Way Oak Creek, WI 53154
+wi:East Madison:4212 E Washington Ave Madison, WI 53704
+wi:Fiserv Forum OSL:1111 N Vel R Phillips Ave Milwaukee, WI 53203
+wi:Greendale:5351 S 76th St Greendale, WI 53129
+wi:Pewaukee (WI):1454 Capitol Dr Pewaukee, WI 53072
+wi:Pleasant Prairie (WI):9114 76th St Pleasant Prairie, WI 53158
+wi:Racine:5315 Washington Ave Mount Pleasant, WI 53406
+wi:West Allis Center:2645 S 108th St West Allis, WI 53227
+wi:West Towne:430 S Gammon Rd Madison, WI 53719
+wy:Dell Range:4435 Windmill Rd Cheyenne, WY 82009
+wy:Frontier Mall:1400 Dell Range Blvd Spc 89 Cheyenne, WY 82009
