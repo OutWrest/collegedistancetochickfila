@@ -1,3 +1,5 @@
+# Use pypy3 or prepare to leave your computer for hours
+
 from scrape import Scrape
 import re
 
@@ -25,7 +27,7 @@ def scrapeState(state):
 
 every_chickfila_in_the_country = [scrapeState(state) for state in [re.search(r"\((.*)\)", str(state))[0].replace('(', '').replace(')', '').lower() for state in sc.scrape(endpoint, 'li') if state.a and state.a.has_attr('href') and '/locations/browse/' == state.a['href'][:len('/locations/browse/')]]]
 
-with open('every_chickfila_in_the_country.txt', 'w') as f:
+with open('every_chikfila_in_the_country.txt', 'w') as f:
     for i, state in enumerate(every_chickfila_in_the_country):
         for store in state:
             f.write("{}:{}:{}\n".format(states[i], store[0], store[1]))
